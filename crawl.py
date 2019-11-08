@@ -12,7 +12,7 @@ import sys
 import csv
 
 chrome_options = Options()  
-chrome_options.add_argument("--headless") 
+# chrome_options.add_argument("--headless") 
 driver = webdriver.Chrome(os.path.abspath('/home/trungdunghoang/chromedriver'), chrome_options=chrome_options)
 
 keyword = input("Query:")
@@ -50,5 +50,23 @@ with open(os.path.join('output', keyword.replace(' ','_')+'.csv'), 'w') as f:
             row.append(-1)
         rows.append(row)
     writer.writerows(rows)
-f.close()           
+f.close()  
+
+datadir = os.path.join('output',keyword.replace(' ','_'))
+if not os.path.isdir(datadir):
+    os.mkdir(datadir)
+
+for row in tqdm(rows):
+    title = row[1]
+    url = row[2]
+    driver.get(url)
+    try:
+        a = driver.find_element_by_xpath("//div[@class='buttons row']/div/a")
+        driver.get(a.get_attribute('href'))
+    except:
+        continue
+    content = driver.find_element_by_xpath("//div[@class='l-content']")
+    with open(os.path.join(datadir, title.replace(' ','_')+'.txt'),'w') as f:
+        f.write(content.text)
+
 driver.close()
