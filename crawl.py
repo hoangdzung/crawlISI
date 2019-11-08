@@ -34,6 +34,7 @@ while(len(results)<n_results):
 with open(os.path.join('output', keyword.replace(' ','_')+'.csv'), 'w') as f:
     writer = csv.writer(f)
     writer.writerow(['Date', 'Title', 'PaperLink', 'Journal/Conference', 'JournalLink','Citations', 'Score'])
+    rows = []
     for result in results[1:]:
         elems = result.find_elements_by_xpath("./*")
         row = [elems[0].text, elems[1].text, elems[1].get_attribute('href'), \
@@ -47,7 +48,7 @@ with open(os.path.join('output', keyword.replace(' ','_')+'.csv'), 'w') as f:
             row.append(int(elems[3].text))
         except:
             row.append(-1)
-        writer.writerow(row)
-
+        rows.append(row)
+    writer.writerows(rows)
 f.close()           
 driver.close()
