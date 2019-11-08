@@ -1,0 +1,36 @@
+The impact of Knowledge Management on Organizational Productivity: A Case Study on Koosar Bank of Iran
+By:Torabi, F (Torabi, Fatemeh)[ 1 ] ; El-Den, J (El-Den, Jamal)[ 2 ]
+View ResearcherID and ORCID
+4TH INFORMATION SYSTEMS INTERNATIONAL CONFERENCE (ISICO 2017)
+Edited by:Lwin, KT
+Book Series: Procedia Computer Science
+Volume: 124 Pages: 300-310
+DOI: 10.1016/j.procs.2017.12.159
+Published: 2017
+Document Type:Proceedings Paper
+Conference
+Conference: 4th Information Systems International Conference (ISICO) - Innovation of Information Systems - Visions, Opportunities and Challenges
+Location: Bali, INDONESIA
+Date: NOV 06-08, 2017
+Sponsor(s):Inst Teknologi Sepuluh Nopember, Dept Informat Syst
+Abstract
+Knowledge is becoming a valuable asset for most organizations and the quest to manage this asset is gaining popularity among researchers and management. Organizational management's main objective is to ensure effective and efficient use of its diverse resources such as labor, capital, materials, energy and information in their quest to achieve competitiveness as well as to increase productivity that must be managed. In today's rapid technological change, companies are in constant struggle to maintain competitive advantage through market differentiation by providing superior products and services. The management in organizations is increasing their focus on employees' know-how, past experiences and expertise in their quest to excel in achieving their goal. In short, Knowledge has become an integral asset for most organizational functionalities. Knowledge management promises to create the proper structure and the necessary technological infrastructure in organizations and human driven placement. This research investigates the role of "tacit" knowledge sharing on organizational productivity. Accordingly, a framework was developed and hypotheses were drawn and tested where results demonstrated interesting insights into the role of sharing on organizational productivity. The survey, which was conducted at Koosa Bank of Iran, demonstrated that the employees' intension to share and consequently the sharing of tacit knowledge has direct positive impacts on productivity. In addition, our analysis demonstrated that not only productivity would increase as a result of knowledge sharing, but also employees' innovative contributions increased as a result of exposure to others' knowledge, expertise, and experiences. (C) 2018 The Authors. Published by Elsevier B.V.
+Keywords
+Author Keywords:Knowledge Management; Productivity; Knowledge Culture; Tacit and Explicit Knowledge
+KeyWords Plus:CULTURE; PERFORMANCE; INFORMATION; TECHNOLOGY; INNOVATION
+Author Information
+Reprint Address: El-Den, J (reprint author)
+Charles Darwin Univ, Ellengowan Dr, Casuarina, NT 0810, Australia.
+
+Addresses:
+[ 1 ] Putra Malaysia Univ, Jalan Upm, Serdang 43400, Selangor, Malaysia
+
+[ 2 ] Charles Darwin Univ, Ellengowan Dr, Casuarina, NT 0810, Australia
+
+E-mail Addresses:jamal.el-den@cdu.edu.au
+Publisher
+ELSEVIER SCIENCE BV, SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+Categories / Classification
+Research Areas:Business & Economics; Communication; Information Science & Library Science
+Web of Science Categories:Business; Communication; Information Science & Library Science
+See more data fields

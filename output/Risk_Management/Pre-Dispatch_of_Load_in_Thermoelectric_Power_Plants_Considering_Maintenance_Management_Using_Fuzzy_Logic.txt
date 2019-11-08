@@ -1,0 +1,37 @@
+Pre-Dispatch of Load in Thermoelectric Power Plants Considering Maintenance Management Using Fuzzy Logic
+By:Fonseca, M (Fonseca Junior, Milton)[ 1 ] ; Bezerra, UH (Bezerra, Ubiratan Holanda)[ 2 ] ; Brito, JD (Brito Junior, Jorge De Almeida)[ 3 ] ; Leite, JC (Leite, Jandecy Cabral)[ 3 ] ; Nascimento, MHR (Reis Nascimento, Manoel Henrique)[ 3 ]
+View ResearcherID and ORCID
+IEEE ACCESS
+Volume: 6 Pages: 41379-41390
+DOI: 10.1109/ACCESS.2018.2854612
+Published: 2018
+Document Type:Article
+Abstract
+This paper presents a new method for load pre-dispatch considering the technical conditions of engines in thermoelectric power plants by combining several maintenance and diagnostic techniques and using computational intelligence. A diagnosis of the technical conditions of the engines is performed using a lubricant analysis, vibration analysis, and thermography. With these data from a statistical analysis, it is possible to predict when an engine will fail and to consider this phenomenon in the load predispatch. To increase the engine reliability and power supply, a maintenance management program is developed using MANAGEMENT tools, applying only 4 total productive maintenance pillars and combining them with predictive maintenance and diagnostics, thus reducing failures in plant equipment. Some results achieved after this implementation are as follows: a reduction in the annual cost of maintenance, a reduction in the corrective maintenance, an increase in the mean time between failures, and a decrease in the mean time to repair in all areas. In addition, the pre-dispatch ensures that the demanded power is met with a high degree of reliability and quality, and at minimal cost.
+Keywords
+Author Keywords:Economic load dispatch; management maintenance program; electric generators; TPM power plants; fuzzy logic
+KeyWords Plus:FAULT; MACHINE; SYSTEM; MODEL; RISK
+Author Information
+Reprint Address: Fonseca, M (reprint author)
+Fed Univ Para UFPA, Postgrad Program Elect Engn, BR-66075110 Belem, Para, Brazil.
+
+Addresses:
+[ 1 ] Fed Univ Para UFPA, Postgrad Program Elect Engn, BR-66075110 Belem, Para, Brazil
+
+[ 2 ] Fed Univ Para UFPA, Ctr Excellence Energy Efficiency, Amazon, BR-66077830 Belem, Para, Brazil
+
+       [ 3 ] Amazon, Inst Technol & Educ Galileo, Res Dept, BR-69020030 Manaus, Amazonas, Brazil
+E-mail Addresses:milton.fonseca@eletrobrasamazonas.com
+Funding
+Funding Agency Grant Number
+FAPEAM   
+UFPA   
+ELETROBRAS   
+ITEGAM   
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Computer Science; Engineering; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+See more data fields

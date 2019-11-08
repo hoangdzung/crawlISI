@@ -1,0 +1,27 @@
+A perspective on applications of in-memory analytics in supply chain management
+By:Hahn, GJ (Hahn, G. J.)[ 1 ] ; Packowski, J (Packowski, J.)[ 2 ]
+View ResearcherID and ORCID
+DECISION SUPPORT SYSTEMS
+Volume: 76 Pages: 45-52
+DOI: 10.1016/j.dss.2015.01.003
+Published: AUG 2015
+Document Type:Article
+Abstract
+Big data, advanced analytics, and in-memory database technology are on the agenda of top management since they are seen as key enablers for enhanced business decision-making. In this paper, we provide a comprehensive perspective on applications of in-memory analytics in the field of supply chain management (SCM) that use the aforementioned concepts. Our contribution is threefold: First, we develop a top-down framework to position in-memory analytics applications against extant IT systems in SCM. Second, we conduct a bottom-up categorization of 41 in-memory analytics applications in SCM to provide supporting empirical evidence of the efficacy of the framework. Third, by contrasting top-down and bottom-up perspectives we derive implications for research and industrial practice. (C) 2015 Elsevier B.V. All rights reserved.
+Keywords
+Author Keywords:Business analytics; In-memory database systems; Supply chain management; Advanced planning; Business intelligence
+KeyWords Plus:DECISION-SUPPORT-SYSTEMS; BIG DATA; BUSINESS INTELLIGENCE; INFORMATION; INSIGHTS
+Author Information
+Reprint Address: Hahn, GJ (reprint author)
+       Schloss, D-68131 Mannheim, Germany.
+Addresses:
+[ 1 ] Univ Mannheim, CAMELOT Management Consultants Endowed Assistant, Sch Business, Mannheim, Germany
+
+       [ 2 ] CAMELOT Management Consultants AG, Mannheim, Germany
+E-mail Addresses:hahn@bwl.uni-mannheim.de; jp@camelot-mc.com
+Publisher
+ELSEVIER SCIENCE BV, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+Categories / Classification
+Research Areas:Computer Science; Operations Research & Management Science
+Web of Science Categories:Computer Science, Artificial Intelligence; Computer Science, Information Systems; Operations Research & Management Science
+See more data fields

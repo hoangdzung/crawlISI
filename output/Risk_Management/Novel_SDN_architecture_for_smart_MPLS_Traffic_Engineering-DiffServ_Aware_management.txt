@@ -1,0 +1,28 @@
+Novel SDN architecture for smart MPLS Traffic Engineering-DiffServ Aware management
+By:Bahnasse, A (Bahnasse, Ayoub)[ 1 ] ; Louhab, FE (Ezzahraa Louhab, Fatima)[ 1 ] ; Oulahyane, HA (Ait Oulahyane, Hafsa)[ 1 ] ; Talea, M (Talea, Mohamed)[ 1 ] ; Bakali, A (Bakali, Assia)[ 2 ]
+View ResearcherID and ORCID
+FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+Volume: 87 Pages: 115-126
+DOI: 10.1016/j.future.2018.04.066
+Published: OCT 2018
+Document Type:Article
+Abstract
+Large scale networks are still a major challenge for management, guarantee a good level of Quality of Service (QoS) and especially optimization (rational use of network resources). Multi-Protocol Label Switching (MPLS), mainly used in the backbone of Internet service providers, must meet these three major challenges. Software-Defined Network (SDN), is a paradigm that allows, through the principle of orchestration and layers abstraction, to manage large scale networks through specific protocols. This paper presents a new SDN-based architecture for managing an MPLS Traffic Engineering Diffserv Aware (DS-TE) network. The architecture manages the QoS and routing with QoS constraints, following a new smart and dynamic model of allocation of the bandwidth (Smart Alloc). The proposed architecture is suitable for SDN equipment and especially the legacy equipment. We tested our architecture by simulation on a hybrid network made up of SDN equipment and another legacy. The results of the simulation showed that thanks to our architecture we can not only efficiently manage hybrid architectures but also achieve good QoS levels for convergent traffic. The performance evaluation was performed on VoIP, video, HITP, and ICMP traffic increasing packet load.(C) 2018 Elsevier B.V. All rights reserved.
+Keywords
+Author Keywords:MPLS; SDN; Bandwidth allocation; Diffserv aware TE
+KeyWords Plus:MODEL
+Author Information
+Reprint Address: Bahnasse, A (reprint author)
+Hassan II Univ, Fac Sci Ben MSik, Lab LTI, Casablanca, Morocco.
+
+Addresses:
+[ 1 ] Hassan II Univ, Fac Sci Ben MSik, Lab LTI, Casablanca, Morocco
+
+       [ 2 ] Naval Royal Sch, Higher Educ, Casablanca, Morocco
+E-mail Addresses:a.bahnasse@gmail.com
+Publisher
+ELSEVIER SCIENCE BV, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Theory & Methods
+See more data fields

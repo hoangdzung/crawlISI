@@ -1,0 +1,40 @@
+The Differential Effects of Eicosapentaenoic Acid and Docosahexaenoic Acid on Cardiometabolic Risk Factors: A Systematic Review
+By:Innes, JK (Innes, Jacqueline K.)[ 1 ] ; Calder, PC (Calder, Philip C.)[ 1,2,3 ]
+View ResearcherID and ORCID
+INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+Volume: 19 Issue: 2
+Article Number: 532
+DOI: 10.3390/ijms19020532
+Published: FEB 2018
+Document Type:Review
+Abstract
+A large body of evidence supports the cardioprotective effects of the long-chain omega-3 polyunsaturated fatty acids (PUFAs), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA). There is increasing interest in the independent effects of EPA and DHA in the modulation of cardiometabolic risk factors. This systematic review aims to appraise the latest available evidence of the differential effects of EPA and DHA on such risk factors. A systematic literature review was conducted up to May 2017. Randomised controlled trials were included if they met strict eligibility criteria, including EPA or DHA > 2 g/day and purity 90%. Eighteen identified articles were included, corresponding to six unique studies involving 527 participants. Both EPA and DHA lowered triglyceride concentration, with DHA having a greater triglyceride-lowering effect. Whilst total cholesterol levels were largely unchanged by EPA and DHA, DHA increased high-density lipoprotein (HDL) cholesterol concentration, particularly HDL2, and increased low-density lipoprotein (LDL) cholesterol concentration and LDL particle size. Both EPA and DHA inhibited platelet activity, whilst DHA improved vascular function and lowered heart rate and blood pressure to a greater extent than EPA. The effects of EPA and DHA on inflammatory markers and glycaemic control were inconclusive; however both lowered oxidative stress. Thus, EPA and DHA appear to have differential effects on cardiometabolic risk factors, but these need to be confirmed by larger clinical studies.
+Keywords
+Author Keywords:eicosapentaenoic acid; docosahexaenoic acid; omega-3 polyunsaturated fatty acids; cardiometabolic risk factor; systematic review
+KeyWords Plus:ALPHA-LINOLENIC ACID; POLYUNSATURATED FATTY-ACIDS; CARDIOVASCULAR-DISEASE RISK; CORONARY-HEART-DISEASE; LDL PARTICLE-SIZE; FISH-OIL; BLOOD-PRESSURE; OMEGA-3 INDEX; DENSITY-LIPOPROTEIN; VASCULAR FUNCTION
+Author Information
+Reprint Address: Calder, PC (reprint author)
+Univ Southampton, Fac Med, Human Dev & Hlth Acad Unit, Southampton SO16 6YD, Hants, England.
+
+Reprint Address: Calder, PC (reprint author)
+Univ Hosp Southampton NHS Fdn Trust, Natl Inst Hlth Res, Southampton Biomed Res Ctr, Southampton SO16 6YD, Hants, England.
+
+
+Reprint Address: Calder, PC (reprint author)
+Univ Southampton, Southampton SO16 6YD, Hants, England.
+
+Addresses:
+[ 1 ] Univ Southampton, Fac Med, Human Dev & Hlth Acad Unit, Southampton SO16 6YD, Hants, England
+
+[ 2 ] Univ Hosp Southampton NHS Fdn Trust, Natl Inst Hlth Res, Southampton Biomed Res Ctr, Southampton SO16 6YD, Hants, England
+
+
+[ 3 ] Univ Southampton, Southampton SO16 6YD, Hants, England
+
+E-mail Addresses:innesjackie@gmail.com; pcc@soton.ac.uk
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Biochemistry & Molecular Biology; Chemistry
+Web of Science Categories:Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+See more data fields

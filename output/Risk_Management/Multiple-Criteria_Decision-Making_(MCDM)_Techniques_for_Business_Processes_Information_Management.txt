@@ -1,0 +1,31 @@
+Multiple-Criteria Decision-Making (MCDM) Techniques for Business Processes Information Management
+By:Zavadskas, EK (Zavadskas, Edmundas Kazimieras)[ 1,2 ] ; Antucheviciene, J (Antucheviciene, Jurgita)[ 1 ] ; Chatterjee, P (Chatterjee, Prasenjit)[ 3 ]
+View ResearcherID and ORCID
+INFORMATION
+Volume: 10 Issue: 1
+Article Number: 4
+DOI: 10.3390/info10010004
+Published: JAN 2019
+Document Type:Editorial Material
+Abstract
+Information management is a common paradigm in modern decision-making. A wide range of decision-making techniques have been proposed in the literature to model complex business processes. In this Special Issue, 16 selected and peer-reviewed original research articles contribute to business information management in various current real-world problems by proposing crisp or uncertain multiple-criteria decision-making (MCDM) models and techniques, mostly including multi-attribute decision-making (MADM) approaches in addition to a single paper proposing an interactive multi-objective decision-making (MODM) approach. The papers are mainly concentrated in three application areas: supplier selection and rational order allocation, the evaluation and selection of goods or facilities, and personnel selection/partner selection. A number of new approaches are proposed that are expected to attract great interest from the research community.
+Keywords
+Author Keywords:multiple-criteria decision-making (MCDM); multi-attribute decision-making (MADM); fuzzy sets; neutrosophic sets; rough sets; aggregation operators; adaptive neuro-fuzzy inference system (ANFIS)
+KeyWords Plus:SYSTEMS
+Author Information
+Reprint Address: Antucheviciene, J (reprint author)
+Vilnius Gediminas Tech Univ, Dept Construct Management & Real Estate, Sauletekio Al 11, LT-10223 Vilnius, Lithuania.
+
+Addresses:
+[ 1 ] Vilnius Gediminas Tech Univ, Dept Construct Management & Real Estate, Sauletekio Al 11, LT-10223 Vilnius, Lithuania
+
+[ 2 ] Vilnius Gediminas Tech Univ, Inst Sustainable Construct, Sauletekio Al 11, LT-10223 Vilnius, Lithuania
+
+       [ 3 ] MCKV Inst Engn, Dept Mech Engn, Howrah 711204, India
+E-mail Addresses:edmundas.zavadskas@vgtu.lt; jurgita.antucheviciene@vgtu.lt; prasenjit2007@gmail.com
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Information Systems
+See more data fields

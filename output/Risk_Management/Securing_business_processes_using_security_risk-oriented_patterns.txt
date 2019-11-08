@@ -1,0 +1,27 @@
+Securing business processes using security risk-oriented patterns
+By:Ahmed, N (Ahmed, Naved)[ 1 ] ; Matulevicius, R (Matulevicius, Raimundas)[ 1 ]
+View ResearcherID and ORCID
+COMPUTER STANDARDS & INTERFACES
+Volume: 36 Issue: 4 Pages: 723-733 Special Issue: SI
+DOI: 10.1016/j.csi.2013.12.007
+Published: JUN 2014
+Document Type:Article
+Abstract
+Business process modelling and security engineering are two important concerns when developing information system. However current practices report that security is addressed at the later development stages (i.e. design and implementation). This raises a question whether the business processes are performed securely. In this paper, we propose a method to introduce security requirements to the business processes through the collaboration between business and security analysts. To support this collaboration we present a set of security risk-oriented patterns. We test our proposal in two industrial business models. The case findings characterise pattern performance when identifying business assets, risks, and countermeasures. (C) 2013 Elsevier B.V. All rights reserved.
+Keywords
+Author Keywords:Security engineering; Business process modelling; Security risk-oriented patterns; Security requirements
+KeyWords Plus:SERVICE ATTACKS; REQUIREMENTS
+Author Information
+Reprint Address: Ahmed, N (reprint author)
+Univ Tartu, Inst Comp Sci, J Liivi 2, EE-50409 Tartu, Estonia.
+
+Addresses:
+[ 1 ] Univ Tartu, Inst Comp Sci, EE-50409 Tartu, Estonia
+
+E-mail Addresses:naved@ut.ee; rma@ut.ee
+Publisher
+ELSEVIER, RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Hardware & Architecture; Computer Science, Software Engineering
+See more data fields

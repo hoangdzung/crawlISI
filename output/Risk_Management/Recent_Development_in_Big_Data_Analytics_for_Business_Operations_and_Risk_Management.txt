@@ -1,0 +1,37 @@
+Recent Development in Big Data Analytics for Business Operations and Risk Management
+By:Choi, TM (Choi, Tsan-Ming)[ 1 ] ; Chan, HK (Chan, Hing Kai)[ 2 ] ; Yue, XH (Yue, Xiaohang)[ 3 ]
+View ResearcherID and ORCID
+IEEE TRANSACTIONS ON CYBERNETICS
+Volume: 47 Issue: 1 Pages: 81-92
+DOI: 10.1109/TCYB.2015.2507599
+Published: JAN 2017
+Document Type:Article
+Abstract
+"Big data" is an emerging topic and has attracted the attention of many researchers and practitioners in industrial systems engineering and cybernetics. Big data analytics would definitely lead to valuable knowledge for many organizations. Business operations and risk management can be a beneficiary as there are many data collection channels in the related industrial systems (e.g., wireless sensor networks, Internet-based systems, etc.). Big data research, however, is still in its infancy. Its focus is rather unclear and related studies are not well amalgamated. This paper aims to present the challenges and opportunities of big data analytics in this unique application domain. Technological development and advances for industrial-based business systems, reliability and security of industrial systems, and their operational risk management are examined. Important areas for future research are also discussed and revealed.
+Keywords
+Author Keywords:Big data analytics; business intelligence (BI); operational risk analysis; operations management; systems reliability; security
+KeyWords Plus:SUPPLY CHAINS; DECISION-SUPPORT; MULTIOBJECTIVE OPTIMIZATION; CLOUD SERVICE; DATA SYSTEMS; MASTER DATA; INTELLIGENCE; INFORMATION; ENTERPRISE; MODEL
+Author Information
+Reprint Address: Choi, TM (reprint author)
+Hong Kong Polytech Univ, Fash Business, Hong Kong, Hong Kong, Peoples R China.
+
+Addresses:
+[ 1 ] Hong Kong Polytech Univ, Fash Business, Hong Kong, Hong Kong, Peoples R China
+
+[ 2 ] Univ Nottingham, Sch Business, Ningbo 315100, Zhejiang, Peoples R China
+
+[ 3 ] Univ Wisconsin, Milwaukee, WI 53201 USA
+
+
+E-mail Addresses:jason.choi@polyu.edu.hk
+Funding
+Funding Agency Grant Number
+Hong Kong Polytechnic UniversityHong Kong Polytechnic University 
+G-UA1Q 
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Automation & Control Systems; Computer Science
+Web of Science Categories:Automation & Control Systems; Computer Science, Artificial Intelligence; Computer Science, Cybernetics
+See more data fields

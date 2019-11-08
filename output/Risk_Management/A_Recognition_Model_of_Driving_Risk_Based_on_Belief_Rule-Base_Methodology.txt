@@ -1,0 +1,44 @@
+A Recognition Model of Driving Risk Based on Belief Rule-Base Methodology
+By:Sun, C (Sun, Chuan)[ 1 ] ; Wu, CZ (Wu, Chaozhong)[ 2 ] ; Chu, DF (Chu, Duanfeng)[ 2 ] ; Lu, ZJ (Lu, Zhenji)[ 3 ] ; Tan, J (Tan, Jian)[ 1 ] ; Wang, JY (Wang, Jianyu)[ 1 ]
+INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
+Volume: 32 Issue: 11
+Article Number: 1850037
+DOI: 10.1142/S0218001418500374
+Published: NOV 2018
+Document Type:Article
+Abstract
+This paper aims to recognize driving risks in individual vehicles online based on a data-driven methodology. Existing advanced driver assistance systems (ADAS) have difficulties in effectively processing multi-source heterogeneous driving data. Furthermore, parameters adopted for evaluating the driving risk are limited in these systems. The approach of data-driven modeling is investigated in this study for utilizing the accumulation of on-road driving data. A recognition model of driving risk based on belief rule-base (BRB) methodology is built, predicting driving safety as a function of driver characteristics, vehicle state and road environment conditions. The BRB model was calibrated and validated using on-road data from 30 drivers. The test results show that the recognition accuracy of our proposed model can reach about 90% in all situations with three levels (none, medium, large) of driving risks. Furthermore, the proposed simplified model, which provides real-time operation, is implemented in a vehicle driving simulator as a reference for future ADAS and belongs to research on artificial intelligence (AI) in the automotive field.
+Keywords
+Author Keywords:Driving data; vehicle driving risk; data-driven; belief rule-base; ADAS
+KeyWords Plus:EVIDENTIAL REASONING APPROACH; DRIVER ASSISTANCE SYSTEMS; BEHAVIOR; NETWORKS
+Author Information
+Reprint Address: Sun, C (reprint author)
+Huanggang Normal Univ, Coll Transportat, Huanggang 438000, Peoples R China.
+
+Addresses:
+[ 1 ] Huanggang Normal Univ, Coll Transportat, Huanggang 438000, Peoples R China
+
+[ 2 ] Wuhan Univ Technol, Intelligent Transport Syst Res Ctr, Wuhan 430063, Hubei, Peoples R China
+
+[ 3 ] Delft Univ Technol, Fac Mech Maritime & Mat Engn, Mekelweg 2, NL-2628 CD Delft, Netherlands
+
+E-mail Addresses:sunchuan33@foxmail.com; wucz@whut.edu.cn; chudf@whut.edu.cn; z.lu@tudelft.nl; 2529011569@qq.com; 191253016@qq.com
+Funding
+Funding Agency Grant Number
+National Undergraduate Training Program for Innovation and Entrepreneurship 
+201710514011 
+National Key Technology R&D Program of ChinaNational Key Technology R&D Program 
+2014BAG01B03 
+Hubei Provincial Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+2018CFC863 
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+51675390 
+Truck Merging Support-a Step towards Autonomous Driving (HTSM Automotive) 
+12831 
+View funding text   
+Publisher
+WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Artificial Intelligence
+See more data fields

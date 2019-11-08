@@ -1,0 +1,31 @@
+Syntactic and Semantic Extensions to Secure Tropos to Support Security Risk Management
+By:Matulevicius, R (Matulevicius, Raimundas)[ 1 ] ; Mouratidis, H (Mouratidis, Haralambos)[ 2 ] ; Mayer, N (Mayer, Nicolas)[ 3 ] ; Dubois, E (Dubois, Eric)[ 3 ] ; Heymans, P (Heymans, Patrick)[ 4 ]
+View ResearcherID and ORCID
+JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+Volume: 18 Issue: 6 Pages: 816-844
+Published: 2012
+Document Type:Article
+Abstract
+The need to consider security from the early stages of the development process of information systems has been argued by academics and industrialists alike, and security risk management has been recognised as one of the most prominent techniques for eliciting security requirements. However, although existing security modelling languages provide some means to model security aspects, they do not contain concrete constructs to address vulnerable system assets, their risks, and risk treatments. Furthermore, security languages do not provide a crosscutting viewpoint relating all three - assets, risks and risk treatments - together. This is problematic since, for a security analyst, it is difficult to detect what the potential security flaws could be, and how they need to be fixed. In this paper, we extend the Secure Tropos language, an agentand goal-oriented security modelling language to support modelling of security risks. Based on previous work, where we had observed some inadequacies of this language to model security risks, this paper suggests improvements of Secure Tropos semantics and syntax. On the syntax level we extend the concrete and abstract syntax of the language, so that it covers the security risk management domain. On the semantic level, we illustrate how language constructs need to be improved to address the three different levels of security risk management. The suggested improvements are illustrated with the aid of a running example, called eSAP, from the healthcare domain.
+Keywords
+Author Keywords:Risk management; information system; security; Secure Tropos; syntax and semantics of modelling language
+KeyWords Plus:INFORMATION-SYSTEMS; REQUIREMENTS; METHODOLOGY
+Author Information
+Reprint Address: Matulevicius, R (reprint author)
+Univ Tartu, Inst Comp Sci, Ulikooli 18, EE-50090 Tartu, Estonia.
+
+Addresses:
+[ 1 ] Univ Tartu, Inst Comp Sci, EE-50090 Tartu, Estonia
+
+[ 2 ] Univ E London, Sch Architecture & Comp Engn, London E15 4LZ, England
+
+       [ 3 ] CRP Henri Tudor CITI, Luxembourg, Luxembourg
+[ 4 ] Univ Namur, PReCISE, Fac Comp Sci, Namur, Belgium
+
+E-mail Addresses:rma@ut.ee; haris@uel.ac.uk; nicolas.mayer@tudor.lu; eric.dubois@tudor.lu; phe@info.fundp.ac.be
+Publisher
+GRAZ UNIV TECHNOLGOY, INST INFORMATION SYSTEMS COMPUTER MEDIA-IICM, INFFELDGASSE 16C, GRAZ, A-8010, AUSTRIA
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Software Engineering; Computer Science, Theory & Methods
+See more data fields

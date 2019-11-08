@@ -1,0 +1,39 @@
+An ensemble model of QSAR tools for regulatory risk assessment
+By:Pradeep, P (Pradeep, Prachi)[ 1 ] ; Povinelli, RJ (Povinelli, Richard J.)[ 2 ] ; White, S (White, Shannon)[ 4 ] ; Merrill, SJ (Merrill, Stephen J.)[ 3 ]
+View ResearcherID and ORCID
+JOURNAL OF CHEMINFORMATICS
+Volume: 8
+Article Number: 48
+DOI: 10.1186/s13321-016-0164-0
+Published: SEP 22 2016
+Document Type:Article
+Abstract
+Quantitative structure activity relationships (QSARs) are theoretical models that relate a quantitative measure of chemical structure to a physical property or a biological effect. QSAR predictions can be used for chemical risk assessment for protection of human and environmental health, which makes them interesting to regulators, especially in the absence of experimental data. For compatibility with regulatory use, QSAR models should be transparent, reproducible and optimized to minimize the number of false negatives. In silico QSAR tools are gaining wide acceptance as a faster alternative to otherwise time-consuming clinical and animal testing methods. However, different QSAR tools often make conflicting predictions for a given chemical and may also vary in their predictive performance across different chemical datasets. In a regulatory context, conflicting predictions raise interpretation, validation and adequacy concerns. To address these concerns, ensemble learning techniques in the machine learning paradigm can be used to integrate predictions from multiple tools. By leveraging various underlying QSAR algorithms and training datasets, the resulting consensus prediction should yield better overall predictive ability. We present a novel ensemble QSAR model using Bayesian classification. The model allows for varying a cut-off parameter that allows for a selection in the desirable trade-off between model sensitivity and specificity. The predictive performance of the ensemble model is compared with four in silico tools (Toxtree, Lazar, OECD Toolbox, and Danish QSAR) to predict carcinogenicity for a dataset of air toxins (332 chemicals) and a subset of the gold carcinogenic potency database (480 chemicals). Leaveone- out cross validation results show that the ensemble model achieves the best trade-off between sensitivity and specificity (accuracy: 83.8 % and 80.4 %, and balanced accuracy: 80.6 % and 80.8 %) and highest inter-rater agreement [kappa (kappa): 0.63 and 0.62] for both the datasets. The ROC curves demonstrate the utility of the cut-off feature in the predictive ability of the ensemble model. This feature provides an additional control to the regulators in grading a chemical based on the severity of the toxic endpoint under study.
+Keywords
+Author Keywords:Computational toxicology; In silico QSAR tools; Hybrid QSAR models; Ensemble models; Risk assessment
+KeyWords Plus:IN-SILICO; CLASSIFIER ENSEMBLES; MDL-QSAR; PREDICTION; TOXICOLOGY; PERFORMANCE; CONFIDENCE; AGREEMENT; LEADSCOPE; TOXICITY
+Author Information
+Reprint Address: Pradeep, P (reprint author)
+US EPA, Natl Ctr Computat Toxicol ORISE Fellow, Res Triangle Pk, NC 27711 USA.
+
+Addresses:
+[ 1 ] US EPA, Natl Ctr Computat Toxicol ORISE Fellow, Res Triangle Pk, NC 27711 USA
+
+[ 2 ] Marquette Univ, Dept Elect & Comp Engn, Milwaukee, WI 53233 USA
+
+[ 3 ] Marquette Univ, Dept Math Stat & Comp Sci, Milwaukee, WI 53233 USA
+
+[ 4 ] Georgetown Univ, Med Ctr, Lombardi Comprehens Canc Ctr, Washington, DC 20007 USA
+
+E-mail Addresses:prachipradeep.15@gmail.com
+Funding
+Funding Agency Grant Number
+US Department of EnergyUnited States Department of Energy (DOE)   
+US Food and Drug Administration   
+View funding text   
+Publisher
+BIOMED CENTRAL LTD, 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+Categories / Classification
+Research Areas:Chemistry; Computer Science
+Web of Science Categories:Chemistry, Multidisciplinary; Computer Science, Information Systems; Computer Science, Interdisciplinary Applications
+See more data fields

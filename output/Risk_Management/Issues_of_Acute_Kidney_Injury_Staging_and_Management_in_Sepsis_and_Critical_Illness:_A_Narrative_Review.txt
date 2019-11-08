@@ -1,0 +1,34 @@
+Issues of Acute Kidney Injury Staging and Management in Sepsis and Critical Illness: A Narrative Review
+By:Nusshag, C (Nusshag, Christian)[ 1 ] ; Weigand, MA (Weigand, Markus A.)[ 2 ] ; Zeier, M (Zeier, Martin)[ 1 ] ; Morath, C (Morath, Christian)[ 1 ] ; Brenner, T (Brenner, Thorsten)[ 2 ]
+INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+Volume: 18 Issue: 7
+Article Number: 1387
+DOI: 10.3390/ijms18071387
+Published: JUL 2017
+Document Type:Review
+Abstract
+Acute kidney injury (AKI) has a high incidence on intensive care units around the world and is a major complication in critically ill patients suffering from sepsis or septic shock. The short-and long-term complications are thereby devastating and impair the quality of life. Especially in terms of AKI staging, the determination of kidney function and the timing of dialytic AKI management outside of life-threatening indications are ongoing matters of debate. Despite several studies, a major problem remains in distinguishing between beneficial and unnecessary "early" or even harmful renal replacement therapy (RRT). The latter might prolong disease course and renal recovery. AKI scores, however, provide an insufficient outcome-predicting ability and the related estimation of kidney function via serum creatinine or blood urea nitrogen (BUN)/urea is not reliable in AKI and critical illness. Kidney independent alterations of creatinine-and BUN/urea-levels further complicate the situation. This review critically assesses the current AKI staging, issues and pitfalls of the determination of kidney function and RRT timing, as well as the potential harm reflected by unnecessary RRT. A better understanding is mandatory to improve future study designs and avoid unnecessary RRT for higher patient safety and lower health care costs.
+Keywords
+Author Keywords:acute kidney injury; biomarkers; disease staging; glomerular filtration rate; renal replacement therapy; timing
+KeyWords Plus:RENAL-REPLACEMENT THERAPY; SERUM CYSTATIN-C; GLOMERULAR-FILTRATION-RATE; BASE-LINE CREATININE; INTENSIVE-CARE-UNIT; ILL PATIENTS; BLOOD-PRESSURE; CELL-CYCLE; PREDICTIVE PERFORMANCE; HEMODIALYSIS MEMBRANE
+Author Information
+Reprint Address: Brenner, T (reprint author)
+Heidelberg Univ Hosp, Dept Anesthesiol, 110 Neuenheimer Feld, D-69120 Heidelberg, Germany.
+
+Addresses:
+[ 1 ] Heidelberg Univ Hosp, Dept Nephrol, 162 Neuenheimer Feld, D-69120 Heidelberg, Germany
+
+[ 2 ] Heidelberg Univ Hosp, Dept Anesthesiol, 110 Neuenheimer Feld, D-69120 Heidelberg, Germany
+
+E-mail Addresses:christian.nusshag@med.uni-heidelberg.de; Markus.Weigand@med.uni-heidelberg.de; Martin.Zeier@med.uni-heidelberg.de; Christian.Morath@med.uni-heidelberg.de; Thorsten.Brenner@med.uni-heidelberg.de
+Funding
+Funding Agency Grant Number
+Deutsche ForschungsgemeinschaftGerman Research Foundation (DFG)   
+Ruprecht-Karls-Universitat Heidelberg within the funding programme Open Access Publishing   
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Biochemistry & Molecular Biology; Chemistry
+Web of Science Categories:Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+See more data fields

@@ -1,0 +1,28 @@
+Distribution-Level Flexibility Market for Congestion Management
+By:Esmat, A (Esmat, Ayman)[ 1 ] ; Usaola, J (Usaola, Julio)[ 1 ] ; Moreno, MA (Angeles Moreno, Maria)[ 1 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 11 Issue: 5
+Article Number: 1056
+DOI: 10.3390/en11051056
+Published: MAY 2018
+Document Type:Article
+Abstract
+Nowadays, problems facing Distribution System Operators (DSOs) due to demand increase and the wide penetration of renewable energy are usually solved by means of grid reinforcement. However, the smart grid paradigm enables the deployment of demand flexibility for congestion management in distribution grids. This could substitute, or at least postpone, these needed investments. A key role in this scheme is the aggregator, who can act as a "flexibility provider" collecting the available flexibility from the consumers. Under this paradigm, this paper proposes a flexibility market led by the DSO and aimed at solving distribution grid congestions. The proposal also includes a flexibility market clearing algorithm, which is easy to implement, has low computational requirements and considers the energy rebound effect. The proposed design has the advantage of excluding the DSO's need for trading in energy markets. Also, the solution algorithm proposed is fully compatible with already existing grid analysis tools. The proposed electricity market is tested with two case studies from a real Spanish distribution network, where the proposed clearing algorithm is used, and finally, results are presented and discussed.
+Keywords
+Author Keywords:aggregators; demand side flexibility; down-regulation flexibility; flexibility market; up-regulation flexibility
+KeyWords Plus:DEMAND-SIDE MANAGEMENT; ENERGY; MODELS; TOOLS
+Author Information
+Reprint Address: Esmat, A (reprint author)
+Univ Carlos III Madrid, Dept Elect Engn, Ave Univ 30, Madrid 28911, Spain.
+
+Addresses:
+[ 1 ] Univ Carlos III Madrid, Dept Elect Engn, Ave Univ 30, Madrid 28911, Spain
+
+E-mail Addresses:aesmat@ing.uc3m.es; jusaola@ing.uc3m.es; amoreno@ing.uc3m.es
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

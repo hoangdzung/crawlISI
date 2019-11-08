@@ -1,0 +1,37 @@
+Association between Single Nucleotide Polymorphism rs1044925 and the Risk of Coronary Artery Disease and Ischemic Stroke
+By:Wu, DF (Wu, Dong-Feng)[ 1 ] ; Yin, RX (Yin, Rui-Xing)[ 1 ] ; Cao, XL (Cao, Xiao-Li)[ 2 ] ; Chen, WX (Chen, Wu-Xian)[ 1 ]
+INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+Volume: 15 Issue: 3 Pages: 3546-3559
+DOI: 10.3390/ijms15033546
+Published: MAR 2014
+Document Type:Article
+Abstract
+The present study was performed to clarify the association between the acyl-CoA:cholesterol acyltransferase-1 (ACAT-1) single nucleotide polymorphism (SNP) rs1044925 and the risk of coronary artery disease (CAD) and ischemic stroke (IS) in the Guangxi Han population. Polymerase chain reaction and restriction fragment length polymorphism was performed to determine the genotypes of the ACAT-1 SNP rs1044925 in 1730 unrelated subjects (CAD, 587; IS, 555; and healthy controls; 588). The genotypic and allelic frequencies of rs1044925 were significantly different between the CAD patients and controls (p = 0.015) and borderline different between the IS patients and controls (p = 0.05). The AC/CC genotypes and C allele were associated with a decreased risk of CAD and IS (CAD: p = 0.014 for AC/CC vs. AA, p = 0.022 for C vs. A; IS: p = 0.014 for AC/CC vs. AA; p = 0.017 for C vs. A). The AC/CC genotypes in the healthy controls, but not in CAD or IS patients, were associated with an increased serum high-density lipoprotein cholesterol (HDL-C) concentration. The present study shows that the C allele carriers of ACAT-1 rs1044925 were associated with an increased serum HDL-C level in the healthy controls and decreased risk in CAD and IS patients.
+Keywords
+Author Keywords:acyl-CoA:cholesterol acyltransferase gene; single nucleotide polymorphism; coronary artery disease; ischemic stroke; lipids
+KeyWords Plus:A-CHOLESTEROL ACYLTRANSFERASE; MAMMALIAN ACYL-COA; SERUM-LIPID LEVELS; MOLECULAR-CLONING; ATHEROSCLEROTIC LESIONS; FUNCTIONAL EXPRESSION; ACAT INHIBITION; COENZYME; MICE; MACROPHAGES
+Author Information
+Reprint Address: Yin, RX (reprint author)
+Guangxi Med Univ, Affiliated Hosp 1, Dept Cardiol, Inst Cardiovasc Dis, 22 Shuangyong Rd, Nanning 530021, Guangxi, Peoples R China.
+
+Addresses:
+[ 1 ] Guangxi Med Univ, Affiliated Hosp 1, Dept Cardiol, Inst Cardiovasc Dis, Nanning 530021, Guangxi, Peoples R China
+
+[ 2 ] Guangxi Med Univ, Affiliated Hosp 1, Dept Neurol, Nanning 530021, Guangxi, Peoples R China
+
+E-mail Addresses:wulove26@tom.com; yinruixing@163.com; maten1996@gmail.com; nncwx@163.com
+Funding
+Funding Agency Grant Number
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+30960130 
+Science Foundation of Guangxi Returned Oversea Scholars 
+0991004 
+Innovation Project of Guangxi Graduate Education 
+YCBZ2013013 
+View funding text   
+Publisher
+MDPI AG, POSTFACH, CH-4005 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Biochemistry & Molecular Biology; Chemistry
+Web of Science Categories:Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+See more data fields

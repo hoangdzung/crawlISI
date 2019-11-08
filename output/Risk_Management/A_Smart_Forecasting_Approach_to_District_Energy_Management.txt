@@ -1,0 +1,37 @@
+A Smart Forecasting Approach to District Energy Management
+By:Yuce, B (Yuce, Baris)[ 1,2 ] ; Mourshed, M (Mourshed, Monjur)[ 1 ] ; Rezgui, Y (Rezgui, Yacine)[ 1 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 10 Issue: 8
+Article Number: 1073
+DOI: 10.3390/en10081073
+Published: AUG 2017
+Document Type:Article
+Abstract
+This study presents a model for district-level electricity demand forecasting using a set of Artificial Neural Networks (ANNs) (parallel ANNs) based on current energy loads and social parameters such as occupancy. A comprehensive sensitivity analysis is conducted to select the inputs of the ANN by considering external weather conditions, occupancy type, main income providers' employment status and related variables for the fuel poverty index. Moreover, a detailed parameter tuning is conducted using various configurations for each individual ANN. The study also demonstrates the strength of the parallel ANN models in different seasons of the years. In the proposed district level energy forecasting model, the training and testing stages of parallel ANNs utilise dataset of a group of six buildings. The aim of each individual ANN is to predict electricity consumption and the aggregated demand in sub-hourly time-steps. The inputs of each ANN are determined using Principal Component Analysis (PCA) and Multiple Regression Analysis (MRA) methods. The accuracy and consistency of ANN predictions are evaluated using Pearson coefficient and average percentage error, and against four seasons: winter, spring, summer, and autumn. The lowest prediction error for the aggregated demand is about 4.51% for winter season and the largest prediction error is found as 8.82% for spring season. The results demonstrate that peak demand can be predicted successfully, and utilised to forecast and provide demand-side flexibility to the aggregators for effective management of district energy systems.
+Keywords
+Author Keywords:ANN; PCA; MRA; district energy management; smart grid; smart cities; demand forecasting
+KeyWords Plus:ARTIFICIAL NEURAL-NETWORKS; THERMAL COMFORT; LOAD; CONSUMPTION; SYSTEM; DEMAND; OPTIMIZATION; LEVEL
+Author Information
+Reprint Address: Yuce, B; Mourshed, M (reprint author)
+Cardiff Univ, Sch Engn, BRE Trust Ctr Sustainable Engn, Cardiff CF24 3AA, S Glam, Wales.
+
+Reprint Address: Yuce, B (reprint author)
+       Streatham Campus Univ Exeter, Sch Engn, Coll Engn Math & Phys Sci, Exeter EX4 4QJ, Devon, England.
+Addresses:
+[ 1 ] Cardiff Univ, Sch Engn, BRE Trust Ctr Sustainable Engn, Cardiff CF24 3AA, S Glam, Wales
+
+       [ 2 ] Streatham Campus Univ Exeter, Sch Engn, Coll Engn Math & Phys Sci, Exeter EX4 4QJ, Devon, England
+E-mail Addresses:B.Yuce@exeter.ac.uk; MourshedM@cardiff.ac.uk; RezguiY@cardiff.ac.uk
+Funding
+Funding Agency Grant Number
+European CommissionEuropean Commission Joint Research Centre 
+619682 
+ICT-2013.6.1 
+View funding text   
+Publisher
+MDPI AG, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

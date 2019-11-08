@@ -1,0 +1,65 @@
+Theoretical and Empirical Differences between Diagonal and Full BEKK for Risk Management
+By:Allen, DE (Allen, David E.)[ 1,2,3 ] ; McAleer, M (McAleer, Michael)[ 4,5,6,7,8,9,10 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 11 Issue: 7
+Article Number: 1627
+DOI: 10.3390/en11071627
+Published: JUL 2018
+Document Type:Article
+Abstract
+The purpose of the paper is to explore the relative biases in the estimation of the Full BEKK model as compared with the Diagonal BEKK model, which is used as a theoretical and empirical benchmark. Chang and McAleer et al., 2017 show that univariate GARCH is not a special case of multivariate GARCH, specifically, the Full BEKK model, and demonstrate that Full BEKK, which, in practice, is estimated almost exclusively, has no underlying stochastic process, regularity conditions, or asymptotic properties. Diagonal BEKK (DBEKK) does not suffer from these limitations, and hence provides a suitable benchmark. We use simulated financial returns series to contrast estimates of the conditional variances and covariances from DBEKK and BEKK. The results of non-parametric tests suggest evidence of considerable bias in the Full BEKK estimates. The results of quantile regression analysis show there is a systematic relationship between the two sets of estimates as we move across the quantiles. Estimates of conditional variances from Full BEKK, relative to those from DBEKK are relatively lower in the left tail and higher in the right tail. The BEKK model is a commonly applied multivariate volatility model frequently used in modelling and forecasting volatilities in financial applications. Our results suggest that it is subject to considerable bias and this should be considered by potential users.
+Keywords
+Author Keywords:DBEKK; BEKK; regularity conditions; asymptotic properties; non-parametric; bias; qantile regression
+KeyWords Plus:CONDITIONAL HETEROSKEDASTICITY; PRACTICAL OPTIMIZATION; DETAIL HINTS; MODELS; VOLATILITY; MARKETS; DEVIL; ARCH
+Author Information
+Reprint Address: McAleer, M (reprint author)
+Asia Univ, Coll Management, Dept Finance, Taichung 413, Taiwan.
+
+Reprint Address: McAleer, M (reprint author)
+Univ Sydney, Business Sch, Discipline Business Analyt, Sydney, NSW 2006, Australia.
+
+Reprint Address: McAleer, M (reprint author)
+Erasmus Univ, Erasmus Sch Econ, Econometr Inst, NL-3000 Rotterdam, Netherlands.
+
+Reprint Address: McAleer, M (reprint author)
+       Univ Madrid, Dept Econ Anal, Madrid 28040, Spain.
+Reprint Address: McAleer, M (reprint author)
+       Univ Madrid, ICAE Complutense, Madrid 28040, Spain.
+Reprint Address: McAleer, M (reprint author)
+Univ Canterbury, Dept Math & Stat, Christchurch 8041, New Zealand.
+
+Reprint Address: McAleer, M (reprint author)
+Yokohama Natl Univ, Inst Adv Sci, Yokohama, Kanagawa 2408501, Japan.
+
+Addresses:
+[ 1 ] Univ Sydney, Sch Math & Stat, Sydney, NSW 2006, Australia
+
+[ 2 ] Asia Univ, Dept Finance, Wufeng 413, Taiwan
+
+[ 3 ] Edith Cowan Univ, Sch Business & Law, Joondalup 6027, Australia
+
+[ 4 ] Asia Univ, Coll Management, Dept Finance, Taichung 413, Taiwan
+
+[ 5 ] Univ Sydney, Business Sch, Discipline Business Analyt, Sydney, NSW 2006, Australia
+
+[ 6 ] Erasmus Univ, Erasmus Sch Econ, Econometr Inst, NL-3000 Rotterdam, Netherlands
+
+       [ 7 ] Univ Madrid, Dept Econ Anal, Madrid 28040, Spain
+       [ 8 ] Univ Madrid, ICAE Complutense, Madrid 28040, Spain
+[ 9 ] Univ Canterbury, Dept Math & Stat, Christchurch 8041, New Zealand
+
+[ 10 ] Yokohama Natl Univ, Inst Adv Sci, Yokohama, Kanagawa 2408501, Japan
+
+E-mail Addresses:profallen2007@gmail.com; michael.mcaleer@gmail.com
+Funding
+Funding Agency Grant Number
+Australian Research Council, Taiwan   
+National Science Council, TaiwanNational Science Council of Taiwan   
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

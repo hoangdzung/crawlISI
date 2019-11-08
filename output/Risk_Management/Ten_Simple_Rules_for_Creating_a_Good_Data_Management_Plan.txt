@@ -1,0 +1,29 @@
+Ten Simple Rules for Creating a Good Data Management Plan
+By:Michener, WK (Michener, William K.)
+PLOS COMPUTATIONAL BIOLOGY
+Volume: 11 Issue: 10
+Article Number: e1004525
+DOI: 10.1371/journal.pcbi.1004525
+Published: OCT 2015
+Document Type:Article
+Author Information
+Reprint Address: Michener, WK (reprint author)
+Univ New Mexico, Coll Univ Lib & Learning Sci, Albuquerque, NM 87131 USA.
+
+Addresses:
+[ 1 ] Univ New Mexico, Coll Univ Lib & Learning Sci, Albuquerque, NM 87131 USA
+
+E-mail Addresses:william.michener@gmail.com
+Funding
+Funding Agency Grant Number
+NSFNational Science Foundation (NSF) 
+IIA-1301346 
+IIA-1329470 
+ACI-1430508 
+View funding text   
+Publisher
+PUBLIC LIBRARY SCIENCE, 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+Categories / Classification
+Research Areas:Biochemistry & Molecular Biology; Mathematical & Computational Biology
+Web of Science Categories:Biochemical Research Methods; Mathematical & Computational Biology
+See more data fields

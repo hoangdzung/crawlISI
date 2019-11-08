@@ -1,0 +1,29 @@
+Development of supply chain risk management approaches for construction projects: A grounded theory approach
+By:Shojaei, P (Shojaei, Payam)[ 1 ] ; Haeri, SAS (Haeri, Seyed Amin Seyed)[ 2 ]
+View ResearcherID and ORCID
+COMPUTERS & INDUSTRIAL ENGINEERING
+Volume: 128 Pages: 837-850
+DOI: 10.1016/j.cie.2018.11.045
+Published: FEB 2019
+Document Type:Article
+Abstract
+Construction projects face numerous risks during their lifecycle due to their inherent complexities and intricate relationships between different parties involved in the construction process. Accordingly, an effective management of risks throughout the project's supply chain is critical to avoid time and cost overruns, that if not controlled properly, will ultimately result in project failure. Despite the great significance of this issue, there is a gap between the literature and practice of project risk management, where managers mostly prefer to rely on their own experiences rather than using available analytical tools. On the other hand, the application of the best practices (such as supply chain management and supply chain risk management) from the manufacturing industry in the service industry is highly neglected. To this end, these two gaps are bridged by proposing a comprehensive supply chain risk management approach for construction projects that uses, grounded theory, fuzzy cognitive mapping, and grey relational analysis. A real world case study is presented to show the applicability and effectiveness of the proposed approach. Various risk mitigation scenarios are developed and evaluated by the proposed approach. These scenarios are ranked and the best risk mitigation scenarios are identified. By comparing the proposed approach with similar researches in the literature, it is shown that the proposed approach is capable of capturing and representing expert's perceptions of risks in an effective and time efficient manner. Moreover, decision-makers are enabled to simulate the long term effects of different risk mitigation strategies on the risks and make more informed decisions. Along with the novel approach proposed, the major contribution of this study is setting the stage for a discussion between project management field's scholars and practitioners with those in the manufacturing industry to benefit from an opportunity for mutual growth.
+Keywords
+Author Keywords:Project risk management; Supply chain risk management; Grounded theory; Fuzzy cognitive maps; Grey relational analysis
+KeyWords Plus:RELATIONAL ANALYSIS METHOD; GREY RELATED ANALYSIS; DECISION-MAKING; FUZZY-AHP; SELECTION; MODEL; PERFORMANCE; MITIGATION; DISRUPTIONS; FRAMEWORK
+Author Information
+Reprint Address: Haeri, SAS (reprint author)
+Clemson Univ, Dept Management, Coll Business, Clemson, SC 29634 USA.
+
+Addresses:
+[ 1 ] Shiraz Univ, Sch Econ Management & Social Sci, Dept Management, Shiraz, Iran
+
+[ 2 ] Clemson Univ, Dept Management, Coll Business, Clemson, SC 29634 USA
+
+E-mail Addresses:pshojaei@shirazu.ac.ir; sseyedh@clemson.edu
+Publisher
+PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+Categories / Classification
+Research Areas:Computer Science; Engineering
+Web of Science Categories:Computer Science, Interdisciplinary Applications; Engineering, Industrial
+See more data fields

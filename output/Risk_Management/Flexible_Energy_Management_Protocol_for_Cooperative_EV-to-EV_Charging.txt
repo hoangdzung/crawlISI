@@ -1,0 +1,48 @@
+Flexible Energy Management Protocol for Cooperative EV-to-EV Charging
+By:Zhang, RQ (Zhang, Rongqing)[ 1,2 ] ; Cheng, X (Cheng, Xiang)[ 1 ] ; Yang, LQ (Yang, Liuqing)[ 2 ]
+View ResearcherID and ORCID
+2016 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM)
+Book Group Author(s):IEEE
+Book Series: IEEE Global Communications Conference
+Published: 2016
+Document Type:Proceedings Paper
+Conference
+Conference: 59th Annual IEEE Global Communications Conference (IEEE GLOBECOM)
+Location: Washington, DC
+Date: DEC 04-08, 2016
+Sponsor(s):IEEE; Natl Instruments; AT & T; Huawei; Intel; Qualcomm; Nokia; Samsung; Keysight Technologies; Rohde & Schwarz
+Abstract
+In this paper, we investigate the flexible power transfer among electric vehicles (EVs) from a cooperation perspective in an energy Internet based EV system. First, we introduce the concept of cooperative EV-to-EV (V2V) charging, which enables active cooperation via charging/discharging operations between EVs as energy consumers and EVs as energy providers. Then, based on the cooperative V2V charging concept, we propose a flexible energy management protocol, which can help the EVs achieve more flexible and smarter charging/discharging behaviors. In the proposed energy management protocol, we define the utilities of the EVs based on the cost and profit through cooperative V2V charging and employ the bipartite graph to model the charging/discharging cooperation between EVs as energy consumers and EVs as energy providers. Based on the constructed bipartite graph, we propose a max-weight V2V matching algorithm, which can lead to an optimized V2V matching in terms of the network social welfare. Simulation results verify the efficiency of our proposed cooperative V2V charging based energy management protocol in improving the EV utilities and the network social welfare as well as reducing the energy consumption of the EVs.
+Keywords
+KeyWords Plus:VEHICLES
+Author Information
+Reprint Address: Zhang, RQ (reprint author)
+Peking Univ, State Key Lab Adv Opt Commun Syst & Networks, Sch Elect Engn & Comp Sci, Beijing, Peoples R China.
+
+Reprint Address: Zhang, RQ (reprint author)
+Colorado State Univ, Dept Elect & Comp Engn, Ft Collins, CO 80523 USA.
+
+Addresses:
+[ 1 ] Peking Univ, State Key Lab Adv Opt Commun Syst & Networks, Sch Elect Engn & Comp Sci, Beijing, Peoples R China
+
+[ 2 ] Colorado State Univ, Dept Elect & Comp Engn, Ft Collins, CO 80523 USA
+
+Funding
+Funding Agency Grant Number
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+61622101 
+61571020 
+National 973 ProjectNational Basic Research Program of China 
+2013CB336700 
+National 863 Project 
+SS2015AA011306 
+National Science FoundationNational Science Foundation (NSF) 
+CNS-1343189 
+ECCS-1232305 
+View funding text   
+Publisher
+IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+Categories / Classification
+Research Areas:Engineering; Telecommunications
+Web of Science Categories:Engineering, Electrical & Electronic; Telecommunications
+See more data fields

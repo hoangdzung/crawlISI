@@ -1,0 +1,30 @@
+Is There a Role for Genomics in the Management of Hypertension?
+By:Burrello, J (Burrello, Jacopo)[ 1 ] ; Monticone, S (Monticone, Silvia)[ 1 ] ; Buffolo, F (Buffolo, Fabrizio)[ 1 ] ; Tetti, M (Tetti, Martina)[ 1 ] ; Veglio, F (Veglio, Franco)[ 1 ] ; Williams, TA (Williams, Tracy A.)[ 1,2 ] ; Mulatero, P (Mulatero, Paolo)[ 1 ]
+View ResearcherID and ORCID
+INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+Volume: 18 Issue: 6
+Article Number: 1131
+DOI: 10.3390/ijms18061131
+Published: JUN 2017
+Document Type:Review
+Abstract
+Hypertension (HTN) affects about 1 billion people worldwide and the lack of a single identifiable cause complicates its treatment. Blood pressure (BP) levels are influenced by environmental factors, but there is a strong genetic component. Linkage analysis has identified several genes involved in Mendelian forms of HTN and the associated pathophysiological mechanisms have been unravelled, leading to targeted therapies. The majority of these syndromes are due to gain-of-function or loss-of-functions mutations, resulting in an alteration of mineralocorticoid, glucocorticoid, or sympathetic pathways. The diagnosis of monogenic forms of HTN has limited practical implications on the population and a systematic genetic screening is not justifiable. Genome-wide linkage and association studies (GWAS) have identified single nucleotide polymorphisms (SNPs), which influence BP. Forty-three variants have been described with each SNP affecting systolic and diastolic BP by 1.0 and 0.5 mmHg, respectively. Taken together Mendelian inheritance and all GWAS-identified HTN-associated variants explain 2-3% of BP variance. Epigenetic modifications, such as DNA methylation, histone modification and non-coding RNAs, have become increasingly recognized as important players in BP regulation and may justify a further part of missing heritability. In this review, we will discuss how genetics and genomics may assist clinicians in managing patients with HTN.
+Keywords
+Author Keywords:monogenic hypertension; genomics; genome-wide association studies; epigenetics; pharmacogenomics
+KeyWords Plus:BLOOD-PRESSURE RESPONSE; AUTOSOMAL-DOMINANT HYPERTENSION; ALDOSTERONE-PRODUCING ADENOMAS; ANGIOTENSIN-CONVERTING ENZYME; EPITHELIAL SODIUM-CHANNEL; MINERALOCORTICOID RECEPTOR; DNA METHYLATION; GAMMA-SUBUNIT; UP-REGULATION; BETA-SUBUNIT
+Author Information
+Reprint Address: Mulatero, P (reprint author)
+Univ Turin, Div Internal Med & Hypertens, Dept Med Sci, I-10126 Turin, Italy.
+
+Addresses:
+[ 1 ] Univ Turin, Div Internal Med & Hypertens, Dept Med Sci, I-10126 Turin, Italy
+
+[ 2 ] Ludwig Maximilians Univ Munchen, Klinikum Univ Munchen, Med Klin & Poliklin 4, D-80336 Munich, Germany
+
+E-mail Addresses:jacopo.burrello@gmail.com; silvia.monticone@unito.it; fabrizio.buffolo@gmail.com; tetti.martina@gmail.com; franco.veglio@unito.it; tracyannwilliams48@gmail.com; paolo.mulatero@unito.it
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Biochemistry & Molecular Biology; Chemistry
+Web of Science Categories:Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+See more data fields

@@ -1,0 +1,29 @@
+Buffering management schemes for optical variable length packets under limited packet sorting
+By:Tan, CP (Tan, Choo Peng); Castanon, G (Castanon, Gerardo); Chien, SF (Chien, Su Fong); You, AH (You, Ah Heng); Low, ALY (Low, Andy Lock Yen)
+View ResearcherID and ORCID
+PHOTONIC NETWORK COMMUNICATIONS
+Volume: 12 Issue: 3 Pages: 257-268
+DOI: 10.1007/s11107-006-0029-y
+Published: DEC 2006
+Document Type:Article
+Abstract
+This paper studies several buffering strategies for optical packet switching (OPS) under limited packet sorting. Three schemes, which are able to sort newly arrived packets based on packet's length as well as capability of finding the minimum buffer occupancy, are analyzed and compared. Results show that all three proposed schemes could improve OPS performance considerably in terms of probability of packet loss (PPL) and probability of information loss (PIL). In addition, the simulation results show that not all the newly arrived packets need to be sorted in order to obtain minimum packet loss probability. Since the amount of packets and thus the packet processing time is significant in OPS, it is possible that not all the packets can be processed using one of the buffering strategies. An important finding of this paper is that if only 10% of the packets are sorted, the PPL is comparable to the minimum packet loss value obtained when 100% of the packets are sorted.
+Keywords
+Author Keywords:networks; fiber optics and optical communications; optical packet switching
+KeyWords Plus:SWITCH; NETWORKS
+Author Information
+Reprint Address: Castanon, G (reprint author)
+Edificio CETEC, Ctr Elect & Telecommun, ITESM, Campus Monterrey,7o Piso,Ave Eugenio Garza Sada 2, Monterrey 64849, NL, Mexico.
+
+Addresses:
+[ 1 ] Edificio CETEC, Ctr Elect & Telecommun, ITESM, Monterrey 64849, NL, Mexico
+
+[ 2 ] Multimedia Univ, Fac Engn & Technol, Melaka 75450, Malaysia
+
+E-mail Addresses:cptan@mmu.edu.my; gerardo.castanon@itesm.mx; sfchien@mmu.edu.my; ahyou@mmu.edu.my; andy@mmu.edu.my
+Publisher
+SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+Categories / Classification
+Research Areas:Computer Science; Optics; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Optics; Telecommunications
+See more data fields

@@ -1,0 +1,23 @@
+Simulation-Based Modeling and Power Management of All-Electric Ships Based on Renewable Energy Generation Using Model Predictive Control Strategy
+By:Banaei, MR (Banaei, Mohamad Reza)[ 1 ] ; Alizadeh, R (Alizadeh, Rana)[ 1 ]
+IEEE INTELLIGENT TRANSPORTATION SYSTEMS MAGAZINE
+Volume: 8 Issue: 2 Pages: 90-103
+DOI: 10.1109/MITS.2016.2533960
+Published: SUM 2016
+Document Type:Article
+Abstract
+In this paper, an integrated power system (IPS) based on fuel cell (FC), battery, photovoltaic panels (PV), and two diesel generators is proposed and modeled for an all-electric ship to address a solution for the high pollution resulting from conventional ships. Dual active bridge (DAB) converter and its nonlinear average model which is faster and more suitable for system-level studies has been used as power electronic interface. A decentralized model predictive control (MPC) strategy is also designed to control the modules of the IPS. A hierarchical control method with virtual droop control is proposed to control the power generation of diesel generators and regulate the DC link voltage of the IPS. Moreover, a power management strategy for efficient operation of diesel generators, FC and battery is considered in this study. It is important to note that, the diesel generators considered in this power system make this ship more applicable for longer voyages. The proposed system has been studied in various operational modes considering the battery and load conditions in MATLAB/SIMULINK environment and its validity is shown through the obtained results. Furthermore, the simulation results show good response in a long run which is a sign of its suitability for system-level studies.
+Keywords
+KeyWords Plus:HIERARCHICAL CONTROL; DC/DC CONVERTER; STORAGE SYSTEM
+Author Information
+Reprint Address: Banaei, MR; Alizadeh, R (reprint author)
+       Azarbaijan Shahid Madani Univ, Dept Elect Engn, Tabriz, Iran.
+Addresses:
+       [ 1 ] Azarbaijan Shahid Madani Univ, Dept Elect Engn, Tabriz, Iran
+E-mail Addresses:m.banaei@azaruniv.edu; ranaalizadeh@azaruniv.edu
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Engineering; Transportation
+Web of Science Categories:Engineering, Electrical & Electronic; Transportation Science & Technology
+See more data fields

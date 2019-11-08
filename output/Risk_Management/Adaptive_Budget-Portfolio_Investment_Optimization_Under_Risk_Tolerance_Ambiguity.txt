@@ -1,0 +1,38 @@
+Adaptive Budget-Portfolio Investment Optimization Under Risk Tolerance Ambiguity
+By:Wang, SM (Wang, Shuming)[ 1 ] ; Wang, B (Wang, Bo)[ 2 ] ; Watada, JZ (Watada, Junzo)[ 3 ]
+View ResearcherID and ORCID
+IEEE TRANSACTIONS ON FUZZY SYSTEMS
+Volume: 25 Issue: 2 Pages: 363-376 Special Issue: SI
+Published: APR 2017
+Document Type:Article
+Abstract
+In this study, we consider a portfolio-optimization incorporated budget investment problem under managers' risk tolerance ambiguity. In order to capture the decision dynamics driven by the risk tolerance ambiguity, a two-stage adaptive optimization model is developed. The budget allocation is the first-stage decision, which is made before knowing each manager's actual risk tolerance level, and the portfolio selection conducted by each manager is the second-stage decision, which adapts to the manager's risk tolerance. We introduce the concept of risk-neutral budget threshold (RNBT) that is modeled by a fuzzy set granule, and upon which the ambiguous risk tolerance curve is constructed, which can realistically capture the managers' risk-averse and/or risk-seeking attitudes. Due to the (realistic) nonconvex/nonconcave structure of the risk tolerance curve, and the existence of the ambiguity, the resulting problem is essentially a nonconvex adaptive optimization problem under uncertainty. To achieve a robust modeling and an efficient solution, we first restructure and robustize the information of fuzzy RNBTs and then transform the developed model into a mixed integer linear programming (MILP), which can be handled efficiently by off-the-shelf mixed integer program solvers. Leveraging the derived MILP structure, we can use the Benders decomposition to further enhance the scalability of the model. Furthermore, some model extensions on robustizing the probability estimations are discussed. Finally, computational studies are performed to demonstrate the effectiveness and insights of the model.
+Keywords
+Author Keywords:Ambiguity; budget and portfolio investment; fuzzy set granule; mixed integer program (MIP); risk-neutral budget threshold (RNBT); risk tolerance
+KeyWords Plus:SELECTION; MODEL
+Author Information
+Reprint Address: Wang, SM (reprint author)
+Univ Chinese Acad Sci, Dept Sch Econ & Management, Beijing 100049, Peoples R China.
+
+
+Addresses:
+[ 1 ] Univ Chinese Acad Sci, Dept Sch Econ & Management, Beijing 100049, Peoples R China
+
+
+[ 2 ] Nanjing Univ, Dept Sch Management & Engn, Nanjing 210093, Jiangsu, Peoples R China
+
+[ 3 ] Waseda Univ, Grad Sch Informat Prod & Syst, Kitakyushu, Fukuoka 8080135, Japan
+
+E-mail Addresses:wangshuming@ucas.ac.cn; bwangips@gmail.com; junzow@enlosb.att.ne.jp
+Funding
+Funding Agency Grant Number
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+71402176 
+91538113 
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Computer Science; Engineering
+Web of Science Categories:Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+See more data fields

@@ -1,0 +1,36 @@
+Preference-Based Inconsistency Management in Multi-Context Systems
+By:Eiter, T (Eiter, Thomas)[ 1 ] ; Weinzierl, A (Weinzierl, Antonius)[ 2 ]
+JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
+Volume: 60 Pages: 347-424
+DOI: 10.1613/jair.5416
+Published: 2017
+Document Type:Article
+Abstract
+Multi-Context Systems (MCS) are a powerful framework for interlinking possibly heterogeneous, autonomous knowledge bases, where information can be exchanged among knowledge bases by designated bridge rules with negation as failure. An acknowledged issue with MCS is inconsistency that arises due to the information exchange. To remedy this problem, inconsistency removal has been proposed in terms of repairs, which modify bridge rules based on suitable notions for diagnosis of inconsistency. In general, multiple diagnoses and repairs do exist; this leaves the user, who arguably may oversee the inconsistency removal, with the task of selecting some repair among all possible ones. To aid in this regard, we extend the MCS framework with preference information for diagnoses, such that undesired diagnoses are filtered out and diagnoses that are most preferred according to a preference ordering are selected. We consider preference information at a generic level and develop meta-reasoning techniques on diagnoses in MCS that can be exploited to reduce preference-based selection of diagnoses to computing ordinary subset-minimal diagnoses in an extended MCS. We describe two meta-reasoning encodings for preference orders: the first is conceptually simple but may incur an exponential blowup. The second is increasing only linearly in size and based on duplicating the original MCS. The latter requires nondeterministic guessing if a subset-minimal among all most preferred diagnoses should be computed. However, a complexity analysis of diagnoses shows that this is worst-case optimal, and that in general, preferred diagnoses have the same complexity as subset-minimal ordinary diagnoses. Furthermore, (subset-minimal) filtered diagnoses and (subset-minimal) ordinary diagnoses also have the same complexity.
+Keywords
+KeyWords Plus:COMPUTATIONAL-COMPLEXITY; LOGIC; STRATEGIES; RESOLUTION; ARGUMENTS
+Author Information
+Reprint Address: Eiter, T (reprint author)
+Tech Univ Wien, Inst Informat Syst, Abt Wissensbasierte Syst, Favoritenstr 9-11,184-3, A-1040 Vienna, Austria.
+
+Addresses:
+[ 1 ] Tech Univ Wien, Inst Informat Syst, Abt Wissensbasierte Syst, Favoritenstr 9-11,184-3, A-1040 Vienna, Austria
+
+[ 2 ] Aalto Univ, Dept Comp Sci, Konemiehentie 2, Espoo 02150, Finland
+
+E-mail Addresses:EITER@KR.TUWIEN.AC.AT; ANTONIUS.WEINZIERL@AALTO.FI
+Funding
+Funding Agency Grant Number
+Austrian Science Fund (FWF)Austrian Science Fund (FWF) 
+P27730 
+Academy of FinlandAcademy of Finland 
+251170 
+Vienna Science and Technology Fund (WWTF) 
+ICT08-020 
+View funding text   
+Publisher
+AI ACCESS FOUNDATION, USC INFORMATION SCIENCES INST, 4676 ADMIRALITY WAY, MARINA DEL REY, CA 90292-6695 USA
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Artificial Intelligence
+See more data fields

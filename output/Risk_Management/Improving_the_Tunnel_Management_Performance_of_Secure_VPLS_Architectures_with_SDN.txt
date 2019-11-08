@@ -1,0 +1,38 @@
+Improving the Tunnel Management Performance of Secure VPLS Architectures with SDN
+By:Liyanage, M (Liyanage, Madhusanka)[ 1 ] ; Ylianttila, M (Ylianttila, Mika)[ 2 ] ; Gurtov, A (Gurtov, Andrei)[ 3,4 ]
+View ResearcherID and ORCID
+2016 13TH IEEE ANNUAL CONSUMER COMMUNICATIONS & NETWORKING CONFERENCE (CCNC)
+Book Group Author(s):IEEE
+Published: 2016
+Document Type:Proceedings Paper
+Conference
+Conference: 13th IEEE Annual Consumer Communications and Networking Conference (CCNC)
+Location: Las Vegas, NV
+Date: JAN 06-13, 2016
+Sponsor(s):IEEE
+Abstract
+Secure VPLS (Virtual Private LAN Services) networks are becoming attractive in many Enterprise applications. However, the tunnel establishment mechanisms of legacy VPLS architectures are static, complex and inflexible in nature. As a result, secure VPLS architectures are suffering from limitations such as the limited scalability, over utilization of network resources, high tunnel establishment delay and high operational cost.
+
+In this article, we propose a novel SDN (Software Defined Networking) based VPLS (Virtual Private LAN Services) architecture to overcome tunnel management limitations in existing secure VPLS architectures. The proposed architecture utilizes IPsec enabled OpenFlow switches as PEs (Provider Edge Equipments) and OpenFlow protocol to install flow rules in PEs. A centralized controller is used to manage the tunnel establishment functions. We also propose a novel tunnel management mechanism which can estimate the tunnel duration based on real time session characteristics. Moreover, a novel tunnel resumption mechanism is proposed to reduce the tunnel establishment delay of subsequent tunnel establishments. Finally, the performance of proposed architecture is analyzed by using a simulation model and a testbed implementation.
+Keywords
+Author Keywords:VPLS; SDN; OpenFlow; Security; IPsec; HIP
+Author Information
+Reprint Address: Liyanage, M (reprint author)
+Univ Oulu, Ctr Wireless Commun, SF-90100 Oulu, Finland.
+
+Addresses:
+[ 1 ] Univ Oulu, Ctr Wireless Commun, SF-90100 Oulu, Finland
+
+[ 2 ] Univ Oulu, Ctr Internet Excellence, SF-90100 Oulu, Finland
+
+[ 3 ] Helsinki Inst Informat Technol, Helsinki, Finland
+
+[ 4 ] ITMO Univ, St Petersburg, Russia
+
+E-mail Addresses:madhusanka@ee.oulu.fi; mika.ylianttila@oulu.fi; gurtov@hiit.fi
+Publisher
+IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+Categories / Classification
+Research Areas:Engineering; Telecommunications
+Web of Science Categories:Engineering, Electrical & Electronic; Telecommunications
+See more data fields

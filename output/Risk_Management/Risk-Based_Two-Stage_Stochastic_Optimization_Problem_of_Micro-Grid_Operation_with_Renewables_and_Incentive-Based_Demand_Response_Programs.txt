@@ -1,0 +1,64 @@
+Risk-Based Two-Stage Stochastic Optimization Problem of Micro-Grid Operation with Renewables and Incentive-Based Demand Response Programs
+By:Sheikhahmadi, P (Sheikhahmadi, Pouria)[ 1 ] ; Mafakheri, R (Mafakheri, Ramyar)[ 2 ] ; Bahramara, S (Bahramara, Salah)[ 2 ] ; Damavandi, MY (Damavandi, Maziar Yazdani)[ 3 ] ; Catalao, JPS (Catalao, Joao P. S.)[ 3,4,5,6 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 11 Issue: 3
+Article Number: 610
+DOI: 10.3390/en11030610
+Published: MAR 2018
+Document Type:Article
+Abstract
+The operation problem of a micro-grid (MG) in grid-connected mode is an optimization one in which the main objective of the MG operator (MGO) is to minimize the operation cost with optimal scheduling of resources and optimal trading energy with the main grid. The MGO can use incentive-based demand response programs (DRPs) to pay an incentive to the consumers to change their demands in the peak hours. Moreover, the MGO forecasts the output power of renewable energy resources (RERs) and models their uncertainties in its problem. In this paper, the operation problem of an MGO is modeled as a risk-based two-stage stochastic optimization problem. To model the uncertainties of RERs, two-stage stochastic programming is considered and conditional value at risk (CVaR) index is used to manage the MGO's risk-level. Moreover, the non-linear economic models of incentive-based DRPs are used by the MGO to change the peak load. The numerical studies are done to investigate the effect of incentive-based DRPs on the operation problem of the MGO. Moreover, to show the effect of the risk-averse parameter on MGO decisions, a sensitivity analysis is carried out.
+Keywords
+Author Keywords:demand response programs; micro-grid; renewable energy resources; risk-management; two-stage stochastic programming
+KeyWords Plus:HYBRID POWER-SYSTEMS; ENERGY MANAGEMENT; GENERATION; RESOURCES; STRATEGY; DISPATCH; MODELS
+Author Information
+Reprint Address: Bahramara, S (reprint author)
+Islamic Azad Univ, Sanandaj Branch, Dept Elect Engn, Sanandaj 66131, Iran.
+
+Reprint Address: Catalao, JPS (reprint author)
+Univ Beira Interior, C MAST, P-6201001 Covilha, Portugal.
+
+Reprint Address: Catalao, JPS (reprint author)
+INESC TEC, P-4200465 Porto, Portugal.
+
+Reprint Address: Catalao, JPS (reprint author)
+Univ Porto, Fac Engn, P-4200465 Porto, Portugal.
+
+Reprint Address: Catalao, JPS (reprint author)
+Univ Lisbon, Inst Super Tecn, INESC ID, P-1049001 Lisbon, Portugal.
+
+
+Addresses:
+       [ 1 ] Univ Kurdistan, Dept Elect & Comp Engn, Sanandaj 66131, Iran
+[ 2 ] Islamic Azad Univ, Sanandaj Branch, Dept Elect Engn, Sanandaj 66131, Iran
+
+[ 3 ] Univ Beira Interior, C MAST, P-6201001 Covilha, Portugal
+
+[ 4 ] INESC TEC, P-4200465 Porto, Portugal
+
+[ 5 ] Univ Porto, Fac Engn, P-4200465 Porto, Portugal
+
+[ 6 ] Univ Lisbon, Inst Super Tecn, INESC ID, P-1049001 Lisbon, Portugal
+
+
+E-mail Addresses:pouria.sheikhahmadi@yahoo.com; rami.mafakheri@gmail.com; s_bahramara@yahoo.com; maziar.yazdani.d@gmail.com; catalao@ubi.pt
+Funding
+Funding Agency Grant Number
+FEDER funds through COMPETE 2020   
+Portuguese funds through FCT 
+SAICT-PAC/0004/2015-POCI-01-0145-FEDER-016434 
+POCI-01-0145-FEDER-006961 
+UID/EEA/50014/2013 
+UID/CEC/50021/2013 
+UID/EMS/00151/2013 
+02/SAICT/2017-POCI-01-0145-FEDER-029803 
+EUEuropean Union (EU) 
+309048 
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

@@ -1,0 +1,31 @@
+Foundations and trends in performance management. A twenty-five years bibliometric analysis in business and public administration domains
+By:Cuccurullo, C (Cuccurullo, Corrado)[ 1 ] ; Aria, M (Aria, Massimo)[ 2 ] ; Sarto, F (Sarto, Fabrizia)[ 3 ]
+View ResearcherID and ORCID
+SCIENTOMETRICS
+Volume: 108 Issue: 2 Pages: 595-611
+DOI: 10.1007/s11192-016-1948-8
+Published: AUG 2016
+Document Type:Article
+Abstract
+Our paper analyses 25 years of performance management research published in the English-language journals, included in SSCI database, separating the business domain from public sector one. We used a content analysis for showing the relationships between the subfields of performance management and the time evolution. Through a multiple correspondence analysis based on keywords we provide a framework to track this literature over the 25-year period. We conclude the paper with a discussion on future pathways in the performance management literature.
+Keywords
+Author Keywords:Performance management; Multiple correspondence analysis; Historiograph; Scientometrics
+KeyWords Plus:INTELLECTUAL STRUCTURE; BALANCED SCORECARD; ACCOUNTING INFORMATION; EXECUTIVE-COMPENSATION; MEASUREMENT SYSTEM; RESEARCH AGENDA; GOVERNMENT; EVOLUTION; SUBJECTIVITY; INCENTIVES
+Author Information
+Reprint Address: Cuccurullo, C (reprint author)
+Seconda Univ Napoli, Dept Econ & Management, Capua, CE, Italy.
+
+Addresses:
+[ 1 ] Seconda Univ Napoli, Dept Econ & Management, Capua, CE, Italy
+
+[ 2 ] Univ Napoli Federico II, Dept Econ & Stat, Via Cintia, I-80126 Naples, Italy
+
+[ 3 ] Univ Napoli Federico II, Dept Econ, Management, Via Cintia, I-80126 Naples, Italy
+
+E-mail Addresses:corrado.cuccurullo@unina2.it; massimo.aria@unina.it; fabrizia.sarto@unina.it
+Publisher
+SPRINGER, VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+Categories / Classification
+Research Areas:Computer Science; Information Science & Library Science
+Web of Science Categories:Computer Science, Interdisciplinary Applications; Information Science & Library Science
+See more data fields

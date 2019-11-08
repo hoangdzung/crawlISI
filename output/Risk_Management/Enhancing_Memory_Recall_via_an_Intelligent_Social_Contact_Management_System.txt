@@ -1,0 +1,40 @@
+Enhancing Memory Recall via an Intelligent Social Contact Management System
+By:Guo, B (Guo, Bin)[ 1 ] ; Zhang, DQ (Zhang, Daqing)[ 2 ] ; Yang, DQ (Yang, Dingqi)[ 2 ] ; Yu, ZW (Yu, Zhiwen)[ 1 ] ; Zhou, XS (Zhou, Xingshe)[ 1 ]
+IEEE TRANSACTIONS ON HUMAN-MACHINE SYSTEMS
+Volume: 44 Issue: 1 Pages: 78-91
+DOI: 10.1109/THMS.2013.2294332
+Published: FEB 2014
+Document Type:Article
+Abstract
+Human memory often fails. People are frequently beset with questions like "Who is that person? I think I met him in Tokyo last year." Existing memory aid tools cannot well support the recall of names effectively. This paper explores the memory recall enhancement issue from the perspective of memory cue extraction and associative search, and proposes a generic methodology to extract memory cues from heterogeneous, multimodal, physical/ virtual data sources. Specifically, we use the contact name recall in the academic community as the target application to showcase our proposed methodology. We further develop an intelligent social contact manager that supports 1) autocollection of rich contact data from a combination of pervasive sensors and Web data sources, and 2) associative search of contacts when humanmemory fails. The system is validated by testing the performance of contact data collection techniques. An empirical user study on contact memory recall is also conducted, through which several findings about contact memorizing and recall are presented. Classic cognitive psychology theories are used to interpret these findings.
+Keywords
+Author Keywords:Contact recall; memory aid; pervasive computing; social contact management; Web intelligence
+Author Information
+Reprint Address: Guo, B (reprint author)
+Northwestern Polytech Univ, Dept Comp Sci, Xian 710072, Peoples R China.
+
+Addresses:
+[ 1 ] Northwestern Polytech Univ, Dept Comp Sci, Xian 710072, Peoples R China
+
+[ 2 ] Inst TELECOM TELECOM SudParis, Telecommun Network & Serv Dept, HANDICOM Lab, F-91000 Evry, France
+
+E-mail Addresses:guobin.keio@gmail.com; Daqing.Zhang@it-sudparis.eu; dingqiyang@it-sudparis.eu; zhiweny@nwpu.edu.cn; zhouxs@nwpu.edu.cn
+Funding
+Funding Agency Grant Number
+National Basic Research Program of ChinaNational Basic Research Program of China 
+2012CB316400 
+EU FP7 SOCIETIES project   
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+61373119 
+61332005 
+61222209 
+61103063 
+Basic Research Foundation of NPU 
+JC20110267 
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Artificial Intelligence; Computer Science, Cybernetics
+See more data fields

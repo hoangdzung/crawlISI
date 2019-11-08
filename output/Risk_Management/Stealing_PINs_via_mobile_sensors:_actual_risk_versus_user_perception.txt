@@ -1,0 +1,33 @@
+Texture feature benchmarking and evaluation for historical document image analysis
+By:Mehri, M (Mehri, Maroua)[ 1 ] ; Heroux, P (Heroux, Pierre)[ 1 ] ; Gomez-Kramer, P (Gomez-Kramer, Petra)[ 2 ] ; Mullot, R (Mullot, Remy)[ 2 ]
+View ResearcherID and ORCID
+INTERNATIONAL JOURNAL ON DOCUMENT ANALYSIS AND RECOGNITION
+Volume: 20 Issue: 1 Pages: 1-35
+DOI: 10.1007/s10032-016-0278-y
+Published: MAR 2017
+Document Type:Article
+Abstract
+The use of different texture-based methods is pervasive in different subfields and tasks of document image analysis (DIA) and particularly in historical DIA (HDIA). Nevertheless, faced with a large diversity of texture-based methods used for HDIA, few questions arise. Which texture methods are firstly well suited for segmenting graphical contents from textual ones, discriminating various text fonts and scales, and separating different types of graphics? Then, which texture-based method represents a constructive compromise between the performance and the computational cost? Thus, in this article a benchmarking of the most classical and widely used texture-based feature sets has been conducted using a classical texture-based pixel-labeling scheme on a large corpus of historical documents to have satisfactory and clear answers to the above questions. We focus on determining the performance of each texture-based feature set according to the document content. The results reported in this study provide firstly a qualitative measure of which texture-based feature sets are the most appropriate and secondly a useful benchmark in terms of performance and computational cost for current and future research efforts in HDIA.
+Keywords
+Author Keywords:Benchmarking; Texture; Pixel-labeling; Historical document image analysis
+KeyWords Plus:PAGE SEGMENTATION; LAYOUT ANALYSIS; CLASSIFICATION; HANDWRITTEN; RECOGNITION; PERFORMANCE; EXTRACTION; COLOR
+Author Information
+Reprint Address: Mehri, M (reprint author)
+       Normandie Univ, UNIROUEN, UNIHAVRE, INSA Rouen,LITIS, F-76000 Rouen, France.
+Addresses:
+       [ 1 ] Normandie Univ, UNIROUEN, UNIHAVRE, INSA Rouen,LITIS, F-76000 Rouen, France
+[ 2 ] Univ La Rochelle, EA 2118 L3i, Ave Michel Crepeau, La Rochelle, France
+
+
+E-mail Addresses:maroua.mehri@gmail.com; pierre.heroux@univ-rouen.fr; petra.gomez@univ-lr.fr; remy.mullot@univ-lr.fr
+Funding
+Funding Agency Grant Number
+French national research agency (ANR)French National Research Agency (ANR) 
+ANR-10-CORD-0020 
+View funding text   
+Publisher
+SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Artificial Intelligence
+See more data fields

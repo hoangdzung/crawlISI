@@ -1,0 +1,35 @@
+The Effect of Project Management Capabilities on Project Success in Pakistan: An Empirical Investigation
+By:Irfan, M (Irfan, Muhammad)[ 1 ] ; Hassan, M (Hassan, Mazlan)[ 2 ] ; Hassan, N (Hassan, Nasruddin)[ 3 ]
+View ResearcherID and ORCID
+IEEE ACCESS
+Volume: 7 Pages: 39417-39431
+DOI: 10.1109/ACCESS.2019.2906851
+Published: 2019
+Document Type:Article
+Abstract
+Project management maturity (PMM) is gaining interest from different domains of research because it can be used to assess the strengths and weaknesses of ongoing projects within organizations. Thus, this paper aims to present and validate a research model that includes PMM and project success. Partial least squares' structural equation modeling (PLS-SEM) is used to assess the research model. The suggested hypotheses were tested based on a sample of 425 respondents from project-based organizations in Pakistan. The findings of the study indicate that there is a positive relationship between PMM and project success. Moreover, it was inferred from the results that different dimensions of PMM such as knowledge management transfer, process management, and resource project management could directly influence project success. However, it is also determined in this study that the use of software, continuous improvement, and training did not significantly affect the success of projects in Pakistan.
+Keywords
+Author Keywords:Continuous improvement; knowledge management transfer; partial least squares structural equation modeling; process management; project management maturity; project success; resource project management; software; training
+KeyWords Plus:PROCESS IMPROVEMENT; PROCESS MATURITY; GOVERNANCE; MODELS; VARIABLES; PROGRAM; IMPACT
+Author Information
+Reprint Address: Hassan, N (reprint author)
+Univ Kebangsaan Malaysia, Fac Sci & Technol, Sch Math Sci, Bangi 43600, Malaysia.
+
+Addresses:
+       [ 1 ] Balochistan Univ Informat Technol Engn & Manageme, Fac Engn & Architecture, Dept Civil Engn, Quetta 87650, Pakistan
+[ 2 ] Univ Putra Malaysia, Fac Econ & Management, Dept Management & Mkt, Serdang 43400, Malaysia
+
+[ 3 ] Univ Kebangsaan Malaysia, Fac Sci & Technol, Sch Math Sci, Bangi 43600, Malaysia
+
+E-mail Addresses:nas@ukm.edu.my
+Funding
+Funding Agency Grant Number
+Universiti Putra Malaysia 
+9001103 
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Computer Science; Engineering; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+See more data fields

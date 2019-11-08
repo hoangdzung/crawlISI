@@ -1,0 +1,31 @@
+A semantic context exchange process for the federated management of the future internet
+By:Latre, S (Latre, Steven)[ 1 ] ; Famaey, J (Famaey, Jeroen)[ 2 ] ; De Turck, F (De Turck, Filip)[ 2 ]
+View ResearcherID and ORCID
+INTERNATIONAL JOURNAL OF NETWORK MANAGEMENT
+Volume: 24 Issue: 1 Pages: 1-27
+DOI: 10.1002/nem.1840
+Published: JAN 2014
+Document Type:Article
+Abstract
+In the Future Internet, federations are set up to cope with the stringent quality requirements of services. While a federated solution offers advantages in terms of scalability, it complicates the exchange of context (e.g. Quality of Service information of services) between federated nodes, as each node requires context to perform management tasks. In this article, we propose a context exchange process that automates the context communication between nodes. A scalable approach is proposed that is able to quickly react to local context updates, while maintaining a high level of expressivity to define relationships between federation partners. We distinguish between the context exchange inside an administrative domain, which focuses on scalability, and the context exchange between federation partners, which emphasizes the trust relationships between partners. In both cases, the process allows defining which context needs to be exchanged when and from where. Inside an administrative domain, a combination of RDF and SPARQL rules are used. This allows modeling the contextual requirements of management algorithms and automatically requesting remote context, only when it is necessary for the management algorithms to proceed. Between domains, an OWL-based approach is used, which allows describing the complex relationships between federation partners. Triggered by the intra-domain context exchange process, the contextual capabilities are communicated and refined through policies. Both type of processes are evaluated. The results show that they can infer which context is needed in a timely and scalable manner. As such, it outperforms approaches where context is broadcast both in required bandwidth and end-to-end delay. Copyright (c) 2013 John Wiley & Sons, Ltd.
+Keywords
+KeyWords Plus:KNOWLEDGE
+Author Information
+Reprint Address: Latre, S (reprint author)
+Univ Ghent, Dept Informat Technol, iMinds, Gaston Crommenlaan 8-201, B-90509 Ghent, Belgium.
+
+
+Addresses:
+[ 1 ] Univ Antwerp, Dept Math & Comp Sci, iMinds, B-2020 Antwerp, Belgium
+
+
+[ 2 ] Univ Ghent, Dept Informat Technol, iMinds, B-90509 Ghent, Belgium
+
+
+E-mail Addresses:steven.latre@intec.ugent.be
+Publisher
+WILEY, 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+Categories / Classification
+Research Areas:Computer Science; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Telecommunications
+See more data fields

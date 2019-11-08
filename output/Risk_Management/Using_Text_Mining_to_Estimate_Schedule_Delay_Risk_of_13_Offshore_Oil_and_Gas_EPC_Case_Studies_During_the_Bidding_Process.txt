@@ -1,0 +1,40 @@
+Using Text Mining to Estimate Schedule Delay Risk of 13 Offshore Oil and Gas EPC Case Studies During the Bidding Process
+By:Son, BY (Son, Byung-Yun)[ 1,2 ] ; Lee, EB (Lee, Eul-Bum)[ 2,3 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 12 Issue: 10
+Article Number: 1956
+DOI: 10.3390/en12101956
+Published: MAY 2 2019
+Document Type:Article
+Abstract
+Korean offshore oil and gas (O&G) mega project contractors have recently suffered massive deficits due to the challenges and risks inherent to the offshore engineering, procurement, and construction (EPC) of megaprojects. This has resulted in frequent prolonged projects, schedule delay, and consequently significant cost overruns. Existing literature has identified one of the major causes of project delays to be the lack of adequate tools or techniques to diagnose the appropriateness and sufficiency of the contract deadline proposed by project owners prior to signing the contract in the bid. As such, this paper seeks to propose appropriate or correct project durations using the research methodology of text mining for bid documents. With the emergence of big data' research, text mining has become an acceptable research strategy, having already been utilized in various industries including medicine, legal, and securities. In this study the scope of work (SOW), as a main part of EPC contracts is analyzed using text mining processes in a sequence of pre-processing, structuring, and normalizing. Lessons learned, collected from 13 executed off shore EPC projects, are then used to reinforce the findings from said process. For this study, critical terms (CT), representing the root of past problems, are selected from the reports of lessons learned. The occurrence of the CT in the SOW are then counted and converted to a schedule delay risk index (SDRI) for the sample projects. The measured SDRI of each sample project are then correlated to the project's actual schedule delay via regression analysis. The resultant regression model is entitled the schedule delay estimate model (SDEM) for this paper based on the case studies. Finally, the developed SDEM's accuracy is validated through its use to predict schedule delays on recently executed projects with the findings being compared with actual schedule performance. This study found the relationship between the SDRI, frequency of CTs in the SOW, and delays to be represented by the regression formula. Through assessing its performance with respect to the 13th project, said formula was found to have an accuracy of 81%. As can be seen, this study found that more CTs in the SOW leads to a higher tendency for a schedule delay. Therefore, a higher project SDRI implies that there are more issues on projects which required more time to resolve them. While the low number of projects used to develop the model reduces its generalizability, the text mining research methodology used to quantitatively estimate project schedule delay can be generalized and applied to other industries where contractual documents and information regarding lessons learned are available.
+Keywords
+Author Keywords:offshore oil and gas; EPC Project; text mining; regression analysis; schedule performance; contract analysis; lessons learned
+KeyWords Plus:COST; MAINTENANCE
+Author Information
+Reprint Address: Lee, EB (reprint author)
+Pohang Univ Sci & Technol POSTECH, Grad Sch Engn Mastership GEM, 77 Cheongam Ro, Pohang 37673, South Korea.
+
+Reprint Address: Lee, EB (reprint author)
+Pohang Univ Sci & Technol POSTECH, Dept Ind & Management Engn, 77 Cheongam Ro, Pohang 37673, South Korea.
+
+Addresses:
+       [ 1 ] HHI, Project Management Team, 400 Bangeojinsunhwan Doro, Ulsan 44114, South Korea
+[ 2 ] Pohang Univ Sci & Technol POSTECH, Grad Sch Engn Mastership GEM, 77 Cheongam Ro, Pohang 37673, South Korea
+
+[ 3 ] Pohang Univ Sci & Technol POSTECH, Dept Ind & Management Engn, 77 Cheongam Ro, Pohang 37673, South Korea
+
+E-mail Addresses:byson@postech.ac.kr; dreblee@postech.ac.kr
+Funding
+Funding Agency Grant Number
+Ministry of Trade Industry and Energy (MOTIE/KEIT) Korea through the Technology Innovation Program 
+20002806 
+10077606 
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

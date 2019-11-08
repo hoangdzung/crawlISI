@@ -1,0 +1,36 @@
+MetaLIMS, a simple open-source laboratory information management system for small metagenomic labs
+By:Heinle, CE (Heinle, Cassie Elizabeth)[ 1 ] ; Gaultier, NPE (Gaultier, Nicolas Paul Eugene)[ 1 ] ; Miller, D (Miller, Dana)[ 1 ] ; Purbojati, RW (Purbojati, Rikky Wenang)[ 1 ] ; Lauro, FM (Lauro, Federico M.)[ 1 ]
+View ResearcherID and ORCID
+GIGASCIENCE
+Volume: 6 Issue: 6
+DOI: 10.1093/gigascience/gix025
+Published: APR 18 2017
+Document Type:Article
+Abstract
+Background: As the cost of sequencing continues to fall, smaller groups increasingly initiate and manage larger sequencing projects and take on the complexity of data storage for high volumes of samples. This has created a need for low-cost laboratory information management systems (LIMS) that contain flexible fields to accommodate the unique nature of individual labs. Many labs do not have a dedicated information technology position, so LIMS must also be easy to setup and maintain with minimal technical proficiency. Findings: MetaLIMS is a free and open-source web-based application available via GitHub. The focus of MetaLIMS is to store sample metadata prior to sequencing and analysis pipelines. Initially designed for environmental metagenomics labs, in addition to storing generic sample collection information and DNA/RNA processing information, the user can also add fields specific to the user's lab. MetaLIMS can also produce a basic sequencing submission form compatible with the proprietary Clarity LIMS system used by some sequencing facilities. To help ease the technical burden associated with web deployment, MetaLIMS options the use of commercial web hosting combined with MetaLIMS bash scripts for ease of setup. Conclusions: MetaLIMS overcomes key challenges common in LIMS by giving labs access to a low-cost and open-source tool that also has the flexibility to meet individual lab needs and an option for easy deployment. By making the web application open source and hosting it on GitHub, we hope to encourage the community to build upon MetaLIMS, making it more robust and tailored to the needs of more researchers.
+Keywords
+Author Keywords:LIMS; customizable; GitHub; open-source; web application; sample management; JavaScript; php; mysql; HTML
+Author Information
+Reprint Address: Heinle, CE (reprint author)
+Nanyang Technol Univ, SCELSE, 60 Nanyang Dr, Singapore 637551, Singapore.
+
+
+Addresses:
+[ 1 ] Nanyang Technol Univ, SCELSE, 60 Nanyang Dr, Singapore 637551, Singapore
+
+
+E-mail Addresses:cheinle@ntu.edu.sg
+Funding
+Funding Agency Grant Number
+Singapore Ministry of Education Academic Research FundMinistry of Education, Singapore 
+MOE2013-T3-1-013 
+National Research Foundation SingaporeSingapore National Research Foundation   
+Ministry of Education, Nanyang Technological University   
+National University of Singapore under Research Centre of Excellence Program   
+View funding text   
+Publisher
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+Categories / Classification
+Research Areas:Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+Web of Science Categories:Biology; Multidisciplinary Sciences
+See more data fields

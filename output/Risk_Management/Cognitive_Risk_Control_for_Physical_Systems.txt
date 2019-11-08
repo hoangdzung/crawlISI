@@ -1,0 +1,29 @@
+Cognitive Risk Control for Physical Systems
+By:Haykin, S (Haykin, Simon)[ 1 ] ; Fuster, JM (Fuster, Joaquin M.)[ 2 ] ; Findlay, D (Findlay, David)[ 1 ] ; Feng, S (Feng, Shuo)[ 1 ]
+IEEE ACCESS
+Volume: 5 Pages: 14664-14679
+DOI: 10.1109/ACCESS.2017.2726439
+Published: 2017
+Document Type:Article
+Abstract
+The cognitive dynamic system (CDS) is a structured physical model and research tool inspired by certain features of the human brain. One such feature is the predictive adaptation of the organism to the future environment. From an engineering perspective, this property of the brain is of profound practical importance, particularly when the system, in the pursuit of goals or performing tasks, confronts unexpected adverse events or obstacles, which in the aggregate are commonly referred to as risk. To avert risk efficiently, much of the information processed in the past by the CDS is available for processing new information in one of the system's components termed the perceptor. In the face of uncertainty, the perceptor will provide the processed information to the executive in order for the latter to avoid probable risk. To that effect, the executive will be fitted with Bayesian filtering mechanisms that will guide the CDS to its goal through timely risk-avoiding actions. Those mechanisms not only have unique engineering applications but also potential value for understanding the predictive-adaptation property of the brain, which modern neuroscience attributes to the prefrontal cortex.
+Keywords
+Author Keywords:Cognition; memory; attention; cognitive dynamic system; perceptor; executive; control; feedback; uncertainty; risk; task-switch control; cognitive action; predictive adaptation; risk-sensitive cognitive action
+KeyWords Plus:PREFRONTAL CORTEX
+Author Information
+Reprint Address: Feng, S (reprint author)
+McMaster Univ, Cognit Syst Lab, Hamilton, ON L8S 4L8, Canada.
+
+Addresses:
+[ 1 ] McMaster Univ, Cognit Syst Lab, Hamilton, ON L8S 4L8, Canada
+
+[ 2 ] Univ Calif Los Angeles, Semel Inst Neurosci & Human Behav, Los Angeles, CA 90095 USA
+
+
+E-mail Addresses:fengs13@mcmaster.ca
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Computer Science; Engineering; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+See more data fields

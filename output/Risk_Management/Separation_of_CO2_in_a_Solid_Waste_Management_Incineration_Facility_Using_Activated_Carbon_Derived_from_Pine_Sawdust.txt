@@ -1,0 +1,37 @@
+Separation of CO2 in a Solid Waste Management Incineration Facility Using Activated Carbon Derived from Pine Sawdust
+By:Duran, I (Duran, Ines)[ 1 ] ; Rubiera, F (Rubiera, Fernando)[ 1 ] ; Pevida, C (Pevida, Covadonga)[ 1 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 10 Issue: 6
+Article Number: 827
+DOI: 10.3390/en10060827
+Published: JUN 2017
+Document Type:Article
+Abstract
+The selective separation of CO2 from gas mixtures representative of flue gas generated in waste incineration systems is studied on two activated carbons obtained from pine sawdust and compared to a commercial activated carbon. Dynamic adsorption experiments were conducted in a fixed-bed adsorption column using a binary mixture (N-2/CO2) with a composition representative of incineration streams at temperatures from 30 to 70 degrees C. The adsorption behavior of humid mixtures (N-2/CO2/H2O) was also evaluated in order to assess the influence of water vapor in CO2 adsorption at different relative humidity in the feed gas: 22% and 60%. Moreover, CO2 adsorption was studied in less favorable conditions, i.e., departing from a bed initially saturated with H2O. In addition, the effect of CO2 on H2O adsorption was examined. Experimental results showed that the CO2 adsorption capacity can be reduced significantly by the adsorption of H2O (up to 60% at high relative humidity conditions). On the other hand, the breakthrough tests over the adsorbent initially saturated with water vapor indicated that H2O is little affected by CO2 adsorption. The experimental results pointed out the biomass based carbons as best candidates for CO2 separation under incineration flue gas conditions.
+Keywords
+Author Keywords:activated carbon; CO2 capture; incineration; breakthrough curve; water vapor
+KeyWords Plus:WATER-VAPOR ADSORPTION; FLUE-GAS; DIOXIDE CAPTURE; N-2 ADSORPTION; SIMULATION
+Author Information
+Reprint Address: Pevida, C (reprint author)
+CSIC, Inst Nacl Carbon, INCAR, C Francisco Pintado Fe 26, Oviedo 33011, Spain.
+
+
+Addresses:
+[ 1 ] CSIC, Inst Nacl Carbon, INCAR, C Francisco Pintado Fe 26, Oviedo 33011, Spain
+
+
+E-mail Addresses:i.duran@incar.csic.es; frubiera@incar.csic.es; cpevida@incar.csic.es
+Funding
+Funding Agency Grant Number
+Spanish MINECO 
+Retos-Colaboracion RTC-2014-2109-5 
+Gobierno del Principado de Asturias 
+PCTI-GRUPIN14-079 
+View funding text   
+Publisher
+MDPI AG, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

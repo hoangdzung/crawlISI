@@ -1,0 +1,37 @@
+Optimized energy use through systematic short-term management of industrial waste incineration
+By:Abaecherli, ML (Abaecherli, Matteo L.)[ 1 ] ; Capon-Garcia, E (Capon-Garcia, Elisabet)[ 1 ] ; Szijjarto, A (Szijjarto, Andrej)[ 2 ] ; Hungerbuhler, K (Hungerbuhler, Konrad)[ 1 ]
+COMPUTERS & CHEMICAL ENGINEERING
+Volume: 104 Pages: 241-258
+DOI: 10.1016/j.compchemeng.2017.03.023
+Published: SEP 2 2017
+Document Type:Article
+Abstract
+The introduced work aims to systematic optimize detailed short-term scheduling for industrial waste incineration to support daily decision-making processes. The overall objective is to reduce the utilization of auxiliary fuel used to overcome waste related energy in the incineration process. The reduction is achieved through adequate mixing and scheduling of waste streams with different energy content and improved logistic strategies. With it, regulatory and technical constraints are fulfilled and holdups in production processes derived from bottlenecks in the waste treatment are avoided.
+
+The considered system consists of storage tanks, a piping network, tank wagons for waste transportation, unloading pumps and incineration lances. The optimization model is formulated as a mixed-integer linear programming (MILP) problem with a discrete time representation based on a single uniform grid. It consists of two blocks: i) waste transfer and mixing, and ii) the incineration process itself including energy calculations and constraints.
+
+The industrial case study of this work shows a saving potential of auxiliary fuel of up to 90%, leading to a reduction of CO2 emissions of up to 13%. Hence, the systematic scheduling of industrial waste incineration leads to an important reduction of auxiliary fuel consumption, resulting in economic and environmental benefits. (C) 2017 Elsevier Ltd. All rights reserved.
+Keywords
+Author Keywords:Waste-to-energy; Industrial waste; Waste incineration; Scheduling; Mathematical optimization; Energy efficiency
+KeyWords Plus:ENTERPRISE-WIDE OPTIMIZATION; TO-ENERGY; MULTIOBJECTIVE OPTIMIZATION; REFINERY OPERATIONS; SCHEDULING MODELS; CHALLENGES; PLANT
+Author Information
+Reprint Address: Capon-Garcia, E (reprint author)
+Swiss Fed Inst Technol, Inst Chem & Bioengn, Vladimir Prelog Weg I, CH-8093 Zurich, Switzerland.
+
+Addresses:
+[ 1 ] Swiss Fed Inst Technol, Inst Chem & Bioengn, Vladimir Prelog Weg I, CH-8093 Zurich, Switzerland
+
+       [ 2 ] Lonza AG, Energy & Waste Management, Rottenstr 6, CH-3930 Visp, Switzerland
+E-mail Addresses:elisabet.capon@chem.ethz.ch
+Funding
+Funding Agency Grant Number
+Lonza Group AG   
+Swiss Commission for Technology and Innovation (CTI) 
+15840.1 PFIW-IW 
+View funding text   
+Publisher
+PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+Categories / Classification
+Research Areas:Computer Science; Engineering
+Web of Science Categories:Computer Science, Interdisciplinary Applications; Engineering, Chemical
+See more data fields

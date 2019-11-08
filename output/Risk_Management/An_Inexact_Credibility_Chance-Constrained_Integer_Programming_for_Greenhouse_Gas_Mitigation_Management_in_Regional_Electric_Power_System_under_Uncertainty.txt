@@ -1,0 +1,46 @@
+An Inexact Credibility Chance-Constrained Integer Programming for Greenhouse Gas Mitigation Management in Regional Electric Power System under Uncertainty
+By:Li, W (Li, W.)[ 1 ] ; Bao, Z (Bao, Z.)[ 1 ] ; Huang, GH (Huang, G. H.)[ 2 ] ; Xie, YL (Xie, Y. L.)[ 3 ]
+View ResearcherID and ORCID
+JOURNAL OF ENVIRONMENTAL INFORMATICS
+Volume: 31 Issue: 2 Pages: 111-122
+DOI: 10.3808/jei.201500326
+Published: JUN 2018
+Document Type:Article
+Abstract
+Electric power system (EPS) management considering greenhouse gas (GHG) mitigation is a challenging task, since many system parameters such as electric demand, resource availability, system cost as well as their interrelationships may appear uncertain. To reflect these uncertainties, in this study, an interval-parameter credibility constrained programming (ICCP) method was developed for electric power system planning in light of GHG mitigation. The method was advantageous in tackling uncertainties expressed as not only fuzzy possibilistic distributions associated with the right-hand-side components of model constraints but also discrete intervals in the objective function. In addition, ICCP allowed satisfaction of system constraints at specified confidence level, leading to model solutions with low system cost under acceptable risk magnitudes. The obtained results indicated that stable intervals for the objective function and decision variables could be generated, which were useful for helping decision makers identify the desired electric power generation patterns, capacity expansion schemes and GHG-emission reduction under complex uncertainties, and gain in-depth insights into the trade-offs between system economy and reliability.
+Keywords
+Author Keywords:decision making; interval linear programming; credibility constrained programming; electric power system; uncertainty
+KeyWords Plus:SOLID-WASTE MANAGEMENT; WATER-RESOURCES MANAGEMENT; FUZZY RELATION ANALYSIS; LAND-USE MANAGEMENT; OPTIMIZATION APPROACH; DYNAMIC OPTIMIZATION; LAKE AREAS; MODEL; ENERGY; ENVIRONMENT
+Author Information
+Reprint Address: Li, W (reprint author)
+North China Elect Power Univ, S&S Resources & Environm Res Acad, MOE Key Lab Reg Energy Syst Optimizat, Beijing 102206, Peoples R China.
+
+Addresses:
+[ 1 ] North China Elect Power Univ, S&S Resources & Environm Res Acad, MOE Key Lab Reg Energy Syst Optimizat, Beijing 102206, Peoples R China
+
+[ 2 ] North China Elect Power Univ, UR, Inst Energy Environm & Sustainabil Res, Beijing 102206, Peoples R China
+
+[ 3 ] Univ Sci & Technol Beijing, Sch Mech Engn, Beijing 100083, Peoples R China
+
+E-mail Addresses:weili1027@gmail.com
+Funding
+Funding Agency Grant Number
+National Key Research and Development Plan 
+2016YFC0502800 
+2016YFA0601502 
+Natural Sciences FoundationNational Natural Science Foundation of China 
+61471171 
+51520105013 
+51679087 
+111 Program 
+B14008 
+Environmental Protection Public Welfare Scientific Research Project 
+201509010 
+Natural Science and Engineering Research Council of CanadaNatural Sciences and Engineering Research Council of Canada   
+View funding text   
+Publisher
+INT SOC ENVIRON INFORM SCI, 4246 ALBERT ST, REGINA, SASKATCHEWAN S4S 3R9, CANADA
+Categories / Classification
+Research Areas:Environmental Sciences & Ecology
+Web of Science Categories:Environmental Sciences
+See more data fields

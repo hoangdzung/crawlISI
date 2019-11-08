@@ -1,0 +1,25 @@
+Malaria Risk Stratification and Modeling the Effect of Rainfall on Malaria Incidence in Eritrea
+By:Kifle, MM (Kifle, Meron Mehari)[ 1 ] ; Teklemariam, TT (Teklemariam, Tsega Tekeste)[ 2 ] ; Teweldeberhan, AM (Teweldeberhan, Adam Mengesteab)[ 2 ] ; Tesfamariam, EH (Tesfamariam, Eyasu Habte)[ 1 ] ; Andegiorgish, AK (Andegiorgish, Amanuel Kidane)[ 1 ] ; Kidane, EA (Kidane, Eyob Azaria)[ 1 ]
+View ResearcherID and ORCID
+JOURNAL OF ENVIRONMENTAL AND PUBLIC HEALTH
+Article Number: 7314129
+DOI: 10.1155/2019/7314129
+Published: 2019
+Document Type:Article
+Abstract
+Background. Malaria risk stratification is essential to differentiate areas with distinct malaria intensity and seasonality patterns. The development of a simple prediction model to forecast malaria incidence by rainfall offers an opportunity for early detection of malaria epidemics. Objectives. To construct a national malaria stratification map, develop prediction models and forecast monthly malaria incidences based on rainfall data. Methods. Using monthly malaria incidence data from 2012 to 2016, the district level malaria stratification was constructed by nonhierarchical clustering. Cluster validity was examined by the maximum absolute coordinate change and analysis of variance (ANOVA) with a conservative post hoc test (Bonferroni) as the multiple comparison test. Autocorrelation and cross-correlation analyses were performed to detect the autocorrelation of malaria incidence and the lagged effect of rainfall on malaria incidence. The effect of rainfall on malaria incidence was assessed using seasonal autoregressive integrated moving average (SARIMA) models. Ljung-Box statistics for model diagnosis and stationary R-squared and Normalized Bayesian Information Criteria for model fit were used. Model validity was assessed by analyzing the observed and predicted incidences using the spearman correlation coefficient and paired samples t-test. Results. A four cluster map (high risk, moderate risk, low risk, and very low risk) was the most valid stratification system for the reported malaria incidence in Eritrea. Monthly incidences were influenced by incidence rates in the previous months. Monthly incidence of malaria in the constructed clusters was associated with 1, 2, 3, and 4 lagged months of rainfall. The constructed models had acceptable accuracy as 73.1%, 46.3%, 53.4%, and 50.7% of the variance in malaria transmission were explained by rainfall in the high-risk, moderate-risk, low-risk, and very low-risk clusters, respectively. Conclusion. Change in rainfall patterns affect malaria incidence in Eritrea. Using routine malaria case reports and rainfall data, malaria incidences can be forecasted with acceptable accuracy. Further research should consider a village or health facility level modeling of malaria incidence by including other climatic factors like temperature and relative humidity.
+Keywords
+KeyWords Plus:CLIMATE-CHANGE; TRANSMISSION; VARIABLES; COVERAGE; AFRICA; IMPACT
+Author Information
+Reprint Address: Kifle, MM (reprint author)
+       Asmara Coll Hlth Sci, Sch Publ Hlth, Dept Epidemiol & Biostat, Asmera, Eritrea.
+Addresses:
+       [ 1 ] Asmara Coll Hlth Sci, Sch Publ Hlth, Dept Epidemiol & Biostat, Asmera, Eritrea
+       [ 2 ] Minist Hlth, Asmera, Eritrea
+E-mail Addresses:meronmehari121@gmail.com
+Publisher
+HINDAWI LTD, ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+Categories / Classification
+Research Areas:Public, Environmental & Occupational Health
+Web of Science Categories:Public, Environmental & Occupational Health
+See more data fields

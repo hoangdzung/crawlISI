@@ -1,0 +1,31 @@
+SMR-Based Adaptive Mobility Management Scheme in Hierarchical SIP Networks
+By:Choi, K (Choi, KwangHee)[ 1 ] ; Gil, JM (Gil, Joon-Min)[ 2 ]
+INFORMATION
+Volume: 5 Issue: 4 Pages: 535-547
+DOI: 10.3390/info5040535
+Published: DEC 2014
+Document Type:Article
+Abstract
+In hierarchical SIP networks, paging is performed to reduce location update signaling cost for mobility management. However, the cost efficiency largely depends on each mobile node's session-to-mobility-ratio (SMR), which is defined as a ratio of the session arrival rate to the movement rate. In this paper, we propose the adaptive mobility management scheme that can determine the policy regarding to each mobile node's SMR. Each mobile node determines whether the paging is applied or not after comparing its SMR with the threshold. In other words, the paging is applied to a mobile node when a mobile node's SMR is less than the threshold. Therefore, the proposed scheme provides a way to minimize signaling costs according to each mobile node's SMR. We find out the optimal threshold through performance analysis, and show that the proposed scheme can reduce signaling cost than the existing SIP and paging schemes in hierarchical SIP networks.
+Keywords
+Author Keywords:SIP; SMR; paging; location update; location management
+Author Information
+Reprint Address: Gil, JM (reprint author)
+Catholic Univ Daegu, Sch Informat Technol Engn, Gyeongbuk 712702, South Korea.
+
+Addresses:
+       [ 1 ] LG Uplus, Dept Business Solut Dev, Daejeon 305350, South Korea
+[ 2 ] Catholic Univ Daegu, Sch Informat Technol Engn, Gyeongbuk 712702, South Korea
+
+E-mail Addresses:theidea@lguplus.co.kr; jmgil@cu.ac.kr
+Funding
+Funding Agency Grant Number
+Basic Science Research Program through the National Research Foundation of Korea (NRF) - Ministry of Education, Science and Technology 
+2012R1A1A4A01015777 
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Information Systems
+See more data fields

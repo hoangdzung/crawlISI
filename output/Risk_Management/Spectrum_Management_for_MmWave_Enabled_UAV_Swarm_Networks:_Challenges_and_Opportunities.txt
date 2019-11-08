@@ -1,0 +1,38 @@
+Spectrum Management for MmWave Enabled UAV Swarm Networks: Challenges and Opportunities
+By:Feng, ZY (Feng, Zhiyong)[ 1 ] ; Ji, L (Ji, Lei)[ 2 ] ; Zhang, QX (Zhang, Qixun)[ 3 ] ; Li, W (Li, Wei)[ 4 ]
+View ResearcherID and ORCID
+IEEE COMMUNICATIONS MAGAZINE
+Volume: 57 Issue: 1 Pages: 146-153
+DOI: 10.1109/MCOM.2018.1800087
+Published: JAN 2019
+Document Type:Article
+Abstract
+In wireless communications, as the spatio-temporal distribution of the traffic is dynamic, the performance degradation of cellular networks becomes inevitable. Especially in catastrophic scenarios or hot-spot areas, terrestrial base stations may be poorly functioning and/or congested; thus, deploying ASCs that were carried by a UAV swarm is reasonable and cost-effective. Moreover, services such as disaster evaluation and live broadcasting require high-definition video streams, which undoubtedly need broad-band wireless transmission. To achieve this goal, the mmWave approach is introduced in the UAV swarm. However, wireless backhaul links, the mobility of UAVs and system coexistence hamper performance. In this article, we propose a novel spectrum management (SM) architecture for UAV-assisted cellular networks. Considering the special feature of mmWave, we also study SM techniques for opportunistic utilization of low-altitude UAV swarm using multi-mode radio access technologies (RATs). Both motivations and challenges of the proposed SM architecture for the UAV swarm are analyzed. To evaluate the performances of the proposed mmWave based wireless backhaul in UAV-assisted cellular networks, different SM schemes have been discussed and verified with numerical results in five typical scenarios.
+Keywords
+KeyWords Plus:MOBILE COMMUNICATIONS; RESOURCE-MANAGEMENT; 5G; ACCESS
+Author Information
+Reprint Address: Feng, ZY (reprint author)
+Beijing Univ Posts & Telecommun, Beijing, Peoples R China.
+
+Addresses:
+[ 1 ] Beijing Univ Posts & Telecommun, Beijing, Peoples R China
+
+[ 2 ] Beijing Univ Posts & Telecommun, Sch Informat & Commun Engn, Beijing, Peoples R China
+
+[ 3 ] Beijing Univ Posts & Telecommun, Key Lab Universal Wireless Commun, Minist Educ, Beijing, Peoples R China
+
+[ 4 ] Northern Illinois Univ, De Kalb, IL 60115 USA
+
+Funding
+Funding Agency Grant Number
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+61631003 
+National Science Fund for Distinguished Young ScholarsNational Natural Science Foundation of China National Science Fund for Distinguished Young Scholars 
+61525101 
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Engineering; Telecommunications
+Web of Science Categories:Engineering, Electrical & Electronic; Telecommunications
+See more data fields

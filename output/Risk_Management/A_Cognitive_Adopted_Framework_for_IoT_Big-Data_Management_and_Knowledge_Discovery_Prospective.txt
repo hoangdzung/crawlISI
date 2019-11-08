@@ -1,0 +1,33 @@
+A Cognitive Adopted Framework for IoT Big-Data Management and Knowledge Discovery Prospective
+By:Mishra, N (Mishra, Nilamadhab)[ 1 ] ; Lin, CC (Lin, Chung-Chih)[ 1 ] ; Chang, HT (Chang, Hsien-Tsung)[ 1 ]
+View ResearcherID and ORCID
+INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+Article Number: 718390
+DOI: 10.1155/2015/718390
+Published: 2015
+Document Type:Article
+Abstract
+In future IoT big-data management and knowledge discovery for large scale industrial automation application, the importance of industrial internet is increasing day by day. Several diversified technologies such as IoT (Internet of Things), computational intelligence, machine type communication, big-data, and sensor technology can be incorporated together to improve the data management and knowledge discovery efficiency of large scale automation applications. So in this work, we need to propose a Cognitive Oriented IoT Big-data Framework (COIB-framework) along with implementation architecture, IoT big-data layering architecture, and data organization and knowledge exploration subsystem for effective data management and knowledge discovery that is well-suited with the large scale industrial automation applications. The discussion and analysis show that the proposed framework and architectures create a reasonable solution in implementing IoT big-data based smart industrial applications.
+Keywords
+KeyWords Plus:INTERNET; THINGS; ARCHITECTURE
+Author Information
+Reprint Address: Chang, HT (reprint author)
+Chang Gung Univ, Dept Comp Sci & Informat Engn, 259Wen Hwa 1st Rd, Taoyuan 333, Taiwan.
+
+Addresses:
+[ 1 ] Chang Gung Univ, Dept Comp Sci & Informat Engn, Taoyuan 333, Taiwan
+
+E-mail Addresses:smallpig@widelab.org
+Funding
+Funding Agency Grant Number
+Ministry of Science and Technology, China of Chang Gung University 
+MOST 103-2221-E-182-003 
+MOST 103-2511-S-182-053 
+CMRPD3B0033 
+View funding text   
+Publisher
+SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+Categories / Classification
+Research Areas:Computer Science; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Telecommunications
+See more data fields

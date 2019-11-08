@@ -1,0 +1,36 @@
+Co-Simulation of Smart Distribution Network Fault Management and Reconfiguration with LTE Communication
+By:Garau, M (Garau, Michele)[ 1,2 ] ; Ghiani, E (Ghiani, Emilio)[ 1 ] ; Celli, G (Celli, Gianni)[ 1 ] ; Pilo, F (Pilo, Fabrizio)[ 1 ] ; Corti, S (Corti, Sergio)[ 3 ]
+View ResearcherID and ORCID
+ENERGIES
+Volume: 11 Issue: 6
+Article Number: 1332
+DOI: 10.3390/en11061332
+Published: JUN 2018
+Document Type:Article
+Abstract
+Transition towards a smart grid requires network modernization based on the deployment of information and communication technologies for managing network operation and coordinating distributed energy resources in distribution systems. The success of the most advanced smart grid functionalities depends on the availability and quality of communication systems. Amongst the most demanding functionalities, those related to fault isolation, location and system restoration (FLISR) to obtain a self-healing smart grid are critical and require low latency communication systems, particularly in case of application to weakly-meshed operated networks. Simulation tools capable of capturing the interaction between communication and electrical systems are of outmost utility to check proper functioning of FLISR under different utilization conditions, to assess the expected improvements of Quality of Service, and to define minimum requirements of the communication system. In this context, this paper investigates the use of public mobile telecommunication system 4G Long Term Evolution (LTE) for FLISR applications in both radially and weakly-meshed medium voltage (MV) distribution networks. This study makes use of a co-simulation software platform capable to consider power system dynamics. The results demonstrate that LTE can be used as communication medium for advanced fault location, extinction, and network reconfiguration in distribution networks. Furthermore, this paper shows that the reduction of performances with mobile background usage does not affect the system and does not cause delays higher than 100 ms, which is the maximum allowable for power system protections.
+Keywords
+Author Keywords:smart grid; cyber physical co-simulation; information and communication technology; 4G Long Term EvolutionLTE; network reconfiguration; fault management
+KeyWords Plus:GRID COMMUNICATIONS; POWER; COSIMULATION; PLATFORM
+Author Information
+Reprint Address: Ghiani, E (reprint author)
+Univ Cagliari, Dept Elect & Elect Engn, Piazza Armi, I-09123 Cagliari, Italy.
+
+Addresses:
+[ 1 ] Univ Cagliari, Dept Elect & Elect Engn, Piazza Armi, I-09123 Cagliari, Italy
+
+[ 2 ] Norwegian Univ Sci & Technol, NTNU, Dept Informat Secur & Commun Technol, OS Bragstads Plass 2B, N-7491 Trondheim, Norway
+
+       [ 3 ] Ric Sistema Energet RSE SpA, Via R Rubattino 54, I-20134 Milan, Italy
+E-mail Addresses:michele.garau@ntnu.no; emilio.ghiani@diee.unica.it; celli@diee.unica.it; pilo@diee.unica.it; sergio.corti@rse-web.it
+Funding
+Funding Agency Grant Number
+RSE S.p.A.   
+Ministry of Economic Development-General Directorate for Nuclear Energy, Renewable Energy and Energy Efficiency   
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Energy & Fuels
+Web of Science Categories:Energy & Fuels
+See more data fields

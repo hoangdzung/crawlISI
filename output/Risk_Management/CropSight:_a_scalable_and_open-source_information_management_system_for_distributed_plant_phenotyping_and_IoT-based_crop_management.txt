@@ -1,0 +1,46 @@
+CropSight: a scalable and open-source information management system for distributed plant phenotyping and IoT-based crop management
+By:Reynolds, D (Reynolds, Daniel)[ 1 ] ; Ball, J (Ball, Joshua)[ 1 ] ; Bauer, A (Bauer, Alan)[ 1,2 ] ; Davey, R (Davey, Robert)[ 1 ] ; Griffiths, S (Griffiths, Simon)[ 3 ] ; Zhou, J (Zhou, Ji)[ 1,2,4 ]
+View ResearcherID and ORCID
+GIGASCIENCE
+Volume: 8 Issue: 3
+Article Number: giz009
+DOI: 10.1093/gigascience/giz009
+Published: MAR 2019
+Document Type:Article
+Abstract
+Background: High-quality plant phenotyping and climate data lay the foundation for phenotypic analysis and genotype-environment interaction, providing important evidence not only for plant scientists to understand the dynamics between crop performance, genotypes, and environmental factors but also for agronomists and farmers to closely monitor crops in fluctuating agricultural conditions. With the rise of Internet of Things technologies (IoT) in recent years, many IoT-based remote sensing devices have been applied to plant phenotyping and crop monitoring, which are generating terabytes of biological datasets every day. However, it is still technically challenging to calibrate, annotate, and aggregate the big data effectively, especially when they were produced in multiple locations and at different scales. Findings: CropSight is a PHP Hypertext Pre-processor and structured query language-based server platform that provides automated data collation, storage, and information management through distributed IoT sensors and phenotyping workstations. It provides a two-component solution to monitor biological experiments through networked sensing devices, with interfaces specifically designed for distributed plant phenotyping and centralized data management. Data transfer and annotation are accomplished automatically through an hypertext transfer protocol-accessible RESTful API installed on both device side and server side of the CropSight system, which synchronize daily representative crop growth images for visual-based crop assessment and hourly microclimate readings for GxE studies. CropSight also supports the comparison of historical and ongoing crop performance while different experiments are being conducted. Conclusions: As a scalable and open-source information management system, CropSight can be used to maintain and collate important crop performance and microclimate datasets captured by IoT sensors and distributed phenotyping installations. It provides near real-time environmental and crop growth monitoring in addition to historical and current experiment comparison through an integrated cloud-ready server system. Accessible both locally in the field through smart devices and remotely in an office using a personal computer, CropSight has been applied to field experiments of bread wheat prebreeding since 2016 and speed breeding since 2017. We believe that the CropSight system could have a significant impact on scalable plant phenotyping and IoT-style crop management to enable smart agricultural practices in the near future.
+Keywords
+Author Keywords:CropSight; distributed plant phenotyping; phenomics; IoT-based crop management; information system
+KeyWords Plus:PLATFORM; PHENOMICS; TECHNOLOGIES; DYNAMICS
+Author Information
+Reprint Address: Reynolds, D; Zhou, J (reprint author)
+       Earlham Inst, Engn Biol, Norwich Res Pk,Colney Lane, Norwich NR4 7UZ, Norfolk, England.
+Reprint Address: Zhou, J (reprint author)
+Nanjing Agr Univ, China UK Plant Phen Res Ctr, Plant Phen Res Ctr, 1 Weigang, Nanjing 210095, Jiangsu, Peoples R China.
+
+Addresses:
+       [ 1 ] Earlham Inst, Engn Biol, Norwich Res Pk,Colney Lane, Norwich NR4 7UZ, Norfolk, England
+[ 2 ] Nanjing Agr Univ, China UK Plant Phen Res Ctr, Plant Phen Res Ctr, 1 Weigang, Nanjing 210095, Jiangsu, Peoples R China
+
+[ 3 ] John Innes Ctr, Crop Genet, Norwich Res Pk,Colney Lane, Norwich NR4 7UH, Norfolk, England
+
+[ 4 ] Univ East Anglia, Norwich Res Pk, Norwich NT4 7TJ, Norfolk, England
+
+E-mail Addresses:Daniel.Reynolds@earlham.ac.uk; Ji.Zhou@earlham.ac.uk
+Funding
+Funding Agency Grant Number
+UKRI Biotechnology and Biological Sciences Research Council's Designing Future Wheat Cross-Institute Strategic Programme 
+BB/P016855/1 
+BBS/E/J/000PR9781 
+BBS/E/T/000PR9785 
+Core Strategic Programme at the Earlham Institute 
+BB/CSP17270/1 
+Bayer/BASF's G4T 
+GP125JZ1J 
+View funding text   
+Publisher
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+Categories / Classification
+Research Areas:Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+Web of Science Categories:Biology; Multidisciplinary Sciences
+See more data fields

@@ -1,0 +1,35 @@
+Integral Fuzzy Power Quality Assessment for Decision Support System at Management of Power Network with Distributed Generation
+By:Tymchuk, S (Tymchuk, Sergii)[ 1 ] ; Miroshnyk, O (Miroshnyk, Oleksandr)[ 1 ] ; Shendryk, S (Shendryk, Sergii)[ 2 ] ; Shendryk, V (Shendryk, Vira)[ 2 ]
+View ResearcherID and ORCID
+INFORMATION AND SOFTWARE TECHNOLOGIES, ICIST 2018
+Edited by:Damasevicius, R; Vasiljeviene, G
+Book Series: Communications in Computer and Information Science
+Volume: 920 Pages: 88-97
+DOI: 10.1007/978-3-319-99972-2_7
+Published: 2018
+Document Type:Proceedings Paper
+Conference
+Conference: 24th International Conference on Information and Software Technologies (ICIST)
+Location: Vilnius, LITHUANIA
+Date: OCT 04-06, 2018
+Sponsor(s):Kaunas Univ Technol; Res Council Lithuania
+Abstract
+This paper is devoted to the development of scientific and methodological foundations of improvement the information support of decision at management of power network with distributed generation. It is proposed to consider the power quality index as the main criterion of management. Using the theory of fuzzy sets, the assessment of the conformity of power quality indicators to electric energy quality limits is done. A method for estimating the quality of electrical energy is proposed which represents the measured histogram as a fuzzy representation indicator of quality of electric energy in the form of fuzzy sets with a step membership function. The method of integral evaluation of electrical energy quality for different types of load is developed. The presented method allows to formulate rules for managing the operating modes of the distributed electrical network by the decision support system.
+Keywords
+Author Keywords:Distributed generation; Decision support system; Power quality index; Fuzzy sets; Integral index
+Author Information
+Reprint Address: Shendryk, V (reprint author)
+Sumy State Univ, Sumy, Ukraine.
+
+Addresses:
+[ 1 ] Kharkiv Petro Vasilenko Natl Tech Univ Agr, Kharkov, Ukraine
+
+[ 2 ] Sumy State Univ, Sumy, Ukraine
+
+E-mail Addresses:stym@i.ua; omiroshnyk@ukr.net; s.shendryk@cs.sumdu.edu.ua; v.shendryk@cs.sumdu.edu.ua
+Publisher
+SPRINGER-VERLAG BERLIN, HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Information Systems; Computer Science, Software Engineering; Computer Science, Theory & Methods
+See more data fields

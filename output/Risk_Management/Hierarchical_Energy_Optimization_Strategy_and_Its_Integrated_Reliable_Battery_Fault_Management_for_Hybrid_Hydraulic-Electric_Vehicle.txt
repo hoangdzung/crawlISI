@@ -1,0 +1,33 @@
+Hierarchical Energy Optimization Strategy and Its Integrated Reliable Battery Fault Management for Hybrid Hydraulic-Electric Vehicle
+By:Kamal, E (Kamal, Elkhatib)[ 1,2 ] ; Adouane, L (Adouane, Lounis)[ 2 ]
+IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+Volume: 67 Issue: 5 Pages: 3740-3754
+DOI: 10.1109/TVT.2018.2805353
+Published: MAY 2018
+Document Type:Article
+Abstract
+Reduction of fuel consumption is an indispensable part of automotive industry in recent years. This induces several developments of hybrid vehicles with different structures. This paper deals with reliable and robust energy management strategy for a hybrid hydraulic-electric intelligent vehicle. The main objective of this paper is the development of a suboptimal control strategy based on fuzzy logic and neural network for minimizing total energy consumption while ensuring a better battery life. For this purpose, fuzzy supervisory fault management, which can detect and compensate the battery faults, regulates all of the possible vehicle's operation modes. Then, control strategy based on fuzzy logic controller (FLC) is developed. The FLC membership function parameters are tuned by employing neural network to manage power distribution between electric motor and internal combustion engine (ICE). Control strategy is switched between optimized FLCs to enhance the suboptimal power split between the different energy sources and manage the ICE to work always in the vicinity of its optimal condition. Finally, a robust fuzzy tuning controllers are investigated to give a good torque set point tracking. Simulation results, while using TruckMaker/MATLAB software, confirm that the proposed approach leads to suboptimal energy consumption of the vehicle for any unknown driving cycles and compensate battery faults effects.
+Keywords
+Author Keywords:Artificial intelligence; battery management system; fuzzy observer; hybrid electric vehicles; power management strategy; sensor faults; Takagi-Sugeno fuzzy model
+KeyWords Plus:LI-ION BATTERIES; EXTENDED KALMAN FILTER; FUZZY-LOGIC CONTROL; TOLERANT CONTROL; SENSOR FAULTS; ALGORITHM; SYSTEMS; CONTROLLER; MODELS; STATE
+Author Information
+Reprint Address: Kamal, E (reprint author)
+Menoufia Univ, Fac Elect Engn, Dept Ind Elect & Control Engn, Menoufia 32952, Egypt.
+
+Addresses:
+[ 1 ] Menoufia Univ, Fac Elect Engn, Dept Ind Elect & Control Engn, Menoufia 32952, Egypt
+
+       [ 2 ] UCA SIGMA UMR CNRS 6602, Inst Pascal Innovat Mobil Smart & Sustainable Sol, F-63000 Clermont Ferrand, France
+E-mail Addresses:elkhateb.ibrahim@el-eng.menofia.edu.eg; elkateb.kamal@gmail.com
+Funding
+Funding Agency Grant Number
+Agence De l'Environnement et de la Maitrise de l'Energie, through BUSINOVA Evolution project   
+IMobS3 Laboratory of Excellence 
+ANR-10-LABX-16-01 
+View funding text   
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Engineering; Telecommunications; Transportation
+Web of Science Categories:Engineering, Electrical & Electronic; Telecommunications; Transportation Science & Technology
+See more data fields

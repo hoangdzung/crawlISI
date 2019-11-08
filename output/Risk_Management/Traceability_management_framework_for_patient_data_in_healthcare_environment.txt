@@ -1,0 +1,32 @@
+Traceability Management Framework for Patient Data in Healthcare Environment
+By:Burney, SMA (Burney, S. M. Aqil)[ 1 ] ; Saleem, H (Saleem, Hussain)[ 1 ] ; Mahmood, N (Mahmood, Nadeem)[ 1 ] ; Jilani, TA (Jilani, Tahseen A.)[ 1 ]
+View ResearcherID and ORCID
+ICCSIT 2010 - 3RD IEEE INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE AND INFORMATION TECHNOLOGY, VOL 2
+Edited by:Hang, Y; Desheng, W; Sandhu, PS
+Book Series: International Conference on Computer Science and Information Technology
+Pages: 264-268
+Published: 2010
+Document Type:Proceedings Paper
+Conference
+Conference: 3rd IEEE International Conference on Computer Science and Information Technology (ICCSIT)
+Location: Chengdu, PEOPLES R CHINA
+Date: JUL 09-11, 2010
+Sponsor(s):IEEE; IACSIT; Univ Politecnica; Chinese Inst Elect; Peking Univ; Sichuan Sheng Dian Zi Xue Hui; EST; Huazhong Univ; UeSTC
+Abstract
+Change management or configuration management is becoming necessity for every facet of software system development. Traceability of objects i.e. artifacts or information units becomes core talent for authentic determination of the parametric information over the explicit instance of time. This paper presents the evolving and useful concept of traceability management wrapped in change management paradigm that provides perception for requirement analysis phase. We have analyzed the patient data requirements workflow model with respect to the traceability management process. We have proposed a new approach for better traceability of patient data management model (PDMM) for identification and realization of trace relationships within requirements (IRTRR) in healthcare environment. We have named the model as PDMM-IRTRR framework. The key activities represented in the proposed framework are also highlighted.
+Keywords
+Author Keywords:configuration; traceability; requirements; ICT; software; management; healthcare; information system
+Author Information
+Reprint Address: Burney, SMA (reprint author)
+Univ Karachi, UBIT, Dept Comp Sci, Karachi, Pakistan.
+
+Addresses:
+[ 1 ] Univ Karachi, UBIT, Dept Comp Sci, Karachi, Pakistan
+
+E-mail Addresses:burney@uok.edu.pk; hussainsaleem@uok.edu.pk; nmahmood@uok.edu.pk; tahseenjilani@uok.edu.pk
+Publisher
+IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+Categories / Classification
+Research Areas:Computer Science; Engineering
+Web of Science Categories:Computer Science, Information Systems; Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+See more data fields

@@ -1,0 +1,33 @@
+A Partially Observable Markov Decision Process Approach to Residential Home Energy Management
+By:Hansen, TM (Hansen, Timothy M.)[ 1 ] ; Chong, EKP (Chong, Edwin K. P.)[ 2,3 ] ; Suryanarayanan, S (Suryanarayanan, Siddharth)[ 4 ] ; Maciejewski, AA (Maciejewski, Anthony A.)[ 2 ] ; Siegel, HJ (Siegel, Howard Jay)[ 2 ]
+View ResearcherID and ORCID
+IEEE TRANSACTIONS ON SMART GRID
+Volume: 9 Issue: 2 Pages: 1271-1281
+DOI: 10.1109/TSG.2016.2582701
+Published: MAR 2018
+Document Type:Article
+Abstract
+Real-time pricing (RTP) is a utility-offered dynamic pricing program to incentivize customers to make changes in their energy usage. A home energy management system (HEMS) automates the energy usage in a smart home in response to utility pricing signals. We present three new HEMS techniques-one myopic approach and two non-myopic partially observable Markov decision process (POMDP) approaches-for minimizing the household electricity bill in such a RTP market. In a simulation study, we compare the performance of the new HEMS methods with a mathematical lower bound and the status quo. We show that the non-myopic POMDP approach can provide a 10%-30% saving over the status quo.
+Keywords
+Author Keywords:Cyber-physical systems; demand response; home energy management systems; partially observable Markov decision process; real-time pricing
+KeyWords Plus:DEMAND RESPONSE; PRICING ENVIRONMENTS; OPTIMIZATION; APPLIANCES; ALGORITHM; MODEL
+Author Information
+Reprint Address: Hansen, TM (reprint author)
+South Dakota State Univ, Elect Engn & Comp Sci Dept, Brookings, SD 57007 USA.
+
+Addresses:
+[ 1 ] South Dakota State Univ, Elect Engn & Comp Sci Dept, Brookings, SD 57007 USA
+
+[ 2 ] Colorado State Univ, Elect & Comp Engn, Ft Collins, CO 80523 USA
+
+[ 3 ] Colorado State Univ, Math, Ft Collins, CO 80523 USA
+
+[ 4 ] Colorado State Univ, Dept Elect & Comp Engn, Ft Collins, CO 80523 USA
+
+E-mail Addresses:timothy.hansen@sdstate.edu; edwin.chong@colostate.edu; sid@colostate.edu; aam@colostate.edu; hj@colostate.edu
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Engineering
+Web of Science Categories:Engineering, Electrical & Electronic
+See more data fields

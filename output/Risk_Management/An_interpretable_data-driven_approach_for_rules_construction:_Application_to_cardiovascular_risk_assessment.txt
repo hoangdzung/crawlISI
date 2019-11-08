@@ -1,0 +1,39 @@
+An interpretable data-driven approach for rules construction: application to cardiovascular risk assessment
+By:Mendes, D (Mendes, D.)[ 1 ] ; Paredes, S (Paredes, S.)[ 2 ] ; Rocha, T (Rocha, T.)[ 2 ] ; Carvalho, P (Carvalho, P.)[ 1 ] ; Henriques, J (Henriques, J.)[ 1 ] ; Morais, J (Morais, J.)[ 3 ]
+View ResearcherID and ORCID
+2017 39TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC)
+Book Group Author(s):IEEE
+Book Series: PROCEEDINGS OF ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY
+Pages: 2646-2649
+Published: 2017
+Document Type:Proceedings Paper
+Conference
+Conference: 39th Annual International Conference of the IEEE-Engineering-in-Medicine-and-Biology-Society (EMBC)
+Location: SOUTH KOREA
+Date: JUL 11-15, 2017
+Sponsor(s):IEEE Engn Med & Biol Soc; PubMed; MEDLINE; Korean Soc Med & Biol Engn
+Abstract
+The development of models able to produce an understandable decision by the clinicians is of great importance to support their decision. Therefore, the research of methodologies able to extract useful knowledge from existing datasets, as well as to integrate this knowledge into the current clinical evidence, is a key aspect in the enhancement of the clinical decision. This work focuses on the development of interpretable models to assess the patient's condition based on supervised clustering theories, enabling the discovery of a set of features that best represents that condition. At the same time, the technique is supported on a structure that enables the formulation of simple and interpretable rules. Despite its general applicability, the proposed methodology is applied to coronary artery disease (CAD), particularly, in the risk of death assessment (30 days after the admission) of patients that have been admitted to the emergency unit. The validation is performed using a real dataset with Acute Coronary Syndromes, provided by the Portuguese Society of Cardiology. While the methodology produces simple and interpretable rules, the performance achieves an improvement of 7% in relation to geometric mean, when compared with GRACE model (commonly used in Portugal).
+Author Information
+Reprint Address: Mendes, D (reprint author)
+CISUC, Coimbra, Portugal.
+
+Addresses:
+[ 1 ] CISUC, Coimbra, Portugal
+
+       [ 2 ] Polytech Inst Coimbra, ISEC, Coimbra, Portugal
+       [ 3 ] Leiria Hosp Ctr, Cardiol Dept, Leiria, Portugal
+E-mail Addresses:diana.sxm@gmail.com; sparedes@isec.pt; teresa@isec.pt; carvalho@dei.uc.pt; jh@dei.uc.pt; joaomorais@hsaleiria.min-saude.pt
+Funding
+Funding Agency Grant Number
+Welcome project 
+FP7-ICT-2013-10 
+LINK project 
+H2020-692023 
+View funding text   
+Publisher
+IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+Categories / Classification
+Research Areas:Biophysics; Engineering
+Web of Science Categories:Biophysics; Engineering, Biomedical
+See more data fields

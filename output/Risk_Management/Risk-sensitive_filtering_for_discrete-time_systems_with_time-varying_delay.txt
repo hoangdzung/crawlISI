@@ -1,0 +1,41 @@
+Risk-sensitive filtering for discrete-time systems with time-varying delay
+By:Wang, W (Wang, Wei)[ 1 ] ; Han, CY (Han, Chunyan)[ 2 ] ; Zhao, HG (Zhao, Hongguo)[ 3 ]
+INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE
+Volume: 46 Issue: 5 Pages: 841-856
+DOI: 10.1080/00207721.2013.798444
+Published: APR 4 2015
+Document Type:Article
+Abstract
+In this paper, the risk-sensitive filtering problem with time-varying delay is investigated. The problem is transformed into Krein space as an equivalent optimisation problem. The observations with time-varying delays are restructured as ones with multiple constant delays by defining a binary variable model with respect to the arrival process of observations, containing the same state information as the original. Finally, the reorganised innovation analysis approach in Krein space allows the solution to the proposed risk-sensitive filtering in terms of the solutions to Riccati and matrix difference equations.
+Keywords
+Author Keywords:singular matrix difference equation; reorganised innovation analysis; risk-sensitive filtering; time-varying delay
+KeyWords Plus:LINEAR-ESTIMATION
+Author Information
+Reprint Address: Wang, W (reprint author)
+Shandong Univ, Sch Control Sci & Engn, Jinan, Shandong, Peoples R China.
+
+Addresses:
+[ 1 ] Shandong Univ, Sch Control Sci & Engn, Jinan, Shandong, Peoples R China
+
+[ 2 ] Univ Jinan, Sch Elect Engn, Jinan, Shandong, Peoples R China
+
+[ 3 ] Taishan Univ, Sch Informat Sci & Technol, Tai An 271021, Shandong, Peoples R China
+
+E-mail Addresses:w.wang@sdu.edu.cn
+Funding
+Funding Agency Grant Number
+National Nature Science Foundation of ChinaNational Natural Science Foundation of China 
+61104050 
+61203029 
+61273124 
+Natural Science Foundation of Shandong ProvinceNatural Science Foundation of Shandong Province 
+ZR2011FQ020 
+Research Fund for the Doctoral Program of Higher Education of ChinaResearch Fund for the Doctoral Program of Higher Education of China (RFDP) Specialized Research Fund for the Doctoral Program of Higher Education (SRFDP) 
+20120131120058 
+View funding text   
+Publisher
+TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+Categories / Classification
+Research Areas:Automation & Control Systems; Computer Science; Operations Research & Management Science
+Web of Science Categories:Automation & Control Systems; Computer Science, Theory & Methods; Operations Research & Management Science
+See more data fields

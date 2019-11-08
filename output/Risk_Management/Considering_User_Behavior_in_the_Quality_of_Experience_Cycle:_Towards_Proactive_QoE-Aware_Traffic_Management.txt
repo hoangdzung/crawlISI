@@ -1,0 +1,31 @@
+Considering User Behavior in the Quality of Experience Cycle: Towards Proactive QoE-Aware Traffic Management
+By:Seufert, M (Seufert, Michael)[ 1 ] ; Wassermann, S (Wassermann, Sarah)[ 2 ] ; Casas, P (Casas, Pedro)[ 3 ]
+View ResearcherID and ORCID
+IEEE COMMUNICATIONS LETTERS
+Volume: 23 Issue: 7 Pages: 1145-1148
+DOI: 10.1109/LCOMM.2019.2914038
+Published: JUL 2019
+Document Type:Article
+Abstract
+The concept of Quality of Experience (QoE) of Internet services is widely recognized by service providers and network operators. They strive to deliver the best experience to their customers in order to increase revenues and avoid churn. Therefore, QoE is increasingly considered as an integral part of the reactive traffic management cycle of network operators. In addition, QoE also constitutes a cycle of its own, which includes user behavior and service requirements. This letter describes this QoE cycle, which is not widely taken into account yet, discusses the interactions of the two cycles, and derives implications toward an improved and proactive QoE-aware traffic management. A showcase on how network operators can obtain hints on the change of network requirements from detecting user behavior in encrypted video traffic is also presented.
+Keywords
+Author Keywords:Quality of Experience; Traffic Management; QoE-aware Traffic Management; QoE Cycle; User Behavior
+Author Information
+Reprint Address: Seufert, M (reprint author)
+Univ Wurzburg, Inst Comp Sci, D-97074 Wurzburg, Germany.
+
+Addresses:
+[ 1 ] Univ Wurzburg, Inst Comp Sci, D-97074 Wurzburg, Germany
+
+[ 2 ] INRIA, F-75012 Paris, France
+
+
+[ 3 ] AIT Austrian Inst Technol GmbH, A-1210 Vienna, Austria
+
+E-mail Addresses:michael.seufert@uni-wuerzburg.de
+Publisher
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Categories / Classification
+Research Areas:Telecommunications
+Web of Science Categories:Telecommunications
+See more data fields

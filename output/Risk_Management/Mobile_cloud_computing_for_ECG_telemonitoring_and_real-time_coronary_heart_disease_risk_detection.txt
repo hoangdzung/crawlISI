@@ -1,0 +1,33 @@
+Mobile cloud computing for ECG telemonitoring and real-time coronary heart disease risk detection
+By:Venkatesan, C (Venkatesan, C.)[ 1 ] ; Karthigaikumar, P (Karthigaikumar, P.)[ 2 ] ; Satheeskumaran, S (Satheeskumaran, S.)[ 3 ]
+View ResearcherID and ORCID
+BIOMEDICAL SIGNAL PROCESSING AND CONTROL
+Volume: 44 Pages: 138-145
+DOI: 10.1016/j.bspc.2018.04.013
+Published: JUL 2018
+Document Type:Article
+Abstract
+Advancement in healthcare technologies and biomedical equipment leads to accurate diagnosis of heart related diseases. The major challenges associated with telehealthcare technologies are complex computational requirement and large amount of data processing in continuous monitoring. Mobile cloud computing approach is presented in this work to overcome the issues involved in ECG telemonitoring. Mobile cloud approach is superior to telehealth monitoring techniques due to the access to centralized cloud data and report delivery to mobile phones. In this work, ECG telemonitoring and coronary heart disease (CHD) risk assessment are combined using mobile cloud computing approach. CHD risk is identified using feature extraction and adaptive neuro fuzzy inference system (ANFIS) based classification. In feature extraction process, R-peaks are detected using wavelet transform to find heart rate variability (HRV) of the ECG signal. Various HRV parameters are extracted and applied to ANFIS classifier which employs adaptive feature selection to evaluate CHD risk. Since the mobile cloud approach deals with large amount of data, 160 files of MIT-BIH arrhythmia database has been used in this work for the assessment of CHD risk. ECG signal data are classified into two categories (normal and CHD risky) using ANFIS classifier. The classifier performance is evaluated and comparison is established with other similar classifiers. (C) 2018 Elsevier Ltd. All rights reserved.
+Keywords
+Author Keywords:Mobile cloud computing; Electrocardiogram (ECG); Adaptive neuro fuzzy inference system (ANFIS); Coronary heart disease (CHD); Heart rate variability (HRV)
+KeyWords Plus:FUZZY INFERENCE SYSTEM; NOISE REMOVAL; HEALTH-CARE; CLASSIFICATION; ARCHITECTURE; CLASSIFIERS; ALGORITHM; SIGNAL; KNN
+Author Information
+Reprint Address: Venkatesan, C (reprint author)
+Anna Univ, Fac Informat & Commun Engn, Madras, Tamil Nadu, India.
+
+
+Addresses:
+[ 1 ] Anna Univ, Fac Informat & Commun Engn, Madras, Tamil Nadu, India
+
+
+       [ 2 ] Karpagam Coll Engn, Dept Elect & Commun Engn, Coimbatore, Tamil Nadu, India
+[ 3 ] Anurag Grp Inst, Dept Elect & Commun Engn, Hyderabad, Telangana, India
+
+
+E-mail Addresses:venkatintphd@gmail.com; karthigaikumar@kce.ac.in; satheeskumaranece@cvsr.ac.in
+Publisher
+ELSEVIER SCI LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+Categories / Classification
+Research Areas:Engineering
+Web of Science Categories:Engineering, Biomedical
+See more data fields

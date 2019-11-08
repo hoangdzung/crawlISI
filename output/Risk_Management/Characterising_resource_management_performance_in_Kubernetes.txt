@@ -1,0 +1,36 @@
+Characterising resource management performance in Kubernetes
+By:Medel, V (Medel, Victor)[ 1 ] ; Tolosana-Calasanz, R (Tolosana-Calasanz, Rafael)[ 1 ] ; Banares, JA (Angel Banares, Jose)[ 1 ] ; Arronategui, U (Arronategui, Unai)[ 1 ] ; Rana, OF (Rana, Omer F.)[ 2 ]
+View ResearcherID and ORCID
+COMPUTERS & ELECTRICAL ENGINEERING
+Volume: 68 Pages: 286-297
+DOI: 10.1016/j.compeleceng.2018.03.041
+Published: MAY 2018
+Document Type:Article
+Abstract
+A key challenge for supporting elastic behaviour in cloud systems is to achieve a good performance in automated (de-)provisioning and scheduling of computing resources. One of the key aspects that can be significant is the overheads associated with deploying, terminating and maintaining resources. Therefore, due to their lower start up and termination overhead, containers are rapidly replacing Virtual Machines (VMs) in many cloud deployments, as the computation instance of choice. In this paper, we analyse the performance of Kubernetes achieved through a Petri net-based performance model. Kubernetes is a container management system for a distributed cluster environment. Our model can be characterised using data from a Kubernetes deployment, and can be exploited for supporting capacity planning and designing Kubernetes-based elastic applications.
+Keywords
+Author Keywords:Performance models; Container lifecycle; Cloud resource management; Petri nets; Kubernetes
+Author Information
+Reprint Address: Medel, V (reprint author)
+Univ Zaragoza, Aragon Inst Engn Res, Zaragoza, Spain.
+
+Addresses:
+[ 1 ] Univ Zaragoza, Aragon Inst Engn Res, Zaragoza, Spain
+
+[ 2 ] Cardiff Univ, Sch Comp Sci & Informat, Cardiff, S Glam, Wales
+
+E-mail Addresses:vmedel@unizar.es; rafaelt@unizar.es; banares@unizar.es; unai@unizar.es; ranaof@cardiff.ac.uk
+Funding
+Funding Agency Grant Number
+Industry and Innovation department of the Aragonese Government   
+EU Social Funds (COSMOS)   
+Spanish GovernmentSpanish Government 
+TIN2013-40809-R 
+Spanish Ministry of Economy   
+View funding text   
+Publisher
+PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+Categories / Classification
+Research Areas:Computer Science; Engineering
+Web of Science Categories:Computer Science, Hardware & Architecture; Computer Science, Interdisciplinary Applications; Engineering, Electrical & Electronic
+See more data fields

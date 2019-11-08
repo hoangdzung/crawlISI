@@ -1,0 +1,35 @@
+Analyzing Human Resource Management Practices Within the GSD Context
+By:Colomo-Palacios, R (Colomo-Palacios, Ricardo)[ 1 ] ; Casado-Lumbreras, C (Casado-Lumbreras, Cristina)[ 2 ] ; Soto-Acosta, P (Soto-Acosta, Pedro)[ 3 ] ; Misra, S (Misra, Sanjay)[ 4 ] ; Garcia-Penalvo, FJ (Garcia-Penalvo, Francisco Jose)[ 5 ]
+View ResearcherID and ORCID
+JOURNAL OF GLOBAL INFORMATION TECHNOLOGY MANAGEMENT
+Volume: 15 Issue: 3 Pages: 30-54
+DOI: 10.1080/1097198X.2012.10845617
+Published: 2012
+Document Type:Article
+Abstract
+The development of software across different countries (and time zones) differs substantially from software development in one single country or region. The management of processes and people, who work in globally distributed teams, requires a high level of coordination and collaboration which needs to be based on established human resource management practices. The People Capability Maturity Model (People-CMM) provides a complete framework that enables quality in human resource management to be improved. However, today, the adoption of the People-CMM within organizations using Global Software Development (GSD) is not an easy task. This paper uses an empirical study to analyze the implementation of the People-CMM within the GSD context. Results confirm that cultural and communication problems are the main challenges in the implementation of the People-CMM adoption within GSD scenarios.
+Keywords
+Author Keywords:People-CMM; Global Software Development; Distributed Software Development; Competency
+KeyWords Plus:GLOBAL SOFTWARE-DEVELOPMENT; DEVELOPMENT TEAMS; COMMUNICATION; ADAPTATION; DISTANCE
+Author Information
+Reprint Address: Colomo-Palacios, R (reprint author)
+Univ Carlos III Madrid, E-28903 Getafe, Spain.
+
+Addresses:
+[ 1 ] Univ Carlos III Madrid, E-28903 Getafe, Spain
+
+[ 2 ] Univ Complutense Madrid, E-28040 Madrid, Spain
+
+[ 3 ] Univ Murcia, E-30001 Murcia, Spain
+
+[ 4 ] Atilim Univ, Ankara, Turkey
+
+[ 5 ] Univ Salamanca, E-37008 Salamanca, Spain
+
+E-mail Addresses:ricardo.colomo@uc3m.es; casado.lumbreras@gmail.com; psoto@um.es; ssopam@gmail.com; fgarcia@usal.es
+Publisher
+TAYLOR & FRANCIS INC, 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+Categories / Classification
+Research Areas:Information Science & Library Science
+Web of Science Categories:Information Science & Library Science
+See more data fields

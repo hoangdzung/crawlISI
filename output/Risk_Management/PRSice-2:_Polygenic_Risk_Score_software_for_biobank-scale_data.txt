@@ -1,0 +1,38 @@
+PRSice-2: Polygenic Risk Score software for biobank-scale data
+By:Choi, SW (Choi, Shing Wan)[ 1,2 ] ; O'Reilly, PF (O'Reilly, Paul F.)[ 1,2 ]
+View ResearcherID and ORCID
+GIGASCIENCE
+Volume: 8 Issue: 7
+Article Number: giz082
+DOI: 10.1093/gigascience/giz082
+Published: JUL 2019
+Document Type:Article
+Abstract
+t Background: Polygenic risk score (PRS) analyses have become an integral part of biomedical research, exploited to gain insights into shared aetiology among traits, to control for genomic profile in experimental studies, and to strengthen causal inference, among a range of applications. Substantial efforts are now devoted to biobank projects to collect large genetic and phenotypic data, providing unprecedented opportunity for genetic discovery and applications. To process the large-scale data provided by such biobank resources, highly efficient and scalable methods and software are required. Results: Here we introduce PRSice-2, an efficient and scalable software program for automating and simplifying PRS analyses on large-scale data. PRSice-2 handles both genotyped and imputed data, provides empirical association P-values free from inflation due to overfitting, supports different inheritance models, and can evaluate multiple continuous and binary target traits simultaneously. We demonstrate that PRSice-2 is dramatically faster and more memory-efficient than PRSice-1 and alternative PRS software, LDpred and lassosum, while having comparable predictive power. Conclusion: PRSice-2's combination of efficiency and power will be increasingly important as data sizes grow and as the applications of PRS become more sophisticated, e.g., when incorporated into high-dimensional or gene set-based analyses. PRSice-2 is written in C++, with an R script for plotting, and is freely available for download from http://PRSice.info.
+Keywords
+Author Keywords:polygenic risk score; GWAS; imputation
+KeyWords Plus:PREDICTION
+Author Information
+Reprint Address: Choi, SW; O'Reilly, PF (reprint author)
+Icahn Sch Med Mt Sinai, New York, NY 10029 USA.
+
+Addresses:
+[ 1 ] Kings Coll London, Inst Psychiat Psychol & Neurosci, MRC Social Genet & Dev Psychiat Ctr, De Crespigny Pk,Denmark Hill, London SE5 8AF, England
+
+
+[ 2 ] Icahn Sch Med Mt Sinai, Dept Genet & Genom Sci, 1 Gustave L Levy Pl, New York, NY 10029 USA
+
+E-mail Addresses:choishingwan@gmail.com; paul.oreilly@mssm.edu
+Funding
+Funding Agency Grant Number
+Medical Research CouncilMedical Research Council UK (MRC)   
+UK Medical Research CouncilMedical Research Council UK (MRC) 
+MR/N015746/1 
+National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King's College London   
+View funding text   
+Publisher
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+Categories / Classification
+Research Areas:Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+Web of Science Categories:Biology; Multidisciplinary Sciences
+See more data fields

@@ -1,0 +1,35 @@
+Reinforcement Learning Based Data Self-Destruction Scheme for Secured Data Management
+By:Kim, YK (Kim, Young Ki)[ 1 ] ; Ullah, S (Ullah, Saeed)[ 1 ] ; Kwon, K (Kwon, Kiuk)[ 2 ] ; Jang, Y (Jang, Yunchul)[ 2 ] ; Lee, J (Lee, Jongsoo)[ 2 ] ; Hong, CS (Hong, Choong Seon)[ 1 ]
+View ResearcherID and ORCID
+SYMMETRY-BASEL
+Volume: 10 Issue: 5
+Article Number: 136
+DOI: 10.3390/sym10050136
+Published: MAY 2018
+Document Type:Article
+Abstract
+As technologies and services that leverage cloud computing have evolved, the number of businesses and individuals who use them are increasing rapidly. In the course of using cloud services, as users store and use data that include personal information, research on privacy protection models to protect sensitive information in the cloud environment is becoming more important. As a solution to this problem, a self-destructing scheme has been proposed that prevents the decryption of encrypted user data after a certain period of time using a Distributed Hash Table (DHT) network. However, the existing self-destructing scheme does not mention how to set the number of key shares and the threshold value considering the environment of the dynamic DHT network. This paper proposes a method to set the parameters to generate the key shares needed for the self-destructing scheme considering the availability and security of data. The proposed method defines state, action, and reward of the reinforcement learning model based on the similarity of the graph, and applies the self-destructing scheme process by updating the parameter based on the reinforcement learning model. Through the proposed technique, key sharing parameters can be set in consideration of data availability and security in dynamic DHT network environments.
+Keywords
+Author Keywords:self-destructing scheme; DHT network; privacy protection; reinforcement learning
+Author Information
+Reprint Address: Hong, CS (reprint author)
+Kyung Hee Univ, Dept Comp Sci & Engn, Yongin 17104, South Korea.
+
+Addresses:
+[ 1 ] Kyung Hee Univ, Dept Comp Sci & Engn, Yongin 17104, South Korea
+
+       [ 2 ] Databank Syst, Daegu 705701, South Korea
+E-mail Addresses:qoo0144@khu.ac.kr; saeed@khu.ac.kr; kiuk.kwon@idatabank.com; yunchul.jang@idatabank.com; jongsoo.lee@idatabank.com; cshong@khu.ac.kr
+Funding
+Funding Agency Grant Number
+Institute for Information & communications Technology Promotion (IITP) - Korea government (MSIP) 
+2017-0-00735 
+Korea Evaluation Institute of Industrial Technology (KEIT) - Korea government (MOTIE) 
+2017-0-00735 
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Science & Technology - Other Topics
+Web of Science Categories:Multidisciplinary Sciences
+See more data fields

@@ -1,0 +1,39 @@
+The Risk G Allele of the Single-Nucleotide Polymorphism rs928413 Creates a CREB1-Binding Site That Activates IL33 Promoter in Lung Epithelial Cells
+By:Gorbacheva, AM (Gorbacheva, Alisa M.)[ 1,2 ] ; Korneev, KV (Korneev, Kirill V.)[ 1,2 ] ; Kuprash, DV (Kuprash, Dmitry V.)[ 1,2 ] ; Mitkin, NA (Mitkin, Nikita A.)[ 1 ]
+View ResearcherID and ORCID
+INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+Volume: 19 Issue: 10
+Article Number: 2911
+DOI: 10.3390/ijms19102911
+Published: OCT 2018
+Document Type:Article
+Abstract
+Cytokine interleukin 33 (IL-33) is constitutively expressed by epithelial barrier cells, and promotes the development of humoral immune responses. Along with other proinflammatory mediators released by the epithelium of airways and lungs, it plays an important role in a number of respiratory pathologies. In particular, IL-33 significantly contributes to pathogenesis of allergy and asthma; genetic variations in the IL33 locus are associated with increased susceptibility to asthma. Large-scale genome-wide association studies have identified minor G allele of the single-nucleotide polymorphism rs928413, located in the IL33 promoter area, as a susceptible variant for early childhood and atopic asthma development. Here, we demonstrate that the rs928413(G) allele creates a binding site for the cAMP response element-binding protein 1 (CREB1) transcription factor. In a pulmonary epithelial cell line, activation of CREB1, presumably via the p38 mitogen-activated protein kinases (MAPK) cascade, activates the IL33 promoter containing the rs928413(G) allele specifically and in a CREB1-dependent manner. This mechanism may explain the negative effect of the rs928413 minor G allele on asthma development.
+Keywords
+Author Keywords:asthma; lung epithelium; inflammation; p38 MAPK pathway
+KeyWords Plus:HOUSE-DUST MITE; TRANSCRIPTION FACTOR FOXF2; REGULATES TNF-ALPHA; TOLL-LIKE RECEPTORS; ALLERGIC-ASTHMA; AIRWAY INFLAMMATION; TYPE-2 IMMUNITY; ANTI-IL-33 ANTIBODY; DENDRITIC CELLS; LYMPHOID-CELLS
+Author Information
+Reprint Address: Mitkin, NA (reprint author)
+Russian Acad Sci, Lab Intracellular Signaling Hlth & Dis, Engelhardt Inst Mol Biol, Moscow 119991, Russia.
+
+
+Addresses:
+[ 1 ] Russian Acad Sci, Lab Intracellular Signaling Hlth & Dis, Engelhardt Inst Mol Biol, Moscow 119991, Russia
+
+
+[ 2 ] Lomonosov Moscow State Univ, Fac Biol, Moscow 119234, Russia
+
+E-mail Addresses:alisamur93@mail.ru; kirkorneev@yandex.ru; kuprash@gmail.com; mitkin.n.a@gmail.com
+Funding
+Funding Agency Grant Number
+Russian Science FoundationRussian Science Foundation (RSF) 
+14-14-01140 
+Program of fundamental research for state academies 
+01201363823 
+View funding text   
+Publisher
+MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+Categories / Classification
+Research Areas:Biochemistry & Molecular Biology; Chemistry
+Web of Science Categories:Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+See more data fields

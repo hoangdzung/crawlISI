@@ -1,0 +1,40 @@
+Stochastic maximum flow interdiction problems under heterogeneous risk preferences
+By:Lei, X (Lei, Xiao)[ 1 ] ; Shen, SQ (Shen, Siqian)[ 2 ] ; Song, YJ (Song, Yongjia)[ 3 ]
+View ResearcherID and ORCID
+COMPUTERS & OPERATIONS RESEARCH
+Volume: 90 Pages: 97-109
+DOI: 10.1016/j.cor.2017.09.004
+Published: FEB 2018
+Document Type:Article
+Abstract
+We consider a generic maximum flow interdiction problem that involves a leader and a follower who take actions in sequence. Given an interdiction budget, the leader destroys a subset of arcs to minimize the follower's maximum flows from a source to a sink node. The effect from an interdiction action taken on each arc is random, following a given success rate of decreasing the arc's capacity to zero. The follower can add additional arc capacities for mitigating flow losses, after knowing the leader's interdiction plan but before realizing the uncertainty. We consider risk-neutral and risk-averse behaviors of the two players and investigate five bi-level/tri-level programming models for different risk-preference combinations. The models incorporate the expectation, left-tail, and right-tail Conditional Value-at-Risk (CVaR) as commonly used convex risk measures for evaluating random maximum flows in the leader's and follower's objectives. We reformulate each model as an equivalent mixed-integer linear program and test them on real-world network instances to demonstrate interactions between the leader and the follower under various risk-preference settings. (c) 2017 Elsevier Ltd. All rights reserved.
+Keywords
+Author Keywords:Maximum flow interdiction; Stochastic programming; Conditional value-at-Risk (CVar); Risk-averse optimization; Mixed-integer linear programming
+KeyWords Plus:NETWORK-INTERDICTION; BILEVEL
+Author Information
+Reprint Address: Shen, SQ (reprint author)
+Univ Michigan, Dept Ind & Operat Engn, Ann Arbor, MI 48109 USA.
+
+
+Addresses:
+[ 1 ] Univ Int Business & Econ, Beijing, Peoples R China
+
+[ 2 ] Univ Michigan, Dept Ind & Operat Engn, Ann Arbor, MI 48109 USA
+
+
+[ 3 ] Virginia Commonwealth Univ, Dept Stat Sci & Operat Res, Richmond, VA USA
+
+E-mail Addresses:sigian@umich.edu
+Funding
+Funding Agency Grant Number
+National Science FoundationNational Science Foundation (NSF) 
+CMMI-1433066 
+Army Research Office 
+12022511 
+View funding text   
+Publisher
+PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+Categories / Classification
+Research Areas:Computer Science; Engineering; Operations Research & Management Science
+Web of Science Categories:Computer Science, Interdisciplinary Applications; Engineering, Industrial; Operations Research & Management Science
+See more data fields

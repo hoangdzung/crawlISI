@@ -1,0 +1,34 @@
+Scoring in microfinance: credit risk management tool-Case of Morocco
+By:Bennouna, G (Bennouna, Ghita)[ 1 ] ; Tkiouat, M (Tkiouat, Mohamed)[ 2 ]
+SECOND INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTING IN DATA SCIENCES (ICDS2018)
+Edited by:Boumhidi, J; Ghanou, Y; Najah, S; Nfaoui, E; Oubenaalla, Y; Zahi, A; Zenkouar, K
+Book Series: Procedia Computer Science
+Volume: 148 Pages: 522-531
+DOI: 10.1016/j.procs.2019.01.025
+Published: 2019
+Document Type:Proceedings Paper
+Conference
+Conference: 2nd International Conference on Intelligent Computing in Data Sciences (ICDS)
+Location: Fez, MOROCCO
+Date: OCT 03-05, 2018
+Sponsor(s):Sidi Mohamed Ben Abdellah Univ; Int Neural Network Soc Morocco Reg Chapter
+Abstract
+The aim of this research lies in the development of a credit-scoring model using logistic regression and multivariate discriminant analysis applied to 1500 individual loans from Moroccan MFIs. This model combines both behavioral and descriptive data related to the borrowers (age, activity, level of education, number of unpaid debts, number of loans, etc.) and others related to the institution (amount of credit, duration of credit, number of concluded loans per portfolio manager etc.). The results showed the importance of having a larger sample, a deep enough history on the behavior of the customer, and also more information about variables related to the client's activity and its performance to better predict the default. (C) 2019 The Authors. Published by Elsevier B.V.
+Keywords
+Author Keywords:Credit scoring; microfinance; Morocco; credit risk; logistic regression; multivariate discriminant analysis; probability of default; behavioral model; descriptive model
+Author Information
+Reprint Address: Tkiouat, M (reprint author)
+Univ Rabat, Mohammed V Sch Engineers, Ind Econ & Game Theory, Rabat, Morocco.
+
+Addresses:
+[ 1 ] Univ Rabat, Mohammed V Sch Engineers, Lab Res Appl Math, Rabat, Morocco
+
+[ 2 ] Univ Rabat, Mohammed V Sch Engineers, Ind Econ & Game Theory, Rabat, Morocco
+
+E-mail Addresses:bennouna.ghita@gmail.com
+Publisher
+ELSEVIER SCIENCE BV, SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+See more data fields

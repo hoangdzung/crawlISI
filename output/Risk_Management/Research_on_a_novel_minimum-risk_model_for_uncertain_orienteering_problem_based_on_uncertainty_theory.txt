@@ -1,0 +1,34 @@
+Research on a novel minimum-risk model for uncertain orienteering problem based on uncertainty theory
+By:Wang, J (Wang, Jian)[ 1 ] ; Guo, JS (Guo, Jiansheng)[ 1 ] ; Zheng, MF (Zheng, Mingfa)[ 2 ] ; Zheng, MR (Zheng MuRong)[ 1 ] ; Li, ZX (Li, Zhengxin)[ 1 ]
+SOFT COMPUTING
+Volume: 23 Issue: 12 Pages: 4573-4584
+DOI: 10.1007/s00500-018-03699-1
+Published: JUN 2019
+Document Type:Article
+Abstract
+Probability theory is the most common method to solve the orienteering problems in the state of indeterminacy. However, it will no longer be applicable without available samples. In this paper, we focus on uncertain orienteering problem containing uncertain vector in the objective function. First, we creatively model the uncertain orienteering problem based on uncertainty theory. Second, we establish the minimum-risk model using uncertain measure instead of the expected-value policy. Third, after introducing some assumptions to deal with the uncertain vector in the minimum-risk model, we get an orienteering problem with fractional objective. Since it is more complex than the original orienteering problem, we design an one-dimensional ratio search algorithm. Finally, we perform some numerical tests on the uncertain datasets and analyze the effectiveness of our theoretical results and algorithm.
+Keywords
+Author Keywords:Uncertainty theory; Uncertain orienteering problem; Minimum-risk solution; One-dimensional ratio search algorithm
+KeyWords Plus:ALGORITHM
+Author Information
+Reprint Address: Zheng, MF (reprint author)
+Air Force Engn Univ, Dept Basic Courses, Xian 710051, Shaanxi, Peoples R China.
+
+Addresses:
+[ 1 ] Air Force Engn Univ, Equipment Management & UAV Engn Coll, Xian 710051, Shaanxi, Peoples R China
+
+[ 2 ] Air Force Engn Univ, Dept Basic Courses, Xian 710051, Shaanxi, Peoples R China
+
+E-mail Addresses:emse.wj@gmail.com; amisc@163.com; mingfazheng@stu.xjtu.edu.cn; chinauibe@163.com; zhengxinli@nwpu.edu.cn
+Funding
+Funding Agency Grant Number
+National Natural Science Foundation of ChinaNational Natural Science Foundation of China 
+61502521 
+61502523 
+View funding text   
+Publisher
+SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+Categories / Classification
+Research Areas:Computer Science
+Web of Science Categories:Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications
+See more data fields

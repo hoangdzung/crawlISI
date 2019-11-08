@@ -1,0 +1,35 @@
+Bioportainer Workbench: a versatile and user-friendly system that integrates implementation, management, and use of bioinformatics resources in Docker environments
+By:Menegidio, FB (Menegidio, Fabiano B.)[ 1 ] ; Barbosa, DA (Barbosa, David Aciole)[ 1 ] ; Goncalves, RD (Goncalves, Rafael dos S.)[ 1 ] ; Nishime, MM (Nishime, Marcio M.)[ 1 ] ; Jabes, DL (Jabes, Daniela L.)[ 1 ] ; de Oliveira, RC (de Oliveira, Regina Costa)[ 1 ] ; Nunes, LR (Nunes, Luiz R.)[ 2 ]
+View ResearcherID and ORCID
+GIGASCIENCE
+Volume: 8 Issue: 4
+Article Number: giz041
+DOI: 10.1093/gigascience/giz041
+Published: APR 2019
+Document Type:Article
+Abstract
+Background: The Docker project is providing a promising strategy for the development of virtualization systems in bioinformatics. However, implementation, management, and launching of Docker containers is not entirely trivial for users not fully familiarized with command line interfaces. This has prompted the development of graphical user interfaces to facilitate the interaction of inexperienced users with Docker environments. Results: We describe the BioPortainer Workbench, an integrated Docker system that assists inexperienced users in interacting with a bioinformatics-dedicated Docker environment at 3 main levels: (i) infrastructure, (ii) platform, and (iii) application. Conclusions: The BioPortainer Workbench represents a pioneering effort in developing a comprehensive and easy-to-use Docker platform focused on bioinformatics, which may greatly assist in the dissemination of Docker virtualization technology in this complex field of research.
+Keywords
+Author Keywords:Docker; bioinformatics; management user interface
+Author Information
+Reprint Address: Nunes, LR (reprint author)
+       Univ Fed ABC UFABC, Ctr Ciencias Nat & Humanas, Alameda Univ S-N, BR-09606045 Sao Bernardo Do Campo, SP, Brazil.
+Addresses:
+[ 1 ] Univ Mogi das Cruzes, Nucleo Integrado Biotecnol, Av Dr Candido Xavier de Almeida Souza 200, BR-08780911 Mogi das Cruzes, SP, Brazil
+
+       [ 2 ] Univ Fed ABC UFABC, Ctr Ciencias Nat & Humanas, Alameda Univ S-N, BR-09606045 Sao Bernardo Do Campo, SP, Brazil
+E-mail Addresses:Luiz.nunes@ufabc.edu.br
+Funding
+Funding Agency Grant Number
+Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) 
+17/13197-8 
+17/08112-3 
+Coordenacao de Aperfeic oamento de Pessoal de Nivel Superior (CAPES)CAPES   
+Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq)National Council for Scientific and Technological Development (CNPq)   
+View funding text   
+Publisher
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+Categories / Classification
+Research Areas:Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+Web of Science Categories:Biology; Multidisciplinary Sciences
+See more data fields

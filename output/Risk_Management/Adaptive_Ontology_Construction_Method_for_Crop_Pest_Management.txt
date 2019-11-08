@@ -1,0 +1,35 @@
+Adaptive Ontology Construction Method for Crop Pest Management
+By:Chougule, A (Chougule, Archana)[ 1 ] ; Jha, VK (Jha, Vijay Kumar)[ 2 ] ; Mukhopadhyay, D (Mukhopadhyay, Debajyoti)[ 1 ]
+View ResearcherID and ORCID
+PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DATA ENGINEERING AND COMMUNICATION TECHNOLOGY, ICDECT 2016, VOL 1
+Edited by:Satapathy, SC; Bhateja, V; Joshi, A
+Book Series: Advances in Intelligent Systems and Computing
+Volume: 468 Pages: 665-674
+DOI: 10.1007/978-981-10-1675-2_65
+Published: 2017
+Document Type:Proceedings Paper
+Conference
+Conference: 1st International Conference on Data Engineering and Communication Technology (ICDECT)
+Location: Christ Inst Management, Lavasa, INDIA
+Date: MAR 10-11, 2016
+Sponsor(s):Aspire Res Fdn
+Abstract
+Knowledge represented as ontologies can be accessed easily by automated systems in Semantic Web. If ontologies are used to represent agricultural knowledge, e.g., crop pest information, it can be shared by many existing expert systems in agricultural field. Different languages are used by farmers all over India. As knowledge in the form of ontologies can be converted easily into different languages, farmers in various states in India can benefit from expert's knowledge. Developing crop pest ontology from scratch will be a difficult task for agricultural experts and it will consume lot of time. We provide user-friendly interface in which agricultural expert can upload text descriptions of crop pests. The system will extract keywords from text files by applying keyphrase extraction steps and comparing it with AGROVOC thesaurus. For this purpose, we propose a Pest Keywords Extraction Algorithm described in detail in the paper. Agricultural expert can add new pest types, pest examples, and details of each pest such as reason, symptom, and remedy for pest. All the details will be automatically saved as pest ontology in OWL format. The system is adaptive as the expert can see pest type hierarchy, add or remove a pest type and pest details at any point in crop pest ontology. Once complete, ontology for crop pests is ready to be used by expert systems as part of inference engine.
+Keywords
+Author Keywords:Ontology; Agriculture; Expert system; Key phrase extraction
+Author Information
+Reprint Address: Chougule, A (reprint author)
+Maharashtra Inst Technol, Pune, Maharashtra, India.
+
+Addresses:
+[ 1 ] Maharashtra Inst Technol, Pune, Maharashtra, India
+
+[ 2 ] Birla Inst Technol, Ranchi, Bihar, India
+
+E-mail Addresses:chouguleab@gmail.com; vkjha@bitmesra.ac.in; debajyoti.mukhopadhyay@gmail.com
+Publisher
+SPRINGER-VERLAG SINGAPORE PTE LTD, SINGAPORE, SINGAPORE
+Categories / Classification
+Research Areas:Computer Science; Robotics
+Web of Science Categories:Computer Science, Artificial Intelligence; Computer Science, Hardware & Architecture; Computer Science, Theory & Methods; Robotics
+See more data fields

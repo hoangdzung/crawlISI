@@ -1,0 +1,24 @@
+Congestion Management in Deregulated Power System Using Heuristic Search Algorithms Incorporating Wireless Technology
+By:Jasmine, GS (Jasmine, G. Sophia)[ 1 ] ; Vijayakumar, P (Vijayakumar, P.)[ 2 ]
+WIRELESS PERSONAL COMMUNICATIONS
+Volume: 94 Issue: 4 Pages: 2665-2680
+DOI: 10.1007/s11277-016-3878-4
+Published: JUN 2017
+Document Type:Article
+Abstract
+The impact of restructuring in the field of communication sector has brought an evolutionary change in power sector too. This revolutionary idea has brought about competition in this sector with an aim of reduction in the electricity price. The competitive environment not only benefits the utilities and customers however it kindles some of the technical issues, typical one being the transmission congestion. It is considered to be tenacious since it admonish system security and may result in inflation of electricity prices effecting in feeble market condition. The explication to the dispute of congestion has been furnished in this paper. To minimize the congestion cost, an effective multi objective approach is proposed to endorse generator rescheduling and FACTS technology using a metaheurisitc optimization algorithm, symbiotic organic search algorithm. The choice of most sensitive generators to reschedule real and reactive power is realized using real power transmission congestion distribution factor. The proposed method has been tested on IEEE 14 bus system and IEEE 30 bus system.
+Keywords
+Author Keywords:Congestion management; Symbiotic organic search; Transmission congestion distribution factor; Newton-Raphson (NR)
+Author Information
+Reprint Address: Jasmine, GS (reprint author)
+       Dr Mahalingam Coll Engn & Technol, Dept Elect & Elect Engn, Pollachi 642003, India.
+Addresses:
+       [ 1 ] Dr Mahalingam Coll Engn & Technol, Dept Elect & Elect Engn, Pollachi 642003, India
+       [ 2 ] Karpagam Coll Engn, Dept Elect & Elect Engn, Coimbatore 641032, Tamil Nadu, India
+E-mail Addresses:sophiajasmine@drmcet.ac.in; vijay.pvk72@gmail.com
+Publisher
+SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+Categories / Classification
+Research Areas:Telecommunications
+Web of Science Categories:Telecommunications
+See more data fields

@@ -1,0 +1,32 @@
+Home Appliance Management System for Monitoring Digitized Devices Using Cloud Computing Technology in Ubiquitous Sensor Network Environment
+By:Cui, Y (Cui, Yun)[ 1 ] ; Kim, M (Kim, Myoungjin)[ 1 ] ; Gu, Y (Gu, Yi)[ 1 ] ; Jung, JJ (Jung, Jong-jin)[ 2 ] ; Lee, H (Lee, Hanku)[ 3 ]
+INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+Article Number: 174097
+DOI: 10.1155/2014/174097
+Published: 2014
+Document Type:Article
+Abstract
+The number of service techniques available for digitized home appliances is rapidly increasing as a result of various advances in digital technology. Users can now easily control and monitor home appliances via sensor networks formed among home appliances in ubiquitous environments. However, home appliances generate such large amounts of metadata about their status every month that in order to provide home appliance monitoring services to users, an approach that is able to store, analyze, and process these large amounts of metadata is needed. We propose a system that uses UPnP to collect metadata from home appliances and cloud computing technology to store and process the metadata collected from ubiquitous sensor network environments. Our proposed system utilizes a home gateway and is designed and implemented using UPnP technology to search for and collect device features and service information. It also provides a function for transmitting the metadata from the home appliances to a cloud-based data server that uses Hadoop-based technology to store and process the metadata collected by a home appliance monitoring service.
+Keywords
+KeyWords Plus:UPNP; MIDDLEWARE
+Author Information
+Reprint Address: Lee, H (reprint author)
+Konkuk Univ, Ctr Social Media Cloud Comp, Seoul 143701, South Korea.
+
+Addresses:
+[ 1 ] Konkuk Univ, Dept Internet & Multimedia Engn, Seoul 143701, South Korea
+
+       [ 2 ] Korea Elect Technol Inst, Digital Media Res Ctr, Seoul 121835, South Korea
+[ 3 ] Konkuk Univ, Ctr Social Media Cloud Comp, Seoul 143701, South Korea
+
+E-mail Addresses:hlee@konkuk.ac.kr
+Funding
+Funding Agency Grant Number
+Konkuk University   
+View funding text   
+Publisher
+SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+Categories / Classification
+Research Areas:Computer Science; Telecommunications
+Web of Science Categories:Computer Science, Information Systems; Telecommunications
+See more data fields
