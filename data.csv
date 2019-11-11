@@ -1,0 +1,1093 @@
+Abstract,Addresses,Author Keywords,By,Document Type,E-mail Addresses,Funding Agency Grant Number,KeyWords Plus,Published,Publisher,Reprint Address,Research Areas,Title,View ResearcherID and ORCID,Web of Science Categories
+"In this study, we consider a portfolio-optimization incorporated budget investment problem under managers' risk tolerance ambiguity. In order to capture the decision dynamics driven by the risk tolerance ambiguity, a two-stage adaptive optimization model is developed. The budget allocation is the first-stage decision, which is made before knowing each manager's actual risk tolerance level, and the portfolio selection conducted by each manager is the second-stage decision, which adapts to the manager's risk tolerance. We introduce the concept of risk-neutral budget threshold (RNBT) that is modeled by a fuzzy set granule, and upon which the ambiguous risk tolerance curve is constructed, which can realistically capture the managers' risk-averse and/or risk-seeking attitudes. Due to the (realistic) nonconvex/nonconcave structure of the risk tolerance curve, and the existence of the ambiguity, the resulting problem is essentially a nonconvex adaptive optimization problem under uncertainty. To achieve a robust modeling and an efficient solution, we first restructure and robustize the information of fuzzy RNBTs and then transform the developed model into a mixed integer linear programming (MILP), which can be handled efficiently by off-the-shelf mixed integer program solvers. Leveraging the derived MILP structure, we can use the Benders decomposition to further enhance the scalability of the model. Furthermore, some model extensions on robustizing the probability estimations are discussed. Finally, computational studies are performed to demonstrate the effectiveness and insights of the model.
+","
+","Ambiguity; budget and portfolio investment; fuzzy set granule; mixed integer program (MIP); risk-neutral budget threshold (RNBT); risk tolerance
+","Wang, SM (Wang, Shuming)[ 1 ] ; Wang, B (Wang, Bo)[ 2 ] ; Watada, JZ (Watada, Junzo)[ 3 ]
+","Article
+","wangshuming@ucas.ac.cn; bwangips@gmail.com; junzow@enlosb.att.ne.jp
+","['Funding Agency Grant Number\n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '71402176 \n', '91538113 \n', 'View funding text   \n']","SELECTION; MODEL
+"," APR 2017
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Wang, SM (reprint author)
+","Computer Science; Engineering
+","Adaptive Budget-Portfolio Investment Optimization Under Risk Tolerance Ambiguity
+","IEEE TRANSACTIONS ON FUZZY SYSTEMS
+","Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+"
+"Knowledge represented as ontologies can be accessed easily by automated systems in Semantic Web. If ontologies are used to represent agricultural knowledge, e.g., crop pest information, it can be shared by many existing expert systems in agricultural field. Different languages are used by farmers all over India. As knowledge in the form of ontologies can be converted easily into different languages, farmers in various states in India can benefit from expert's knowledge. Developing crop pest ontology from scratch will be a difficult task for agricultural experts and it will consume lot of time. We provide user-friendly interface in which agricultural expert can upload text descriptions of crop pests. The system will extract keywords from text files by applying keyphrase extraction steps and comparing it with AGROVOC thesaurus. For this purpose, we propose a Pest Keywords Extraction Algorithm described in detail in the paper. Agricultural expert can add new pest types, pest examples, and details of each pest such as reason, symptom, and remedy for pest. All the details will be automatically saved as pest ontology in OWL format. The system is adaptive as the expert can see pest type hierarchy, add or remove a pest type and pest details at any point in crop pest ontology. Once complete, ontology for crop pests is ready to be used by expert systems as part of inference engine.
+","
+","Ontology; Agriculture; Expert system; Key phrase extraction
+","Chougule, A (Chougule, Archana)[ 1 ] ; Jha, VK (Jha, Vijay Kumar)[ 2 ] ; Mukhopadhyay, D (Mukhopadhyay, Debajyoti)[ 1 ]
+","Proceedings Paper
+","chouguleab@gmail.com; vkjha@bitmesra.ac.in; debajyoti.mukhopadhyay@gmail.com
+",,," 2017
+","SPRINGER-VERLAG SINGAPORE PTE LTD, SINGAPORE, SINGAPORE
+"," Chougule, A (reprint author)
+","Computer Science; Robotics
+","Adaptive Ontology Construction Method for Crop Pest Management
+","PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DATA ENGINEERING AND COMMUNICATION TECHNOLOGY, ICDECT 2016, VOL 1
+","Computer Science, Artificial Intelligence; Computer Science, Hardware & Architecture; Computer Science, Theory & Methods; Robotics
+"
+"The development of software across different countries (and time zones) differs substantially from software development in one single country or region. The management of processes and people, who work in globally distributed teams, requires a high level of coordination and collaboration which needs to be based on established human resource management practices. The People Capability Maturity Model (People-CMM) provides a complete framework that enables quality in human resource management to be improved. However, today, the adoption of the People-CMM within organizations using Global Software Development (GSD) is not an easy task. This paper uses an empirical study to analyze the implementation of the People-CMM within the GSD context. Results confirm that cultural and communication problems are the main challenges in the implementation of the People-CMM adoption within GSD scenarios.
+","
+","People-CMM; Global Software Development; Distributed Software Development; Competency
+","Colomo-Palacios, R (Colomo-Palacios, Ricardo)[ 1 ] ; Casado-Lumbreras, C (Casado-Lumbreras, Cristina)[ 2 ] ; Soto-Acosta, P (Soto-Acosta, Pedro)[ 3 ] ; Misra, S (Misra, Sanjay)[ 4 ] ; Garcia-Penalvo, FJ (Garcia-Penalvo, Francisco Jose)[ 5 ]
+","Article
+","ricardo.colomo@uc3m.es; casado.lumbreras@gmail.com; psoto@um.es; ssopam@gmail.com; fgarcia@usal.es
+",,"GLOBAL SOFTWARE-DEVELOPMENT; DEVELOPMENT TEAMS; COMMUNICATION; ADAPTATION; DISTANCE
+"," 2012
+","TAYLOR & FRANCIS INC, 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+"," Colomo-Palacios, R (reprint author)
+","Information Science & Library Science
+","Analyzing Human Resource Management Practices Within the GSD Context
+","JOURNAL OF GLOBAL INFORMATION TECHNOLOGY MANAGEMENT
+","Information Science & Library Science
+"
+"Quantitative structure activity relationships (QSARs) are theoretical models that relate a quantitative measure of chemical structure to a physical property or a biological effect. QSAR predictions can be used for chemical risk assessment for protection of human and environmental health, which makes them interesting to regulators, especially in the absence of experimental data. For compatibility with regulatory use, QSAR models should be transparent, reproducible and optimized to minimize the number of false negatives. In silico QSAR tools are gaining wide acceptance as a faster alternative to otherwise time-consuming clinical and animal testing methods. However, different QSAR tools often make conflicting predictions for a given chemical and may also vary in their predictive performance across different chemical datasets. In a regulatory context, conflicting predictions raise interpretation, validation and adequacy concerns. To address these concerns, ensemble learning techniques in the machine learning paradigm can be used to integrate predictions from multiple tools. By leveraging various underlying QSAR algorithms and training datasets, the resulting consensus prediction should yield better overall predictive ability. We present a novel ensemble QSAR model using Bayesian classification. The model allows for varying a cut-off parameter that allows for a selection in the desirable trade-off between model sensitivity and specificity. The predictive performance of the ensemble model is compared with four in silico tools (Toxtree, Lazar, OECD Toolbox, and Danish QSAR) to predict carcinogenicity for a dataset of air toxins (332 chemicals) and a subset of the gold carcinogenic potency database (480 chemicals). Leaveone- out cross validation results show that the ensemble model achieves the best trade-off between sensitivity and specificity (accuracy: 83.8 % and 80.4 %, and balanced accuracy: 80.6 % and 80.8 %) and highest inter-rater agreement [kappa (kappa): 0.63 and 0.62] for both the datasets. The ROC curves demonstrate the utility of the cut-off feature in the predictive ability of the ensemble model. This feature provides an additional control to the regulators in grading a chemical based on the severity of the toxic endpoint under study.
+","
+","Computational toxicology; In silico QSAR tools; Hybrid QSAR models; Ensemble models; Risk assessment
+","Pradeep, P (Pradeep, Prachi)[ 1 ] ; Povinelli, RJ (Povinelli, Richard J.)[ 2 ] ; White, S (White, Shannon)[ 4 ] ; Merrill, SJ (Merrill, Stephen J.)[ 3 ]
+","Article
+","prachipradeep.15@gmail.com
+","['Funding Agency Grant Number\n', 'US Department of EnergyUnited States Department of Energy (DOE)   \n', 'US Food and Drug Administration   \n', 'View funding text   \n']","IN-SILICO; CLASSIFIER ENSEMBLES; MDL-QSAR; PREDICTION; TOXICOLOGY; PERFORMANCE; CONFIDENCE; AGREEMENT; LEADSCOPE; TOXICITY
+"," SEP 22 2016
+","BIOMED CENTRAL LTD, 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+"," Pradeep, P (reprint author)
+","Chemistry; Computer Science
+","An ensemble model of QSAR tools for regulatory risk assessment
+","JOURNAL OF CHEMINFORMATICS
+","Chemistry, Multidisciplinary; Computer Science, Information Systems; Computer Science, Interdisciplinary Applications
+"
+"Electric power system (EPS) management considering greenhouse gas (GHG) mitigation is a challenging task, since many system parameters such as electric demand, resource availability, system cost as well as their interrelationships may appear uncertain. To reflect these uncertainties, in this study, an interval-parameter credibility constrained programming (ICCP) method was developed for electric power system planning in light of GHG mitigation. The method was advantageous in tackling uncertainties expressed as not only fuzzy possibilistic distributions associated with the right-hand-side components of model constraints but also discrete intervals in the objective function. In addition, ICCP allowed satisfaction of system constraints at specified confidence level, leading to model solutions with low system cost under acceptable risk magnitudes. The obtained results indicated that stable intervals for the objective function and decision variables could be generated, which were useful for helping decision makers identify the desired electric power generation patterns, capacity expansion schemes and GHG-emission reduction under complex uncertainties, and gain in-depth insights into the trade-offs between system economy and reliability.
+","
+","decision making; interval linear programming; credibility constrained programming; electric power system; uncertainty
+","Li, W (Li, W.)[ 1 ] ; Bao, Z (Bao, Z.)[ 1 ] ; Huang, GH (Huang, G. H.)[ 2 ] ; Xie, YL (Xie, Y. L.)[ 3 ]
+","Article
+","weili1027@gmail.com
+","['Funding Agency Grant Number\n', 'National Key Research and Development Plan \n', '2016YFC0502800 \n', '2016YFA0601502 \n', 'Natural Sciences FoundationNational Natural Science Foundation of China \n', '61471171 \n', '51520105013 \n', '51679087 \n', '111 Program \n', 'B14008 \n', 'Environmental Protection Public Welfare Scientific Research Project \n', '201509010 \n', 'Natural Science and Engineering Research Council of CanadaNatural Sciences and Engineering Research Council of Canada   \n', 'View funding text   \n']","SOLID-WASTE MANAGEMENT; WATER-RESOURCES MANAGEMENT; FUZZY RELATION ANALYSIS; LAND-USE MANAGEMENT; OPTIMIZATION APPROACH; DYNAMIC OPTIMIZATION; LAKE AREAS; MODEL; ENERGY; ENVIRONMENT
+"," JUN 2018
+","INT SOC ENVIRON INFORM SCI, 4246 ALBERT ST, REGINA, SASKATCHEWAN S4S 3R9, CANADA
+"," Li, W (reprint author)
+","Environmental Sciences & Ecology
+","An Inexact Credibility Chance-Constrained Integer Programming for Greenhouse Gas Mitigation Management in Regional Electric Power System under Uncertainty
+","JOURNAL OF ENVIRONMENTAL INFORMATICS
+","Environmental Sciences
+"
+,"
+",,"Mendes, D (Mendes, D.)[ 1 ] ; Paredes, S (Paredes, S.)[ 2 ] ; Rocha, T (Rocha, T.)[ 2 ] ; Carvalho, P (Carvalho, P.)[ 1 ] ; Henriques, J (Henriques, J.)[ 1 ] ; Morais, J (Morais, J.)[ 3 ]
+","Proceedings Paper
+","diana.sxm@gmail.com; sparedes@isec.pt; teresa@isec.pt; carvalho@dei.uc.pt; jh@dei.uc.pt; joaomorais@hsaleiria.min-saude.pt
+","['Funding Agency Grant Number\n', 'Welcome project \n', 'FP7-ICT-2013-10 \n', 'LINK project \n', 'H2020-692023 \n', 'View funding text   \n']",," 2017
+","IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+"," Mendes, D (reprint author)
+","Biophysics; Engineering
+","An interpretable data-driven approach for rules construction: application to cardiovascular risk assessment
+","2017 39TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC)
+","Biophysics; Engineering, Biomedical
+"
+"This paper presents an on-line energy management strategy (EMS) based on trip condition prediction for commuter plug-in hybrid electric vehicles (P-HEVs). The purpose is to provide an on-line predictive control approach to minimize fuel consumption. Two pivotal contributions are provided to realize the purpose. First of all, we establish the trip condition prediction model by using back propagation neural network, to obtain the real-time vehicle-speed trajectory on-line. Particularly, both the genetic algorithm and particle swarm optimization algorithm are applied to improve the prediction accuracy of the trip condition prediction model. Next, to obtain an applicable EMS in real time, we propose a dynamic programming-based predictive control strategy. Finally, a simulation study is conducted for applying the proposed strategy to a practical trip path in the Beijing road network. The results show that the designed trip condition prediction model can effectively realize the on-line vehicle-speed prediction, and the prediction accuracy is more than 93%. In addition, compared to the offline global optimization EMS, although the proposed strategy makes the fuel consumption grow less than 5.2%, it can be implemented in real time. Moreover, compared with the existing real-time EMSs, it can further reduce the fuel consumption and emissions. It shows that the proposed EMS can provide an effective solution for commuter P-HEVs applying it on-line.
+","
+","Plug-in hybrid electric vehicle; energy management strategy; trip condition prediction; predictive control
+","Liu, JC (Liu, Jichao)[ 1 ] ; Chen, YZ (Chen, Yangzhou)[ 1 ] ; Zhan, JY (Zhan, Jingyuan)[ 1 ] ; Shang, F (Shang, Fei)[ 1 ]
+","Article
+","jichaoliu@emails.bjut.edu.cn; yzchen@bjut.edu.cn; jyzhan@bjut.edu.cn; shangfei@emails.bjut.edu.cn
+","['Funding Agency Grant Number\n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '61573030 \n', 'Beijing Natural Science FoundationBeijing Natural Science Foundation \n', 'L171001 \n', 'Traffic Control Technology \n', 'L171001 \n', 'View funding text   \n']","OPTIMAL POWER MANAGEMENT; MODEL; BUSES
+"," MAY 2018
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Chen, YZ (reprint author)
+","Engineering; Telecommunications; Transportation
+","An On-Line Energy Management Strategy Based on Trip Condition Prediction for Commuter Plug-In Hybrid Electric Vehicles
+","IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+","Engineering, Electrical & Electronic; Telecommunications; Transportation Science & Technology
+"
+"The present study was performed to clarify the association between the acyl-CoA:cholesterol acyltransferase-1 (ACAT-1) single nucleotide polymorphism (SNP) rs1044925 and the risk of coronary artery disease (CAD) and ischemic stroke (IS) in the Guangxi Han population. Polymerase chain reaction and restriction fragment length polymorphism was performed to determine the genotypes of the ACAT-1 SNP rs1044925 in 1730 unrelated subjects (CAD, 587; IS, 555; and healthy controls; 588). The genotypic and allelic frequencies of rs1044925 were significantly different between the CAD patients and controls (p = 0.015) and borderline different between the IS patients and controls (p = 0.05). The AC/CC genotypes and C allele were associated with a decreased risk of CAD and IS (CAD: p = 0.014 for AC/CC vs. AA, p = 0.022 for C vs. A; IS: p = 0.014 for AC/CC vs. AA; p = 0.017 for C vs. A). The AC/CC genotypes in the healthy controls, but not in CAD or IS patients, were associated with an increased serum high-density lipoprotein cholesterol (HDL-C) concentration. The present study shows that the C allele carriers of ACAT-1 rs1044925 were associated with an increased serum HDL-C level in the healthy controls and decreased risk in CAD and IS patients.
+","
+","acyl-CoA:cholesterol acyltransferase gene; single nucleotide polymorphism; coronary artery disease; ischemic stroke; lipids
+","Wu, DF (Wu, Dong-Feng)[ 1 ] ; Yin, RX (Yin, Rui-Xing)[ 1 ] ; Cao, XL (Cao, Xiao-Li)[ 2 ] ; Chen, WX (Chen, Wu-Xian)[ 1 ]
+","Article
+","wulove26@tom.com; yinruixing@163.com; maten1996@gmail.com; nncwx@163.com
+","['Funding Agency Grant Number\n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '30960130 \n', 'Science Foundation of Guangxi Returned Oversea Scholars \n', '0991004 \n', 'Innovation Project of Guangxi Graduate Education \n', 'YCBZ2013013 \n', 'View funding text   \n']","A-CHOLESTEROL ACYLTRANSFERASE; MAMMALIAN ACYL-COA; SERUM-LIPID LEVELS; MOLECULAR-CLONING; ATHEROSCLEROTIC LESIONS; FUNCTIONAL EXPRESSION; ACAT INHIBITION; COENZYME; MICE; MACROPHAGES
+"," MAR 2014
+","MDPI AG, POSTFACH, CH-4005 BASEL, SWITZERLAND
+"," Yin, RX (reprint author)
+","Biochemistry & Molecular Biology; Chemistry
+","Association between Single Nucleotide Polymorphism rs1044925 and the Risk of Coronary Artery Disease and Ischemic Stroke
+","INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+","Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+"
+"In future IoT big-data management and knowledge discovery for large scale industrial automation application, the importance of industrial internet is increasing day by day. Several diversified technologies such as IoT (Internet of Things), computational intelligence, machine type communication, big-data, and sensor technology can be incorporated together to improve the data management and knowledge discovery efficiency of large scale automation applications. So in this work, we need to propose a Cognitive Oriented IoT Big-data Framework (COIB-framework) along with implementation architecture, IoT big-data layering architecture, and data organization and knowledge exploration subsystem for effective data management and knowledge discovery that is well-suited with the large scale industrial automation applications. The discussion and analysis show that the proposed framework and architectures create a reasonable solution in implementing IoT big-data based smart industrial applications.
+","
+",,"Mishra, N (Mishra, Nilamadhab)[ 1 ] ; Lin, CC (Lin, Chung-Chih)[ 1 ] ; Chang, HT (Chang, Hsien-Tsung)[ 1 ]
+","Article
+","smallpig@widelab.org
+","['Funding Agency Grant Number\n', 'Ministry of Science and Technology, China of Chang Gung University \n', 'MOST 103-2221-E-182-003 \n', 'MOST 103-2511-S-182-053 \n', 'CMRPD3B0033 \n', 'View funding text   \n']","INTERNET; THINGS; ARCHITECTURE
+"," 2015
+","SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+"," Chang, HT (reprint author)
+","Computer Science; Telecommunications
+","A Cognitive Adopted Framework for IoT Big-Data Management and Knowledge Discovery Prospective
+","INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+","Computer Science, Information Systems; Telecommunications
+"
+"This paper describes a knowledge-based decision support system (KB-DSS) to improve the preparedness of crisis situations induced by natural and technological hazards. The proposed KB-DSS aims to manage the potential cascading effects generated by a triggering hazard assessing the possible event time histories based on interconnected probabilistic simulation models. From a methodological point of view, a decision model based on two Multi-Criteria Decision-Making (MCDM) algorithms follows a cascading effect simulation model. This combination allows to support the decision maker in comparing a set of mitigation strategies on the basis of their expected impacts and his priorities. The algorithm is based on an ensemble approach, which combines decisions over an array of possible impact scenarios, instead of only relying on the average impact scenario. An application of the KB-DSS to the case of a possible reactivation of Nea Kameni volcano in Santorini is presented to show how the proposed architecture could be applied to a real case. The proposed methodology supports the emergency planners in making the best decisions supporting them also in the choice of the best timing for the intervention.
+","
+","Decision support system; knowledge-based; multi-criteria decision making; disaster management; cascading effects
+","Caroleo, B (Caroleo, Brunella)[ 1 ] ; Palumbo, E (Palumbo, Enrico)[ 1 ] ; Osella, M (Osella, Michele)[ 1 ] ; Lotito, A (Lotito, Antonio)[ 1 ] ; Rizzo, G (Rizzo, Giuseppe)[ 1 ] ; Ferro, E (Ferro, Enrico)[ 1 ] ; Attanasio, A (Attanasio, Antonio)[ 2 ] ; Chiusano, S (Chiusano, Silvia)[ 2 ] ; Zuccaro, G (Zuccaro, Giulio)[ 3 ] ; Leone, M (Leone, Mattia)[ 3 ] ...More
+","Article
+","caroleo@ismb.it; palumbo@ismb.it; osella@ismb.it; lotito@ismb.it; giuseppe.rizzo@ismb.it; ferro@ismb.it; antonio.attanasio@polito.it; silvia.chiusano@polito.it; zuccaro@unina.it; mattia.leone@unina.it; daniela.degregorio@unina.it
+","['Funding Agency Grant Number\n', ""Snowball project - European Union's 7th Framework Programme \n"", '606742 \n', 'View funding text   \n']","FRAMEWORK; VESUVIUS; LAW
+"," SEP 2018
+","WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+"," Caroleo, B (reprint author)
+","Computer Science; Operations Research & Management Science
+","A Knowledge-Based Multi-Criteria Decision Support System Encompassing Cascading Effects for Disaster Management
+","INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING
+","Computer Science, Artificial Intelligence; Computer Science, Information Systems; Computer Science, Interdisciplinary Applications; Operations Research & Management Science
+"
+"Key management plays a fundamental role in the field of cryptography. In this paper, we propose a novel multiparty quantum key management (QKM) protocol. Departing from single-function quantum cryptography protocols, our protocol has a salient feature in that it accomplishes a complete QKM process. In this process, we can simultaneously realize the functions of key generation, key distribution and key backup by executing the protocol once. Meanwhile, for the first time, we propose the idea of multi-function QKM. Firstly, the secret key is randomly generated by managers via the quantum measurements in -level Bell basis. Then, through entanglement swapping, the secret key is successfully distributed to users. Under circumstances of urgent requirement, all managers can cooperate to recover the users' secret key, but neither of them can recover it unilaterally. Furthermore, this protocol is further generalized into the multi-manager and multi-user QKM scenario. It has clear advantages in the burgeoning area of quantum security group communication. In this system, all group members share the same group key, and group key management is the foundation of secure group communication and hence an important subject of study.
+","
+","Quantum cryptography; Quantum key management; Quantum key backup; Quantum security group communication
+","Xu, G (Xu, Gang)[ 1,2,3 ] ; Chen, XB (Chen, Xiu-Bo)[ 2 ] ; Dou, Z (Dou, Zhao)[ 2 ] ; Yang, YX (Yang, Yi-Xian)[ 2 ] ; Li, ZP (Li, Zongpeng)[ 3 ]
+","Article
+","xb_chen@bupt.edu.cn
+","['Funding Agency Grant Number\n', 'NSFCNational Natural Science Foundation of China \n', '61272514 \n', '61170272 \n', '61121061 \n', '614111 46001 \n', 'NCETProgram for New Century Excellent Talents in University (NCET) \n', 'NCET-13-0681 \n', 'National Development Foundation for Cryptological Research \n', 'MMJJ201401012 \n', 'Fok Ying Tong Education FoundationFok Ying Tung Education Foundation \n', '131067 \n', 'China Scholarship CouncilChina Scholarship Council   \n', 'View funding text   \n']","CRYPTOGRAPHY; SHARE
+"," AUG 2015
+","SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+"," Chen, XB (reprint author)
+","Physics
+","A novel protocol for multiparty quantum key management
+","QUANTUM INFORMATION PROCESSING
+","Quantum Science & Technology; Physics, Multidisciplinary; Physics, Mathematical
+"
+"Real-time pricing (RTP) is a utility-offered dynamic pricing program to incentivize customers to make changes in their energy usage. A home energy management system (HEMS) automates the energy usage in a smart home in response to utility pricing signals. We present three new HEMS techniques-one myopic approach and two non-myopic partially observable Markov decision process (POMDP) approaches-for minimizing the household electricity bill in such a RTP market. In a simulation study, we compare the performance of the new HEMS methods with a mathematical lower bound and the status quo. We show that the non-myopic POMDP approach can provide a 10%-30% saving over the status quo.
+","
+","Cyber-physical systems; demand response; home energy management systems; partially observable Markov decision process; real-time pricing
+","Hansen, TM (Hansen, Timothy M.)[ 1 ] ; Chong, EKP (Chong, Edwin K. P.)[ 2,3 ] ; Suryanarayanan, S (Suryanarayanan, Siddharth)[ 4 ] ; Maciejewski, AA (Maciejewski, Anthony A.)[ 2 ] ; Siegel, HJ (Siegel, Howard Jay)[ 2 ]
+","Article
+","timothy.hansen@sdstate.edu; edwin.chong@colostate.edu; sid@colostate.edu; aam@colostate.edu; hj@colostate.edu
+",,"DEMAND RESPONSE; PRICING ENVIRONMENTS; OPTIMIZATION; APPLIANCES; ALGORITHM; MODEL
+"," MAR 2018
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Hansen, TM (reprint author)
+","Engineering
+","A Partially Observable Markov Decision Process Approach to Residential Home Energy Management
+","IEEE TRANSACTIONS ON SMART GRID
+","Engineering, Electrical & Electronic
+"
+"Big data, advanced analytics, and in-memory database technology are on the agenda of top management since they are seen as key enablers for enhanced business decision-making. In this paper, we provide a comprehensive perspective on applications of in-memory analytics in the field of supply chain management (SCM) that use the aforementioned concepts. Our contribution is threefold: First, we develop a top-down framework to position in-memory analytics applications against extant IT systems in SCM. Second, we conduct a bottom-up categorization of 41 in-memory analytics applications in SCM to provide supporting empirical evidence of the efficacy of the framework. Third, by contrasting top-down and bottom-up perspectives we derive implications for research and industrial practice. (C) 2015 Elsevier B.V. All rights reserved.
+","
+","Business analytics; In-memory database systems; Supply chain management; Advanced planning; Business intelligence
+","Hahn, GJ (Hahn, G. J.)[ 1 ] ; Packowski, J (Packowski, J.)[ 2 ]
+","Article
+","hahn@bwl.uni-mannheim.de; jp@camelot-mc.com
+",,"DECISION-SUPPORT-SYSTEMS; BIG DATA; BUSINESS INTELLIGENCE; INFORMATION; INSIGHTS
+"," AUG 2015
+","ELSEVIER SCIENCE BV, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+"," Hahn, GJ (reprint author)
+","Computer Science; Operations Research & Management Science
+","A perspective on applications of in-memory analytics in supply chain management
+","DECISION SUPPORT SYSTEMS
+","Computer Science, Artificial Intelligence; Computer Science, Information Systems; Operations Research & Management Science
+"
+"This paper aims to recognize driving risks in individual vehicles online based on a data-driven methodology. Existing advanced driver assistance systems (ADAS) have difficulties in effectively processing multi-source heterogeneous driving data. Furthermore, parameters adopted for evaluating the driving risk are limited in these systems. The approach of data-driven modeling is investigated in this study for utilizing the accumulation of on-road driving data. A recognition model of driving risk based on belief rule-base (BRB) methodology is built, predicting driving safety as a function of driver characteristics, vehicle state and road environment conditions. The BRB model was calibrated and validated using on-road data from 30 drivers. The test results show that the recognition accuracy of our proposed model can reach about 90% in all situations with three levels (none, medium, large) of driving risks. Furthermore, the proposed simplified model, which provides real-time operation, is implemented in a vehicle driving simulator as a reference for future ADAS and belongs to research on artificial intelligence (AI) in the automotive field.
+","
+","Driving data; vehicle driving risk; data-driven; belief rule-base; ADAS
+","Sun, C (Sun, Chuan)[ 1 ] ; Wu, CZ (Wu, Chaozhong)[ 2 ] ; Chu, DF (Chu, Duanfeng)[ 2 ] ; Lu, ZJ (Lu, Zhenji)[ 3 ] ; Tan, J (Tan, Jian)[ 1 ] ; Wang, JY (Wang, Jianyu)[ 1 ]
+","Article
+","sunchuan33@foxmail.com; wucz@whut.edu.cn; chudf@whut.edu.cn; z.lu@tudelft.nl; 2529011569@qq.com; 191253016@qq.com
+","['Funding Agency Grant Number\n', 'National Undergraduate Training Program for Innovation and Entrepreneurship \n', '201710514011 \n', 'National Key Technology R&D Program of ChinaNational Key Technology R&D Program \n', '2014BAG01B03 \n', 'Hubei Provincial Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '2018CFC863 \n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '51675390 \n', 'Truck Merging Support-a Step towards Autonomous Driving (HTSM Automotive) \n', '12831 \n', 'View funding text   \n']","EVIDENTIAL REASONING APPROACH; DRIVER ASSISTANCE SYSTEMS; BEHAVIOR; NETWORKS
+"," NOV 2018
+","WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+"," Sun, C (reprint author)
+","Computer Science
+","A Recognition Model of Driving Risk Based on Belief Rule-Base Methodology
+","INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
+","Computer Science, Artificial Intelligence
+"
+"Water covers about 70% of the earth's surface and it exists naturally in the earth in all the three physical states of matter and it is always moving around because the water flows with the current. Out of the earth's percentage of water covering the surface, only about 2.5% is fresh water and due to the fact that most are stored in deep groundwater, a small amount is readily available for human use. Water scarcity is becoming a major concern for people around the world and the need to protect the existing ones and find ways or means to provide safe water for individuals around the globe in adequate quantities with keeping the needs of future generations in mind. Water is life, and it is linked with lots of services either directly or indirectly, such as; human health and welfare and social and economic development of a community or country. The need to delve into Ghana's water resources management is essential. The study reviewed existing literature on the various members of the Water Resource Commission (WRC) in Ghana; the various basins in the country; the existing measures that the WRC authorities have in place to deal with water resources management issues; the challenges that hinder the progress of their achievements and some suggestions that if considered can improve the current water resources management situations in Ghana.
+","
+","water resources management; Ghana; basins; illegal mining; water weeds; renewable energy; climate change; groundwater; environmental sustainability engineering
+","Owusu, PA (Owusu, Phebe Asantewaa)[ 1 ] ; Asumadu-Sarkodie, S (Asumadu-Sarkodie, Samuel)[ 1 ] ; Ameyo, P (Ameyo, Polycarp)[ 2 ]
+","Review
+","phebe.owusu@metu.edu.tr; samuel.sarkodie@metu.edu.tr; polycarpameyo@gmail.com
+",,"ECONOMIC VIABILITY
+"," 2016
+","TAYLOR & FRANCIS AS, KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+"," Asumadu-Sarkodie, S (reprint author)
+","Engineering
+","A review of Ghana's water resource management and the future prospect
+","COGENT ENGINEERING
+","Engineering, Multidisciplinary
+"
+"In the Future Internet, federations are set up to cope with the stringent quality requirements of services. While a federated solution offers advantages in terms of scalability, it complicates the exchange of context (e.g. Quality of Service information of services) between federated nodes, as each node requires context to perform management tasks. In this article, we propose a context exchange process that automates the context communication between nodes. A scalable approach is proposed that is able to quickly react to local context updates, while maintaining a high level of expressivity to define relationships between federation partners. We distinguish between the context exchange inside an administrative domain, which focuses on scalability, and the context exchange between federation partners, which emphasizes the trust relationships between partners. In both cases, the process allows defining which context needs to be exchanged when and from where. Inside an administrative domain, a combination of RDF and SPARQL rules are used. This allows modeling the contextual requirements of management algorithms and automatically requesting remote context, only when it is necessary for the management algorithms to proceed. Between domains, an OWL-based approach is used, which allows describing the complex relationships between federation partners. Triggered by the intra-domain context exchange process, the contextual capabilities are communicated and refined through policies. Both type of processes are evaluated. The results show that they can infer which context is needed in a timely and scalable manner. As such, it outperforms approaches where context is broadcast both in required bandwidth and end-to-end delay. Copyright (c) 2013 John Wiley & Sons, Ltd.
+","
+",,"Latre, S (Latre, Steven)[ 1 ] ; Famaey, J (Famaey, Jeroen)[ 2 ] ; De Turck, F (De Turck, Filip)[ 2 ]
+","Article
+","steven.latre@intec.ugent.be
+",,"KNOWLEDGE
+"," JAN 2014
+","WILEY, 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+"," Latre, S (reprint author)
+","Computer Science; Telecommunications
+","A semantic context exchange process for the federated management of the future internet
+","INTERNATIONAL JOURNAL OF NETWORK MANAGEMENT
+","Computer Science, Information Systems; Telecommunications
+"
+"This study presents a model for district-level electricity demand forecasting using a set of Artificial Neural Networks (ANNs) (parallel ANNs) based on current energy loads and social parameters such as occupancy. A comprehensive sensitivity analysis is conducted to select the inputs of the ANN by considering external weather conditions, occupancy type, main income providers' employment status and related variables for the fuel poverty index. Moreover, a detailed parameter tuning is conducted using various configurations for each individual ANN. The study also demonstrates the strength of the parallel ANN models in different seasons of the years. In the proposed district level energy forecasting model, the training and testing stages of parallel ANNs utilise dataset of a group of six buildings. The aim of each individual ANN is to predict electricity consumption and the aggregated demand in sub-hourly time-steps. The inputs of each ANN are determined using Principal Component Analysis (PCA) and Multiple Regression Analysis (MRA) methods. The accuracy and consistency of ANN predictions are evaluated using Pearson coefficient and average percentage error, and against four seasons: winter, spring, summer, and autumn. The lowest prediction error for the aggregated demand is about 4.51% for winter season and the largest prediction error is found as 8.82% for spring season. The results demonstrate that peak demand can be predicted successfully, and utilised to forecast and provide demand-side flexibility to the aggregators for effective management of district energy systems.
+","
+","ANN; PCA; MRA; district energy management; smart grid; smart cities; demand forecasting
+","Yuce, B (Yuce, Baris)[ 1,2 ] ; Mourshed, M (Mourshed, Monjur)[ 1 ] ; Rezgui, Y (Rezgui, Yacine)[ 1 ]
+","Article
+","B.Yuce@exeter.ac.uk; MourshedM@cardiff.ac.uk; RezguiY@cardiff.ac.uk
+","['Funding Agency Grant Number\n', 'European CommissionEuropean Commission Joint Research Centre \n', '619682 \n', 'ICT-2013.6.1 \n', 'View funding text   \n']","ARTIFICIAL NEURAL-NETWORKS; THERMAL COMFORT; LOAD; CONSUMPTION; SYSTEM; DEMAND; OPTIMIZATION; LEVEL
+"," AUG 2017
+","MDPI AG, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Yuce, B; Mourshed, M (reprint author)
+","Energy & Fuels
+","A Smart Forecasting Approach to District Energy Management
+","ENERGIES
+","Energy & Fuels
+"
+"Background: The Docker project is providing a promising strategy for the development of virtualization systems in bioinformatics. However, implementation, management, and launching of Docker containers is not entirely trivial for users not fully familiarized with command line interfaces. This has prompted the development of graphical user interfaces to facilitate the interaction of inexperienced users with Docker environments. Results: We describe the BioPortainer Workbench, an integrated Docker system that assists inexperienced users in interacting with a bioinformatics-dedicated Docker environment at 3 main levels: (i) infrastructure, (ii) platform, and (iii) application. Conclusions: The BioPortainer Workbench represents a pioneering effort in developing a comprehensive and easy-to-use Docker platform focused on bioinformatics, which may greatly assist in the dissemination of Docker virtualization technology in this complex field of research.
+","
+","Docker; bioinformatics; management user interface
+","Menegidio, FB (Menegidio, Fabiano B.)[ 1 ] ; Barbosa, DA (Barbosa, David Aciole)[ 1 ] ; Goncalves, RD (Goncalves, Rafael dos S.)[ 1 ] ; Nishime, MM (Nishime, Marcio M.)[ 1 ] ; Jabes, DL (Jabes, Daniela L.)[ 1 ] ; de Oliveira, RC (de Oliveira, Regina Costa)[ 1 ] ; Nunes, LR (Nunes, Luiz R.)[ 2 ]
+","Article
+","Luiz.nunes@ufabc.edu.br
+","['Funding Agency Grant Number\n', 'Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) \n', '17/13197-8 \n', '17/08112-3 \n', 'Coordenacao de Aperfeic oamento de Pessoal de Nivel Superior (CAPES)CAPES   \n', 'Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq)National Council for Scientific and Technological Development (CNPq)   \n', 'View funding text   \n']",," APR 2019
+","OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+"," Nunes, LR (reprint author)
+","Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+","Bioportainer Workbench: a versatile and user-friendly system that integrates implementation, management, and use of bioinformatics resources in Docker environments
+","GIGASCIENCE
+","Biology; Multidisciplinary Sciences
+"
+"This paper studies several buffering strategies for optical packet switching (OPS) under limited packet sorting. Three schemes, which are able to sort newly arrived packets based on packet's length as well as capability of finding the minimum buffer occupancy, are analyzed and compared. Results show that all three proposed schemes could improve OPS performance considerably in terms of probability of packet loss (PPL) and probability of information loss (PIL). In addition, the simulation results show that not all the newly arrived packets need to be sorted in order to obtain minimum packet loss probability. Since the amount of packets and thus the packet processing time is significant in OPS, it is possible that not all the packets can be processed using one of the buffering strategies. An important finding of this paper is that if only 10% of the packets are sorted, the PPL is comparable to the minimum packet loss value obtained when 100% of the packets are sorted.
+","
+","networks; fiber optics and optical communications; optical packet switching
+","Tan, CP (Tan, Choo Peng); Castanon, G (Castanon, Gerardo); Chien, SF (Chien, Su Fong); You, AH (You, Ah Heng); Low, ALY (Low, Andy Lock Yen)
+","Article
+","cptan@mmu.edu.my; gerardo.castanon@itesm.mx; sfchien@mmu.edu.my; ahyou@mmu.edu.my; andy@mmu.edu.my
+",,"SWITCH; NETWORKS
+"," DEC 2006
+","SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+"," Castanon, G (reprint author)
+","Computer Science; Optics; Telecommunications
+","Buffering management schemes for optical variable length packets under limited packet sorting
+","PHOTONIC NETWORK COMMUNICATIONS
+","Computer Science, Information Systems; Optics; Telecommunications
+"
+"A key challenge for supporting elastic behaviour in cloud systems is to achieve a good performance in automated (de-)provisioning and scheduling of computing resources. One of the key aspects that can be significant is the overheads associated with deploying, terminating and maintaining resources. Therefore, due to their lower start up and termination overhead, containers are rapidly replacing Virtual Machines (VMs) in many cloud deployments, as the computation instance of choice. In this paper, we analyse the performance of Kubernetes achieved through a Petri net-based performance model. Kubernetes is a container management system for a distributed cluster environment. Our model can be characterised using data from a Kubernetes deployment, and can be exploited for supporting capacity planning and designing Kubernetes-based elastic applications.
+","
+","Performance models; Container lifecycle; Cloud resource management; Petri nets; Kubernetes
+","Medel, V (Medel, Victor)[ 1 ] ; Tolosana-Calasanz, R (Tolosana-Calasanz, Rafael)[ 1 ] ; Banares, JA (Angel Banares, Jose)[ 1 ] ; Arronategui, U (Arronategui, Unai)[ 1 ] ; Rana, OF (Rana, Omer F.)[ 2 ]
+","Article
+","vmedel@unizar.es; rafaelt@unizar.es; banares@unizar.es; unai@unizar.es; ranaof@cardiff.ac.uk
+","['Funding Agency Grant Number\n', 'Industry and Innovation department of the Aragonese Government   \n', 'EU Social Funds (COSMOS)   \n', 'Spanish GovernmentSpanish Government \n', 'TIN2013-40809-R \n', 'Spanish Ministry of Economy   \n', 'View funding text   \n']",," MAY 2018
+","PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+"," Medel, V (reprint author)
+","Computer Science; Engineering
+","Characterising resource management performance in Kubernetes
+","COMPUTERS & ELECTRICAL ENGINEERING
+","Computer Science, Hardware & Architecture; Computer Science, Interdisciplinary Applications; Engineering, Electrical & Electronic
+"
+"Transition towards a smart grid requires network modernization based on the deployment of information and communication technologies for managing network operation and coordinating distributed energy resources in distribution systems. The success of the most advanced smart grid functionalities depends on the availability and quality of communication systems. Amongst the most demanding functionalities, those related to fault isolation, location and system restoration (FLISR) to obtain a self-healing smart grid are critical and require low latency communication systems, particularly in case of application to weakly-meshed operated networks. Simulation tools capable of capturing the interaction between communication and electrical systems are of outmost utility to check proper functioning of FLISR under different utilization conditions, to assess the expected improvements of Quality of Service, and to define minimum requirements of the communication system. In this context, this paper investigates the use of public mobile telecommunication system 4G Long Term Evolution (LTE) for FLISR applications in both radially and weakly-meshed medium voltage (MV) distribution networks. This study makes use of a co-simulation software platform capable to consider power system dynamics. The results demonstrate that LTE can be used as communication medium for advanced fault location, extinction, and network reconfiguration in distribution networks. Furthermore, this paper shows that the reduction of performances with mobile background usage does not affect the system and does not cause delays higher than 100 ms, which is the maximum allowable for power system protections.
+","
+","smart grid; cyber physical co-simulation; information and communication technology; 4G Long Term EvolutionLTE; network reconfiguration; fault management
+","Garau, M (Garau, Michele)[ 1,2 ] ; Ghiani, E (Ghiani, Emilio)[ 1 ] ; Celli, G (Celli, Gianni)[ 1 ] ; Pilo, F (Pilo, Fabrizio)[ 1 ] ; Corti, S (Corti, Sergio)[ 3 ]
+","Article
+","michele.garau@ntnu.no; emilio.ghiani@diee.unica.it; celli@diee.unica.it; pilo@diee.unica.it; sergio.corti@rse-web.it
+","['Funding Agency Grant Number\n', 'RSE S.p.A.   \n', 'Ministry of Economic Development-General Directorate for Nuclear Energy, Renewable Energy and Energy Efficiency   \n', 'View funding text   \n']","GRID COMMUNICATIONS; POWER; COSIMULATION; PLATFORM
+"," JUN 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Ghiani, E (reprint author)
+","Energy & Fuels
+","Co-Simulation of Smart Distribution Network Fault Management and Reconfiguration with LTE Communication
+","ENERGIES
+","Energy & Fuels
+"
+"The cognitive dynamic system (CDS) is a structured physical model and research tool inspired by certain features of the human brain. One such feature is the predictive adaptation of the organism to the future environment. From an engineering perspective, this property of the brain is of profound practical importance, particularly when the system, in the pursuit of goals or performing tasks, confronts unexpected adverse events or obstacles, which in the aggregate are commonly referred to as risk. To avert risk efficiently, much of the information processed in the past by the CDS is available for processing new information in one of the system's components termed the perceptor. In the face of uncertainty, the perceptor will provide the processed information to the executive in order for the latter to avoid probable risk. To that effect, the executive will be fitted with Bayesian filtering mechanisms that will guide the CDS to its goal through timely risk-avoiding actions. Those mechanisms not only have unique engineering applications but also potential value for understanding the predictive-adaptation property of the brain, which modern neuroscience attributes to the prefrontal cortex.
+","
+","Cognition; memory; attention; cognitive dynamic system; perceptor; executive; control; feedback; uncertainty; risk; task-switch control; cognitive action; predictive adaptation; risk-sensitive cognitive action
+","Haykin, S (Haykin, Simon)[ 1 ] ; Fuster, JM (Fuster, Joaquin M.)[ 2 ] ; Findlay, D (Findlay, David)[ 1 ] ; Feng, S (Feng, Shuo)[ 1 ]
+","Article
+","fengs13@mcmaster.ca
+",,"PREFRONTAL CORTEX
+"," 2017
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Feng, S (reprint author)
+","Computer Science; Engineering; Telecommunications
+","Cognitive Risk Control for Physical Systems
+","IEEE ACCESS
+","Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+"
+"The technologies developed so far to help visually impaired people (VIP) navigate meet only some of their everyday needs. This project allows the visually impaired to improve the comprehension of their context by generating a risk map following an analysis of the position, distance, size and motion of the objects present in their environment. This comprehension is refined by data fusion steps applied to the High Level Information Fusion (HLIF) to predict possible impacts in the near future. A risk map is made up of probabilities generated after executing a set of inferences. These inferences allow the evaluation of future collision risks in different directions by detecting static objects, detecting free passage and analyzing paths followed by dynamic objects in a 3D plane. Different datasets were modeled and a comparative analysis was performed to check the percentage of correct answers and the accuracy of the inferences made using different classifiers. Thus, in order to demonstrate the advantages of the HLIF implementation in a dedicated VIP navigation system, the proposed architecture was tested against three other navigation systems that use different approaches. The generation of specific results made it possible to validate and compare these navigation systems. For this comparative analysis, different environments were used with the goal of indicating a direction for the VIP to move in with fewer collision risks. In addition to providing a risk map giving possible collisions, this project system provided greater reliability for navigation, especially when obstacles were very close and moving objects were detected and tracked.
+","
+","High level information fusion; Collision risk prediction; Visually impaired people; Situation awareness
+","Cordeiro, NH (Cordeiro, Natal Henrique)[ 1,2 ] ; Pedrino, EC (Pedrino, Emerson Carlos)[ 2 ]
+","Article
+","natalhenrique@ifsp.edu.br
+","['Funding Agency Grant Number\n', 'FAPESP, BrazilFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) \n', '2017/26421-3 \n', 'View funding text   \n']","INDOOR NAVIGATION; BLIND PEOPLE; FRAMEWORK; SYSTEM
+"," MAY 2019
+","PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+"," Cordeiro, NH (reprint author)
+","Automation & Control Systems; Computer Science; Engineering
+","Collision risk prediction for visually impaired people using high level information fusion
+","ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+","Automation & Control Systems; Computer Science, Artificial Intelligence; Engineering, Multidisciplinary; Engineering, Electrical & Electronic
+"
+"The impact of restructuring in the field of communication sector has brought an evolutionary change in power sector too. This revolutionary idea has brought about competition in this sector with an aim of reduction in the electricity price. The competitive environment not only benefits the utilities and customers however it kindles some of the technical issues, typical one being the transmission congestion. It is considered to be tenacious since it admonish system security and may result in inflation of electricity prices effecting in feeble market condition. The explication to the dispute of congestion has been furnished in this paper. To minimize the congestion cost, an effective multi objective approach is proposed to endorse generator rescheduling and FACTS technology using a metaheurisitc optimization algorithm, symbiotic organic search algorithm. The choice of most sensitive generators to reschedule real and reactive power is realized using real power transmission congestion distribution factor. The proposed method has been tested on IEEE 14 bus system and IEEE 30 bus system.
+","
+","Congestion management; Symbiotic organic search; Transmission congestion distribution factor; Newton-Raphson (NR)
+","Jasmine, GS (Jasmine, G. Sophia)[ 1 ] ; Vijayakumar, P (Vijayakumar, P.)[ 2 ]
+","Article
+","sophiajasmine@drmcet.ac.in; vijay.pvk72@gmail.com
+",,," JUN 2017
+","SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+"," Jasmine, GS (reprint author)
+","Telecommunications
+","Congestion Management in Deregulated Power System Using Heuristic Search Algorithms Incorporating Wireless Technology
+","WIRELESS PERSONAL COMMUNICATIONS
+","Telecommunications
+"
+"The concept of Quality of Experience (QoE) of Internet services is widely recognized by service providers and network operators. They strive to deliver the best experience to their customers in order to increase revenues and avoid churn. Therefore, QoE is increasingly considered as an integral part of the reactive traffic management cycle of network operators. In addition, QoE also constitutes a cycle of its own, which includes user behavior and service requirements. This letter describes this QoE cycle, which is not widely taken into account yet, discusses the interactions of the two cycles, and derives implications toward an improved and proactive QoE-aware traffic management. A showcase on how network operators can obtain hints on the change of network requirements from detecting user behavior in encrypted video traffic is also presented.
+","
+","Quality of Experience; Traffic Management; QoE-aware Traffic Management; QoE Cycle; User Behavior
+","Seufert, M (Seufert, Michael)[ 1 ] ; Wassermann, S (Wassermann, Sarah)[ 2 ] ; Casas, P (Casas, Pedro)[ 3 ]
+","Article
+","michael.seufert@uni-wuerzburg.de
+",,," JUL 2019
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Seufert, M (reprint author)
+","Telecommunications
+","Considering User Behavior in the Quality of Experience Cycle: Towards Proactive QoE-Aware Traffic Management
+","IEEE COMMUNICATIONS LETTERS
+","Telecommunications
+"
+"Background: High-quality plant phenotyping and climate data lay the foundation for phenotypic analysis and genotype-environment interaction, providing important evidence not only for plant scientists to understand the dynamics between crop performance, genotypes, and environmental factors but also for agronomists and farmers to closely monitor crops in fluctuating agricultural conditions. With the rise of Internet of Things technologies (IoT) in recent years, many IoT-based remote sensing devices have been applied to plant phenotyping and crop monitoring, which are generating terabytes of biological datasets every day. However, it is still technically challenging to calibrate, annotate, and aggregate the big data effectively, especially when they were produced in multiple locations and at different scales. Findings: CropSight is a PHP Hypertext Pre-processor and structured query language-based server platform that provides automated data collation, storage, and information management through distributed IoT sensors and phenotyping workstations. It provides a two-component solution to monitor biological experiments through networked sensing devices, with interfaces specifically designed for distributed plant phenotyping and centralized data management. Data transfer and annotation are accomplished automatically through an hypertext transfer protocol-accessible RESTful API installed on both device side and server side of the CropSight system, which synchronize daily representative crop growth images for visual-based crop assessment and hourly microclimate readings for GxE studies. CropSight also supports the comparison of historical and ongoing crop performance while different experiments are being conducted. Conclusions: As a scalable and open-source information management system, CropSight can be used to maintain and collate important crop performance and microclimate datasets captured by IoT sensors and distributed phenotyping installations. It provides near real-time environmental and crop growth monitoring in addition to historical and current experiment comparison through an integrated cloud-ready server system. Accessible both locally in the field through smart devices and remotely in an office using a personal computer, CropSight has been applied to field experiments of bread wheat prebreeding since 2016 and speed breeding since 2017. We believe that the CropSight system could have a significant impact on scalable plant phenotyping and IoT-style crop management to enable smart agricultural practices in the near future.
+","
+","CropSight; distributed plant phenotyping; phenomics; IoT-based crop management; information system
+","Reynolds, D (Reynolds, Daniel)[ 1 ] ; Ball, J (Ball, Joshua)[ 1 ] ; Bauer, A (Bauer, Alan)[ 1,2 ] ; Davey, R (Davey, Robert)[ 1 ] ; Griffiths, S (Griffiths, Simon)[ 3 ] ; Zhou, J (Zhou, Ji)[ 1,2,4 ]
+","Article
+","Daniel.Reynolds@earlham.ac.uk; Ji.Zhou@earlham.ac.uk
+","['Funding Agency Grant Number\n', ""UKRI Biotechnology and Biological Sciences Research Council's Designing Future Wheat Cross-Institute Strategic Programme \n"", 'BB/P016855/1 \n', 'BBS/E/J/000PR9781 \n', 'BBS/E/T/000PR9785 \n', 'Core Strategic Programme at the Earlham Institute \n', 'BB/CSP17270/1 \n', ""Bayer/BASF's G4T \n"", 'GP125JZ1J \n', 'View funding text   \n']","PLATFORM; PHENOMICS; TECHNOLOGIES; DYNAMICS
+"," MAR 2019
+","OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+"," Reynolds, D; Zhou, J (reprint author)
+","Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+","CropSight: a scalable and open-source information management system for distributed plant phenotyping and IoT-based crop management
+","GIGASCIENCE
+","Biology; Multidisciplinary Sciences
+"
+"Construction projects face numerous risks during their lifecycle due to their inherent complexities and intricate relationships between different parties involved in the construction process. Accordingly, an effective management of risks throughout the project's supply chain is critical to avoid time and cost overruns, that if not controlled properly, will ultimately result in project failure. Despite the great significance of this issue, there is a gap between the literature and practice of project risk management, where managers mostly prefer to rely on their own experiences rather than using available analytical tools. On the other hand, the application of the best practices (such as supply chain management and supply chain risk management) from the manufacturing industry in the service industry is highly neglected. To this end, these two gaps are bridged by proposing a comprehensive supply chain risk management approach for construction projects that uses, grounded theory, fuzzy cognitive mapping, and grey relational analysis. A real world case study is presented to show the applicability and effectiveness of the proposed approach. Various risk mitigation scenarios are developed and evaluated by the proposed approach. These scenarios are ranked and the best risk mitigation scenarios are identified. By comparing the proposed approach with similar researches in the literature, it is shown that the proposed approach is capable of capturing and representing expert's perceptions of risks in an effective and time efficient manner. Moreover, decision-makers are enabled to simulate the long term effects of different risk mitigation strategies on the risks and make more informed decisions. Along with the novel approach proposed, the major contribution of this study is setting the stage for a discussion between project management field's scholars and practitioners with those in the manufacturing industry to benefit from an opportunity for mutual growth.
+","
+","Project risk management; Supply chain risk management; Grounded theory; Fuzzy cognitive maps; Grey relational analysis
+","Shojaei, P (Shojaei, Payam)[ 1 ] ; Haeri, SAS (Haeri, Seyed Amin Seyed)[ 2 ]
+","Article
+","pshojaei@shirazu.ac.ir; sseyedh@clemson.edu
+",,"RELATIONAL ANALYSIS METHOD; GREY RELATED ANALYSIS; DECISION-MAKING; FUZZY-AHP; SELECTION; MODEL; PERFORMANCE; MITIGATION; DISRUPTIONS; FRAMEWORK
+"," FEB 2019
+","PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+"," Haeri, SAS (reprint author)
+","Computer Science; Engineering
+","Development of supply chain risk management approaches for construction projects: A grounded theory approach
+","COMPUTERS & INDUSTRIAL ENGINEERING
+","Computer Science, Interdisciplinary Applications; Engineering, Industrial
+"
+"Nowadays, problems facing Distribution System Operators (DSOs) due to demand increase and the wide penetration of renewable energy are usually solved by means of grid reinforcement. However, the smart grid paradigm enables the deployment of demand flexibility for congestion management in distribution grids. This could substitute, or at least postpone, these needed investments. A key role in this scheme is the aggregator, who can act as a ""flexibility provider"" collecting the available flexibility from the consumers. Under this paradigm, this paper proposes a flexibility market led by the DSO and aimed at solving distribution grid congestions. The proposal also includes a flexibility market clearing algorithm, which is easy to implement, has low computational requirements and considers the energy rebound effect. The proposed design has the advantage of excluding the DSO's need for trading in energy markets. Also, the solution algorithm proposed is fully compatible with already existing grid analysis tools. The proposed electricity market is tested with two case studies from a real Spanish distribution network, where the proposed clearing algorithm is used, and finally, results are presented and discussed.
+","
+","aggregators; demand side flexibility; down-regulation flexibility; flexibility market; up-regulation flexibility
+","Esmat, A (Esmat, Ayman)[ 1 ] ; Usaola, J (Usaola, Julio)[ 1 ] ; Moreno, MA (Angeles Moreno, Maria)[ 1 ]
+","Article
+","aesmat@ing.uc3m.es; jusaola@ing.uc3m.es; amoreno@ing.uc3m.es
+",,"DEMAND-SIDE MANAGEMENT; ENERGY; MODELS; TOOLS
+"," MAY 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Esmat, A (reprint author)
+","Energy & Fuels
+","Distribution-Level Flexibility Market for Congestion Management
+","ENERGIES
+","Energy & Fuels
+"
+"Human memory often fails. People are frequently beset with questions like ""Who is that person? I think I met him in Tokyo last year."" Existing memory aid tools cannot well support the recall of names effectively. This paper explores the memory recall enhancement issue from the perspective of memory cue extraction and associative search, and proposes a generic methodology to extract memory cues from heterogeneous, multimodal, physical/ virtual data sources. Specifically, we use the contact name recall in the academic community as the target application to showcase our proposed methodology. We further develop an intelligent social contact manager that supports 1) autocollection of rich contact data from a combination of pervasive sensors and Web data sources, and 2) associative search of contacts when humanmemory fails. The system is validated by testing the performance of contact data collection techniques. An empirical user study on contact memory recall is also conducted, through which several findings about contact memorizing and recall are presented. Classic cognitive psychology theories are used to interpret these findings.
+","
+","Contact recall; memory aid; pervasive computing; social contact management; Web intelligence
+","Guo, B (Guo, Bin)[ 1 ] ; Zhang, DQ (Zhang, Daqing)[ 2 ] ; Yang, DQ (Yang, Dingqi)[ 2 ] ; Yu, ZW (Yu, Zhiwen)[ 1 ] ; Zhou, XS (Zhou, Xingshe)[ 1 ]
+","Article
+","guobin.keio@gmail.com; Daqing.Zhang@it-sudparis.eu; dingqiyang@it-sudparis.eu; zhiweny@nwpu.edu.cn; zhouxs@nwpu.edu.cn
+","['Funding Agency Grant Number\n', 'National Basic Research Program of ChinaNational Basic Research Program of China \n', '2012CB316400 \n', 'EU FP7 SOCIETIES project   \n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '61373119 \n', '61332005 \n', '61222209 \n', '61103063 \n', 'Basic Research Foundation of NPU \n', 'JC20110267 \n', 'View funding text   \n']",," FEB 2014
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Guo, B (reprint author)
+","Computer Science
+","Enhancing Memory Recall via an Intelligent Social Contact Management System
+","IEEE TRANSACTIONS ON HUMAN-MACHINE SYSTEMS
+","Computer Science, Artificial Intelligence; Computer Science, Cybernetics
+"
+"In this paper, we investigate the flexible power transfer among electric vehicles (EVs) from a cooperation perspective in an energy Internet based EV system. First, we introduce the concept of cooperative EV-to-EV (V2V) charging, which enables active cooperation via charging/discharging operations between EVs as energy consumers and EVs as energy providers. Then, based on the cooperative V2V charging concept, we propose a flexible energy management protocol, which can help the EVs achieve more flexible and smarter charging/discharging behaviors. In the proposed energy management protocol, we define the utilities of the EVs based on the cost and profit through cooperative V2V charging and employ the bipartite graph to model the charging/discharging cooperation between EVs as energy consumers and EVs as energy providers. Based on the constructed bipartite graph, we propose a max-weight V2V matching algorithm, which can lead to an optimized V2V matching in terms of the network social welfare. Simulation results verify the efficiency of our proposed cooperative V2V charging based energy management protocol in improving the EV utilities and the network social welfare as well as reducing the energy consumption of the EVs.
+","
+",,"Zhang, RQ (Zhang, Rongqing)[ 1,2 ] ; Cheng, X (Cheng, Xiang)[ 1 ] ; Yang, LQ (Yang, Liuqing)[ 2 ]
+","Proceedings Paper
+",,"['Funding Agency Grant Number\n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '61622101 \n', '61571020 \n', 'National 973 ProjectNational Basic Research Program of China \n', '2013CB336700 \n', 'National 863 Project \n', 'SS2015AA011306 \n', 'National Science FoundationNational Science Foundation (NSF) \n', 'CNS-1343189 \n', 'ECCS-1232305 \n', 'View funding text   \n']","VEHICLES
+"," 2016
+","IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+"," Zhang, RQ (reprint author)
+","Engineering; Telecommunications
+","Flexible Energy Management Protocol for Cooperative EV-to-EV Charging
+","2016 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM)
+","Engineering, Electrical & Electronic; Telecommunications
+"
+"Our paper analyses 25 years of performance management research published in the English-language journals, included in SSCI database, separating the business domain from public sector one. We used a content analysis for showing the relationships between the subfields of performance management and the time evolution. Through a multiple correspondence analysis based on keywords we provide a framework to track this literature over the 25-year period. We conclude the paper with a discussion on future pathways in the performance management literature.
+","
+","Performance management; Multiple correspondence analysis; Historiograph; Scientometrics
+","Cuccurullo, C (Cuccurullo, Corrado)[ 1 ] ; Aria, M (Aria, Massimo)[ 2 ] ; Sarto, F (Sarto, Fabrizia)[ 3 ]
+","Article
+","corrado.cuccurullo@unina2.it; massimo.aria@unina.it; fabrizia.sarto@unina.it
+",,"INTELLECTUAL STRUCTURE; BALANCED SCORECARD; ACCOUNTING INFORMATION; EXECUTIVE-COMPENSATION; MEASUREMENT SYSTEM; RESEARCH AGENDA; GOVERNMENT; EVOLUTION; SUBJECTIVITY; INCENTIVES
+"," AUG 2016
+","SPRINGER, VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+"," Cuccurullo, C (reprint author)
+","Computer Science; Information Science & Library Science
+","Foundations and trends in performance management. A twenty-five years bibliometric analysis in business and public administration domains
+","SCIENTOMETRICS
+","Computer Science, Interdisciplinary Applications; Information Science & Library Science
+"
+"Reduction of fuel consumption is an indispensable part of automotive industry in recent years. This induces several developments of hybrid vehicles with different structures. This paper deals with reliable and robust energy management strategy for a hybrid hydraulic-electric intelligent vehicle. The main objective of this paper is the development of a suboptimal control strategy based on fuzzy logic and neural network for minimizing total energy consumption while ensuring a better battery life. For this purpose, fuzzy supervisory fault management, which can detect and compensate the battery faults, regulates all of the possible vehicle's operation modes. Then, control strategy based on fuzzy logic controller (FLC) is developed. The FLC membership function parameters are tuned by employing neural network to manage power distribution between electric motor and internal combustion engine (ICE). Control strategy is switched between optimized FLCs to enhance the suboptimal power split between the different energy sources and manage the ICE to work always in the vicinity of its optimal condition. Finally, a robust fuzzy tuning controllers are investigated to give a good torque set point tracking. Simulation results, while using TruckMaker/MATLAB software, confirm that the proposed approach leads to suboptimal energy consumption of the vehicle for any unknown driving cycles and compensate battery faults effects.
+","
+","Artificial intelligence; battery management system; fuzzy observer; hybrid electric vehicles; power management strategy; sensor faults; Takagi-Sugeno fuzzy model
+","Kamal, E (Kamal, Elkhatib)[ 1,2 ] ; Adouane, L (Adouane, Lounis)[ 2 ]
+","Article
+","elkhateb.ibrahim@el-eng.menofia.edu.eg; elkateb.kamal@gmail.com
+","['Funding Agency Grant Number\n', ""Agence De l'Environnement et de la Maitrise de l'Energie, through BUSINOVA Evolution project   \n"", 'IMobS3 Laboratory of Excellence \n', 'ANR-10-LABX-16-01 \n', 'View funding text   \n']","LI-ION BATTERIES; EXTENDED KALMAN FILTER; FUZZY-LOGIC CONTROL; TOLERANT CONTROL; SENSOR FAULTS; ALGORITHM; SYSTEMS; CONTROLLER; MODELS; STATE
+"," MAY 2018
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Kamal, E (reprint author)
+","Engineering; Telecommunications; Transportation
+","Hierarchical Energy Optimization Strategy and Its Integrated Reliable Battery Fault Management for Hybrid Hydraulic-Electric Vehicle
+","IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+","Engineering, Electrical & Electronic; Telecommunications; Transportation Science & Technology
+"
+"The number of service techniques available for digitized home appliances is rapidly increasing as a result of various advances in digital technology. Users can now easily control and monitor home appliances via sensor networks formed among home appliances in ubiquitous environments. However, home appliances generate such large amounts of metadata about their status every month that in order to provide home appliance monitoring services to users, an approach that is able to store, analyze, and process these large amounts of metadata is needed. We propose a system that uses UPnP to collect metadata from home appliances and cloud computing technology to store and process the metadata collected from ubiquitous sensor network environments. Our proposed system utilizes a home gateway and is designed and implemented using UPnP technology to search for and collect device features and service information. It also provides a function for transmitting the metadata from the home appliances to a cloud-based data server that uses Hadoop-based technology to store and process the metadata collected by a home appliance monitoring service.
+","
+",,"Cui, Y (Cui, Yun)[ 1 ] ; Kim, M (Kim, Myoungjin)[ 1 ] ; Gu, Y (Gu, Yi)[ 1 ] ; Jung, JJ (Jung, Jong-jin)[ 2 ] ; Lee, H (Lee, Hanku)[ 3 ]
+","Article
+","hlee@konkuk.ac.kr
+","['Funding Agency Grant Number\n', 'Konkuk University   \n', 'View funding text   \n']","UPNP; MIDDLEWARE
+"," 2014
+","SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+"," Lee, H (reprint author)
+","Computer Science; Telecommunications
+","Home Appliance Management System for Monitoring Digitized Devices Using Cloud Computing Technology in Ubiquitous Sensor Network Environment
+","INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+","Computer Science, Information Systems; Telecommunications
+"
+"Secure VPLS (Virtual Private LAN Services) networks are becoming attractive in many Enterprise applications. However, the tunnel establishment mechanisms of legacy VPLS architectures are static, complex and inflexible in nature. As a result, secure VPLS architectures are suffering from limitations such as the limited scalability, over utilization of network resources, high tunnel establishment delay and high operational cost.
+","
+","VPLS; SDN; OpenFlow; Security; IPsec; HIP
+","Liyanage, M (Liyanage, Madhusanka)[ 1 ] ; Ylianttila, M (Ylianttila, Mika)[ 2 ] ; Gurtov, A (Gurtov, Andrei)[ 3,4 ]
+","Proceedings Paper
+","madhusanka@ee.oulu.fi; mika.ylianttila@oulu.fi; gurtov@hiit.fi
+",,," 2016
+","IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+"," Liyanage, M (reprint author)
+","Engineering; Telecommunications
+","Improving the Tunnel Management Performance of Secure VPLS Architectures with SDN
+","2016 13TH IEEE ANNUAL CONSUMER COMMUNICATIONS & NETWORKING CONFERENCE (CCNC)
+","Engineering, Electrical & Electronic; Telecommunications
+"
+"We examine, from a medical-legal perspective, the pro and cons of the information technology procedures that the Italian Institute of Social Security (INPS) has implemented to manage the provision of social disability assistance, meaning that separate from the payment of pension contributions, being welfare, anchored to an administrative requirement by way of the compulsory payment of a minimum social security contribution.
+","
+","Social security; civil disability; Italian Law; INPS
+","Sammicheli, M (Sammicheli, Michele)[ 1 ] ; Scaglione, M (Scaglione, Marcella)[ 1 ]
+","Letter
+","sammicheli@alice.it
+",,," 2018
+","IOS PRESS, NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+"," Sammicheli, M (reprint author)
+","Health Care Sciences & Services; Engineering
+","Information technology as a tool for the Italian Institute of Social Security (INPS) in the management of social security and civil disability: Pro and cons
+","TECHNOLOGY AND HEALTH CARE
+","Health Care Sciences & Services; Engineering, Biomedical
+"
+"This paper is devoted to the development of scientific and methodological foundations of improvement the information support of decision at management of power network with distributed generation. It is proposed to consider the power quality index as the main criterion of management. Using the theory of fuzzy sets, the assessment of the conformity of power quality indicators to electric energy quality limits is done. A method for estimating the quality of electrical energy is proposed which represents the measured histogram as a fuzzy representation indicator of quality of electric energy in the form of fuzzy sets with a step membership function. The method of integral evaluation of electrical energy quality for different types of load is developed. The presented method allows to formulate rules for managing the operating modes of the distributed electrical network by the decision support system.
+","
+","Distributed generation; Decision support system; Power quality index; Fuzzy sets; Integral index
+","Tymchuk, S (Tymchuk, Sergii)[ 1 ] ; Miroshnyk, O (Miroshnyk, Oleksandr)[ 1 ] ; Shendryk, S (Shendryk, Sergii)[ 2 ] ; Shendryk, V (Shendryk, Vira)[ 2 ]
+","Proceedings Paper
+","stym@i.ua; omiroshnyk@ukr.net; s.shendryk@cs.sumdu.edu.ua; v.shendryk@cs.sumdu.edu.ua
+",,," 2018
+","SPRINGER-VERLAG BERLIN, HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+"," Shendryk, V (reprint author)
+","Computer Science
+","Integral Fuzzy Power Quality Assessment for Decision Support System at Management of Power Network with Distributed Generation
+","INFORMATION AND SOFTWARE TECHNOLOGIES, ICIST 2018
+","Computer Science, Information Systems; Computer Science, Software Engineering; Computer Science, Theory & Methods
+"
+"Acute kidney injury (AKI) has a high incidence on intensive care units around the world and is a major complication in critically ill patients suffering from sepsis or septic shock. The short-and long-term complications are thereby devastating and impair the quality of life. Especially in terms of AKI staging, the determination of kidney function and the timing of dialytic AKI management outside of life-threatening indications are ongoing matters of debate. Despite several studies, a major problem remains in distinguishing between beneficial and unnecessary ""early"" or even harmful renal replacement therapy (RRT). The latter might prolong disease course and renal recovery. AKI scores, however, provide an insufficient outcome-predicting ability and the related estimation of kidney function via serum creatinine or blood urea nitrogen (BUN)/urea is not reliable in AKI and critical illness. Kidney independent alterations of creatinine-and BUN/urea-levels further complicate the situation. This review critically assesses the current AKI staging, issues and pitfalls of the determination of kidney function and RRT timing, as well as the potential harm reflected by unnecessary RRT. A better understanding is mandatory to improve future study designs and avoid unnecessary RRT for higher patient safety and lower health care costs.
+","
+","acute kidney injury; biomarkers; disease staging; glomerular filtration rate; renal replacement therapy; timing
+","Nusshag, C (Nusshag, Christian)[ 1 ] ; Weigand, MA (Weigand, Markus A.)[ 2 ] ; Zeier, M (Zeier, Martin)[ 1 ] ; Morath, C (Morath, Christian)[ 1 ] ; Brenner, T (Brenner, Thorsten)[ 2 ]
+","Review
+","christian.nusshag@med.uni-heidelberg.de; Markus.Weigand@med.uni-heidelberg.de; Martin.Zeier@med.uni-heidelberg.de; Christian.Morath@med.uni-heidelberg.de; Thorsten.Brenner@med.uni-heidelberg.de
+","['Funding Agency Grant Number\n', 'Deutsche ForschungsgemeinschaftGerman Research Foundation (DFG)   \n', 'Ruprecht-Karls-Universitat Heidelberg within the funding programme Open Access Publishing   \n', 'View funding text   \n']","RENAL-REPLACEMENT THERAPY; SERUM CYSTATIN-C; GLOMERULAR-FILTRATION-RATE; BASE-LINE CREATININE; INTENSIVE-CARE-UNIT; ILL PATIENTS; BLOOD-PRESSURE; CELL-CYCLE; PREDICTIVE PERFORMANCE; HEMODIALYSIS MEMBRANE
+"," JUL 2017
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Brenner, T (reprint author)
+","Biochemistry & Molecular Biology; Chemistry
+","Issues of Acute Kidney Injury Staging and Management in Sepsis and Critical Illness: A Narrative Review
+","INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+","Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+"
+"Hypertension (HTN) affects about 1 billion people worldwide and the lack of a single identifiable cause complicates its treatment. Blood pressure (BP) levels are influenced by environmental factors, but there is a strong genetic component. Linkage analysis has identified several genes involved in Mendelian forms of HTN and the associated pathophysiological mechanisms have been unravelled, leading to targeted therapies. The majority of these syndromes are due to gain-of-function or loss-of-functions mutations, resulting in an alteration of mineralocorticoid, glucocorticoid, or sympathetic pathways. The diagnosis of monogenic forms of HTN has limited practical implications on the population and a systematic genetic screening is not justifiable. Genome-wide linkage and association studies (GWAS) have identified single nucleotide polymorphisms (SNPs), which influence BP. Forty-three variants have been described with each SNP affecting systolic and diastolic BP by 1.0 and 0.5 mmHg, respectively. Taken together Mendelian inheritance and all GWAS-identified HTN-associated variants explain 2-3% of BP variance. Epigenetic modifications, such as DNA methylation, histone modification and non-coding RNAs, have become increasingly recognized as important players in BP regulation and may justify a further part of missing heritability. In this review, we will discuss how genetics and genomics may assist clinicians in managing patients with HTN.
+","
+","monogenic hypertension; genomics; genome-wide association studies; epigenetics; pharmacogenomics
+","Burrello, J (Burrello, Jacopo)[ 1 ] ; Monticone, S (Monticone, Silvia)[ 1 ] ; Buffolo, F (Buffolo, Fabrizio)[ 1 ] ; Tetti, M (Tetti, Martina)[ 1 ] ; Veglio, F (Veglio, Franco)[ 1 ] ; Williams, TA (Williams, Tracy A.)[ 1,2 ] ; Mulatero, P (Mulatero, Paolo)[ 1 ]
+","Review
+","jacopo.burrello@gmail.com; silvia.monticone@unito.it; fabrizio.buffolo@gmail.com; tetti.martina@gmail.com; franco.veglio@unito.it; tracyannwilliams48@gmail.com; paolo.mulatero@unito.it
+",,"BLOOD-PRESSURE RESPONSE; AUTOSOMAL-DOMINANT HYPERTENSION; ALDOSTERONE-PRODUCING ADENOMAS; ANGIOTENSIN-CONVERTING ENZYME; EPITHELIAL SODIUM-CHANNEL; MINERALOCORTICOID RECEPTOR; DNA METHYLATION; GAMMA-SUBUNIT; UP-REGULATION; BETA-SUBUNIT
+"," JUN 2017
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Mulatero, P (reprint author)
+","Biochemistry & Molecular Biology; Chemistry
+","Is There a Role for Genomics in the Management of Hypertension?
+","INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+","Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+"
+"Background. Malaria risk stratification is essential to differentiate areas with distinct malaria intensity and seasonality patterns. The development of a simple prediction model to forecast malaria incidence by rainfall offers an opportunity for early detection of malaria epidemics. Objectives. To construct a national malaria stratification map, develop prediction models and forecast monthly malaria incidences based on rainfall data. Methods. Using monthly malaria incidence data from 2012 to 2016, the district level malaria stratification was constructed by nonhierarchical clustering. Cluster validity was examined by the maximum absolute coordinate change and analysis of variance (ANOVA) with a conservative post hoc test (Bonferroni) as the multiple comparison test. Autocorrelation and cross-correlation analyses were performed to detect the autocorrelation of malaria incidence and the lagged effect of rainfall on malaria incidence. The effect of rainfall on malaria incidence was assessed using seasonal autoregressive integrated moving average (SARIMA) models. Ljung-Box statistics for model diagnosis and stationary R-squared and Normalized Bayesian Information Criteria for model fit were used. Model validity was assessed by analyzing the observed and predicted incidences using the spearman correlation coefficient and paired samples t-test. Results. A four cluster map (high risk, moderate risk, low risk, and very low risk) was the most valid stratification system for the reported malaria incidence in Eritrea. Monthly incidences were influenced by incidence rates in the previous months. Monthly incidence of malaria in the constructed clusters was associated with 1, 2, 3, and 4 lagged months of rainfall. The constructed models had acceptable accuracy as 73.1%, 46.3%, 53.4%, and 50.7% of the variance in malaria transmission were explained by rainfall in the high-risk, moderate-risk, low-risk, and very low-risk clusters, respectively. Conclusion. Change in rainfall patterns affect malaria incidence in Eritrea. Using routine malaria case reports and rainfall data, malaria incidences can be forecasted with acceptable accuracy. Further research should consider a village or health facility level modeling of malaria incidence by including other climatic factors like temperature and relative humidity.
+","
+",,"Kifle, MM (Kifle, Meron Mehari)[ 1 ] ; Teklemariam, TT (Teklemariam, Tsega Tekeste)[ 2 ] ; Teweldeberhan, AM (Teweldeberhan, Adam Mengesteab)[ 2 ] ; Tesfamariam, EH (Tesfamariam, Eyasu Habte)[ 1 ] ; Andegiorgish, AK (Andegiorgish, Amanuel Kidane)[ 1 ] ; Kidane, EA (Kidane, Eyob Azaria)[ 1 ]
+","Article
+","meronmehari121@gmail.com
+",,"CLIMATE-CHANGE; TRANSMISSION; VARIABLES; COVERAGE; AFRICA; IMPACT
+"," 2019
+","HINDAWI LTD, ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+"," Kifle, MM (reprint author)
+","Public, Environmental & Occupational Health
+","Malaria Risk Stratification and Modeling the Effect of Rainfall on Malaria Incidence in Eritrea
+","JOURNAL OF ENVIRONMENTAL AND PUBLIC HEALTH
+","Public, Environmental & Occupational Health
+"
+"Background: As the cost of sequencing continues to fall, smaller groups increasingly initiate and manage larger sequencing projects and take on the complexity of data storage for high volumes of samples. This has created a need for low-cost laboratory information management systems (LIMS) that contain flexible fields to accommodate the unique nature of individual labs. Many labs do not have a dedicated information technology position, so LIMS must also be easy to setup and maintain with minimal technical proficiency. Findings: MetaLIMS is a free and open-source web-based application available via GitHub. The focus of MetaLIMS is to store sample metadata prior to sequencing and analysis pipelines. Initially designed for environmental metagenomics labs, in addition to storing generic sample collection information and DNA/RNA processing information, the user can also add fields specific to the user's lab. MetaLIMS can also produce a basic sequencing submission form compatible with the proprietary Clarity LIMS system used by some sequencing facilities. To help ease the technical burden associated with web deployment, MetaLIMS options the use of commercial web hosting combined with MetaLIMS bash scripts for ease of setup. Conclusions: MetaLIMS overcomes key challenges common in LIMS by giving labs access to a low-cost and open-source tool that also has the flexibility to meet individual lab needs and an option for easy deployment. By making the web application open source and hosting it on GitHub, we hope to encourage the community to build upon MetaLIMS, making it more robust and tailored to the needs of more researchers.
+","
+","LIMS; customizable; GitHub; open-source; web application; sample management; JavaScript; php; mysql; HTML
+","Heinle, CE (Heinle, Cassie Elizabeth)[ 1 ] ; Gaultier, NPE (Gaultier, Nicolas Paul Eugene)[ 1 ] ; Miller, D (Miller, Dana)[ 1 ] ; Purbojati, RW (Purbojati, Rikky Wenang)[ 1 ] ; Lauro, FM (Lauro, Federico M.)[ 1 ]
+","Article
+","cheinle@ntu.edu.sg
+","['Funding Agency Grant Number\n', 'Singapore Ministry of Education Academic Research FundMinistry of Education, Singapore \n', 'MOE2013-T3-1-013 \n', 'National Research Foundation SingaporeSingapore National Research Foundation   \n', 'Ministry of Education, Nanyang Technological University   \n', 'National University of Singapore under Research Centre of Excellence Program   \n', 'View funding text   \n']",," APR 18 2017
+","OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+"," Heinle, CE (reprint author)
+","Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+","MetaLIMS, a simple open-source laboratory information management system for small metagenomic labs
+","GIGASCIENCE
+","Biology; Multidisciplinary Sciences
+"
+"Advancement in healthcare technologies and biomedical equipment leads to accurate diagnosis of heart related diseases. The major challenges associated with telehealthcare technologies are complex computational requirement and large amount of data processing in continuous monitoring. Mobile cloud computing approach is presented in this work to overcome the issues involved in ECG telemonitoring. Mobile cloud approach is superior to telehealth monitoring techniques due to the access to centralized cloud data and report delivery to mobile phones. In this work, ECG telemonitoring and coronary heart disease (CHD) risk assessment are combined using mobile cloud computing approach. CHD risk is identified using feature extraction and adaptive neuro fuzzy inference system (ANFIS) based classification. In feature extraction process, R-peaks are detected using wavelet transform to find heart rate variability (HRV) of the ECG signal. Various HRV parameters are extracted and applied to ANFIS classifier which employs adaptive feature selection to evaluate CHD risk. Since the mobile cloud approach deals with large amount of data, 160 files of MIT-BIH arrhythmia database has been used in this work for the assessment of CHD risk. ECG signal data are classified into two categories (normal and CHD risky) using ANFIS classifier. The classifier performance is evaluated and comparison is established with other similar classifiers. (C) 2018 Elsevier Ltd. All rights reserved.
+","
+","Mobile cloud computing; Electrocardiogram (ECG); Adaptive neuro fuzzy inference system (ANFIS); Coronary heart disease (CHD); Heart rate variability (HRV)
+","Venkatesan, C (Venkatesan, C.)[ 1 ] ; Karthigaikumar, P (Karthigaikumar, P.)[ 2 ] ; Satheeskumaran, S (Satheeskumaran, S.)[ 3 ]
+","Article
+","venkatintphd@gmail.com; karthigaikumar@kce.ac.in; satheeskumaranece@cvsr.ac.in
+",,"FUZZY INFERENCE SYSTEM; NOISE REMOVAL; HEALTH-CARE; CLASSIFICATION; ARCHITECTURE; CLASSIFIERS; ALGORITHM; SIGNAL; KNN
+"," JUL 2018
+","ELSEVIER SCI LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+"," Venkatesan, C (reprint author)
+","Engineering
+","Mobile cloud computing for ECG telemonitoring and real-time coronary heart disease risk detection
+","BIOMEDICAL SIGNAL PROCESSING AND CONTROL
+","Engineering, Biomedical
+"
+"Information management is a common paradigm in modern decision-making. A wide range of decision-making techniques have been proposed in the literature to model complex business processes. In this Special Issue, 16 selected and peer-reviewed original research articles contribute to business information management in various current real-world problems by proposing crisp or uncertain multiple-criteria decision-making (MCDM) models and techniques, mostly including multi-attribute decision-making (MADM) approaches in addition to a single paper proposing an interactive multi-objective decision-making (MODM) approach. The papers are mainly concentrated in three application areas: supplier selection and rational order allocation, the evaluation and selection of goods or facilities, and personnel selection/partner selection. A number of new approaches are proposed that are expected to attract great interest from the research community.
+","
+","multiple-criteria decision-making (MCDM); multi-attribute decision-making (MADM); fuzzy sets; neutrosophic sets; rough sets; aggregation operators; adaptive neuro-fuzzy inference system (ANFIS)
+","Zavadskas, EK (Zavadskas, Edmundas Kazimieras)[ 1,2 ] ; Antucheviciene, J (Antucheviciene, Jurgita)[ 1 ] ; Chatterjee, P (Chatterjee, Prasenjit)[ 3 ]
+","Editorial Material
+","edmundas.zavadskas@vgtu.lt; jurgita.antucheviciene@vgtu.lt; prasenjit2007@gmail.com
+",,"SYSTEMS
+"," JAN 2019
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Antucheviciene, J (reprint author)
+","Computer Science
+","Multiple-Criteria Decision-Making (MCDM) Techniques for Business Processes Information Management
+","INFORMATION
+","Computer Science, Information Systems
+"
+"Large scale networks are still a major challenge for management, guarantee a good level of Quality of Service (QoS) and especially optimization (rational use of network resources). Multi-Protocol Label Switching (MPLS), mainly used in the backbone of Internet service providers, must meet these three major challenges. Software-Defined Network (SDN), is a paradigm that allows, through the principle of orchestration and layers abstraction, to manage large scale networks through specific protocols. This paper presents a new SDN-based architecture for managing an MPLS Traffic Engineering Diffserv Aware (DS-TE) network. The architecture manages the QoS and routing with QoS constraints, following a new smart and dynamic model of allocation of the bandwidth (Smart Alloc). The proposed architecture is suitable for SDN equipment and especially the legacy equipment. We tested our architecture by simulation on a hybrid network made up of SDN equipment and another legacy. The results of the simulation showed that thanks to our architecture we can not only efficiently manage hybrid architectures but also achieve good QoS levels for convergent traffic. The performance evaluation was performed on VoIP, video, HITP, and ICMP traffic increasing packet load.(C) 2018 Elsevier B.V. All rights reserved.
+","
+","MPLS; SDN; Bandwidth allocation; Diffserv aware TE
+","Bahnasse, A (Bahnasse, Ayoub)[ 1 ] ; Louhab, FE (Ezzahraa Louhab, Fatima)[ 1 ] ; Oulahyane, HA (Ait Oulahyane, Hafsa)[ 1 ] ; Talea, M (Talea, Mohamed)[ 1 ] ; Bakali, A (Bakali, Assia)[ 2 ]
+","Article
+","a.bahnasse@gmail.com
+",,"MODEL
+"," OCT 2018
+","ELSEVIER SCIENCE BV, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+"," Bahnasse, A (reprint author)
+","Computer Science
+","Novel SDN architecture for smart MPLS Traffic Engineering-DiffServ Aware management
+","FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+","Computer Science, Theory & Methods
+"
+"The introduced work aims to systematic optimize detailed short-term scheduling for industrial waste incineration to support daily decision-making processes. The overall objective is to reduce the utilization of auxiliary fuel used to overcome waste related energy in the incineration process. The reduction is achieved through adequate mixing and scheduling of waste streams with different energy content and improved logistic strategies. With it, regulatory and technical constraints are fulfilled and holdups in production processes derived from bottlenecks in the waste treatment are avoided.
+","
+","Waste-to-energy; Industrial waste; Waste incineration; Scheduling; Mathematical optimization; Energy efficiency
+","Abaecherli, ML (Abaecherli, Matteo L.)[ 1 ] ; Capon-Garcia, E (Capon-Garcia, Elisabet)[ 1 ] ; Szijjarto, A (Szijjarto, Andrej)[ 2 ] ; Hungerbuhler, K (Hungerbuhler, Konrad)[ 1 ]
+","Article
+","elisabet.capon@chem.ethz.ch
+","['Funding Agency Grant Number\n', 'Lonza Group AG   \n', 'Swiss Commission for Technology and Innovation (CTI) \n', '15840.1 PFIW-IW \n', 'View funding text   \n']","ENTERPRISE-WIDE OPTIMIZATION; TO-ENERGY; MULTIOBJECTIVE OPTIMIZATION; REFINERY OPERATIONS; SCHEDULING MODELS; CHALLENGES; PLANT
+"," SEP 2 2017
+","PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+"," Capon-Garcia, E (reprint author)
+","Computer Science; Engineering
+","Optimized energy use through systematic short-term management of industrial waste incineration
+","COMPUTERS & CHEMICAL ENGINEERING
+","Computer Science, Interdisciplinary Applications; Engineering, Chemical
+"
+"Vascular malformations are a very heterogeneous group of circulatory system's diseases, that can involve different kind of vessels: arterial, venous or lymphatic ones.
+","
+","Vascular malformations; vascular tumors; laser; transmucosal thermophotocoagulation; intralesional photocoagulation; thermal damage
+","Romeo, U (Romeo, U.)[ 1 ] ; Rocchetti, F (Rocchetti, F.)[ 1 ] ; Gaimari, G (Gaimari, G.)[ 1 ] ; Tenore, G (Tenore, G.)[ 1 ] ; Palaia, G (Palaia, G.)[ 1 ] ; Lo Giudice, G (Lo Giudice, G.)[ 2 ]
+","Proceedings Paper
+",,,"LESIONS
+"," 2016
+","SPIE-INT SOC OPTICAL ENGINEERING, 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+"," Romeo, U (reprint author)
+","Dentistry, Oral Surgery & Medicine; Optics
+","Oral vascular malformations: laser treatment and management
+","HIGH-END MEDICINE BASED ON LASER AND BIOTECHNOLOGIES
+","Dentistry, Oral Surgery & Medicine; Optics
+"
+"This paper presents a new method for load pre-dispatch considering the technical conditions of engines in thermoelectric power plants by combining several maintenance and diagnostic techniques and using computational intelligence. A diagnosis of the technical conditions of the engines is performed using a lubricant analysis, vibration analysis, and thermography. With these data from a statistical analysis, it is possible to predict when an engine will fail and to consider this phenomenon in the load predispatch. To increase the engine reliability and power supply, a maintenance management program is developed using MANAGEMENT tools, applying only 4 total productive maintenance pillars and combining them with predictive maintenance and diagnostics, thus reducing failures in plant equipment. Some results achieved after this implementation are as follows: a reduction in the annual cost of maintenance, a reduction in the corrective maintenance, an increase in the mean time between failures, and a decrease in the mean time to repair in all areas. In addition, the pre-dispatch ensures that the demanded power is met with a high degree of reliability and quality, and at minimal cost.
+","
+","Economic load dispatch; management maintenance program; electric generators; TPM power plants; fuzzy logic
+","Fonseca, M (Fonseca Junior, Milton)[ 1 ] ; Bezerra, UH (Bezerra, Ubiratan Holanda)[ 2 ] ; Brito, JD (Brito Junior, Jorge De Almeida)[ 3 ] ; Leite, JC (Leite, Jandecy Cabral)[ 3 ] ; Nascimento, MHR (Reis Nascimento, Manoel Henrique)[ 3 ]
+","Article
+","milton.fonseca@eletrobrasamazonas.com
+","['Funding Agency Grant Number\n', 'FAPEAM   \n', 'UFPA   \n', 'ELETROBRAS   \n', 'ITEGAM   \n', 'View funding text   \n']","FAULT; MACHINE; SYSTEM; MODEL; RISK
+"," 2018
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Fonseca, M (reprint author)
+","Computer Science; Engineering; Telecommunications
+","Pre-Dispatch of Load in Thermoelectric Power Plants Considering Maintenance Management Using Fuzzy Logic
+","IEEE ACCESS
+","Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+"
+"Multi-Context Systems (MCS) are a powerful framework for interlinking possibly heterogeneous, autonomous knowledge bases, where information can be exchanged among knowledge bases by designated bridge rules with negation as failure. An acknowledged issue with MCS is inconsistency that arises due to the information exchange. To remedy this problem, inconsistency removal has been proposed in terms of repairs, which modify bridge rules based on suitable notions for diagnosis of inconsistency. In general, multiple diagnoses and repairs do exist; this leaves the user, who arguably may oversee the inconsistency removal, with the task of selecting some repair among all possible ones. To aid in this regard, we extend the MCS framework with preference information for diagnoses, such that undesired diagnoses are filtered out and diagnoses that are most preferred according to a preference ordering are selected. We consider preference information at a generic level and develop meta-reasoning techniques on diagnoses in MCS that can be exploited to reduce preference-based selection of diagnoses to computing ordinary subset-minimal diagnoses in an extended MCS. We describe two meta-reasoning encodings for preference orders: the first is conceptually simple but may incur an exponential blowup. The second is increasing only linearly in size and based on duplicating the original MCS. The latter requires nondeterministic guessing if a subset-minimal among all most preferred diagnoses should be computed. However, a complexity analysis of diagnoses shows that this is worst-case optimal, and that in general, preferred diagnoses have the same complexity as subset-minimal ordinary diagnoses. Furthermore, (subset-minimal) filtered diagnoses and (subset-minimal) ordinary diagnoses also have the same complexity.
+","
+",,"Eiter, T (Eiter, Thomas)[ 1 ] ; Weinzierl, A (Weinzierl, Antonius)[ 2 ]
+","Article
+","EITER@KR.TUWIEN.AC.AT; ANTONIUS.WEINZIERL@AALTO.FI
+","['Funding Agency Grant Number\n', 'Austrian Science Fund (FWF)Austrian Science Fund (FWF) \n', 'P27730 \n', 'Academy of FinlandAcademy of Finland \n', '251170 \n', 'Vienna Science and Technology Fund (WWTF) \n', 'ICT08-020 \n', 'View funding text   \n']","COMPUTATIONAL-COMPLEXITY; LOGIC; STRATEGIES; RESOLUTION; ARGUMENTS
+"," 2017
+","AI ACCESS FOUNDATION, USC INFORMATION SCIENCES INST, 4676 ADMIRALITY WAY, MARINA DEL REY, CA 90292-6695 USA
+"," Eiter, T (reprint author)
+","Computer Science
+","Preference-Based Inconsistency Management in Multi-Context Systems
+","JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
+","Computer Science, Artificial Intelligence
+"
+"t Background: Polygenic risk score (PRS) analyses have become an integral part of biomedical research, exploited to gain insights into shared aetiology among traits, to control for genomic profile in experimental studies, and to strengthen causal inference, among a range of applications. Substantial efforts are now devoted to biobank projects to collect large genetic and phenotypic data, providing unprecedented opportunity for genetic discovery and applications. To process the large-scale data provided by such biobank resources, highly efficient and scalable methods and software are required. Results: Here we introduce PRSice-2, an efficient and scalable software program for automating and simplifying PRS analyses on large-scale data. PRSice-2 handles both genotyped and imputed data, provides empirical association P-values free from inflation due to overfitting, supports different inheritance models, and can evaluate multiple continuous and binary target traits simultaneously. We demonstrate that PRSice-2 is dramatically faster and more memory-efficient than PRSice-1 and alternative PRS software, LDpred and lassosum, while having comparable predictive power. Conclusion: PRSice-2's combination of efficiency and power will be increasingly important as data sizes grow and as the applications of PRS become more sophisticated, e.g., when incorporated into high-dimensional or gene set-based analyses. PRSice-2 is written in C++, with an R script for plotting, and is freely available for download from http://PRSice.info.
+","
+","polygenic risk score; GWAS; imputation
+","Choi, SW (Choi, Shing Wan)[ 1,2 ] ; O'Reilly, PF (O'Reilly, Paul F.)[ 1,2 ]
+","Article
+","choishingwan@gmail.com; paul.oreilly@mssm.edu
+","['Funding Agency Grant Number\n', 'Medical Research CouncilMedical Research Council UK (MRC)   \n', 'UK Medical Research CouncilMedical Research Council UK (MRC) \n', 'MR/N015746/1 \n', ""National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King's College London   \n"", 'View funding text   \n']","PREDICTION
+"," JUL 2019
+","OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+"," Choi, SW; O'Reilly, PF (reprint author)
+","Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+","PRSice-2: Polygenic Risk Score software for biobank-scale data
+","GIGASCIENCE
+","Biology; Multidisciplinary Sciences
+"
+"""Big data"" is an emerging topic and has attracted the attention of many researchers and practitioners in industrial systems engineering and cybernetics. Big data analytics would definitely lead to valuable knowledge for many organizations. Business operations and risk management can be a beneficiary as there are many data collection channels in the related industrial systems (e.g., wireless sensor networks, Internet-based systems, etc.). Big data research, however, is still in its infancy. Its focus is rather unclear and related studies are not well amalgamated. This paper aims to present the challenges and opportunities of big data analytics in this unique application domain. Technological development and advances for industrial-based business systems, reliability and security of industrial systems, and their operational risk management are examined. Important areas for future research are also discussed and revealed.
+","
+","Big data analytics; business intelligence (BI); operational risk analysis; operations management; systems reliability; security
+","Choi, TM (Choi, Tsan-Ming)[ 1 ] ; Chan, HK (Chan, Hing Kai)[ 2 ] ; Yue, XH (Yue, Xiaohang)[ 3 ]
+","Article
+","jason.choi@polyu.edu.hk
+","['Funding Agency Grant Number\n', 'Hong Kong Polytechnic UniversityHong Kong Polytechnic University \n', 'G-UA1Q \n', 'View funding text   \n']","SUPPLY CHAINS; DECISION-SUPPORT; MULTIOBJECTIVE OPTIMIZATION; CLOUD SERVICE; DATA SYSTEMS; MASTER DATA; INTELLIGENCE; INFORMATION; ENTERPRISE; MODEL
+"," JAN 2017
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Choi, TM (reprint author)
+","Automation & Control Systems; Computer Science
+","Recent Development in Big Data Analytics for Business Operations and Risk Management
+","IEEE TRANSACTIONS ON CYBERNETICS
+","Automation & Control Systems; Computer Science, Artificial Intelligence; Computer Science, Cybernetics
+"
+"As technologies and services that leverage cloud computing have evolved, the number of businesses and individuals who use them are increasing rapidly. In the course of using cloud services, as users store and use data that include personal information, research on privacy protection models to protect sensitive information in the cloud environment is becoming more important. As a solution to this problem, a self-destructing scheme has been proposed that prevents the decryption of encrypted user data after a certain period of time using a Distributed Hash Table (DHT) network. However, the existing self-destructing scheme does not mention how to set the number of key shares and the threshold value considering the environment of the dynamic DHT network. This paper proposes a method to set the parameters to generate the key shares needed for the self-destructing scheme considering the availability and security of data. The proposed method defines state, action, and reward of the reinforcement learning model based on the similarity of the graph, and applies the self-destructing scheme process by updating the parameter based on the reinforcement learning model. Through the proposed technique, key sharing parameters can be set in consideration of data availability and security in dynamic DHT network environments.
+","
+","self-destructing scheme; DHT network; privacy protection; reinforcement learning
+","Kim, YK (Kim, Young Ki)[ 1 ] ; Ullah, S (Ullah, Saeed)[ 1 ] ; Kwon, K (Kwon, Kiuk)[ 2 ] ; Jang, Y (Jang, Yunchul)[ 2 ] ; Lee, J (Lee, Jongsoo)[ 2 ] ; Hong, CS (Hong, Choong Seon)[ 1 ]
+","Article
+","qoo0144@khu.ac.kr; saeed@khu.ac.kr; kiuk.kwon@idatabank.com; yunchul.jang@idatabank.com; jongsoo.lee@idatabank.com; cshong@khu.ac.kr
+","['Funding Agency Grant Number\n', 'Institute for Information & communications Technology Promotion (IITP) - Korea government (MSIP) \n', '2017-0-00735 \n', 'Korea Evaluation Institute of Industrial Technology (KEIT) - Korea government (MOTIE) \n', '2017-0-00735 \n', 'View funding text   \n']",," MAY 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Hong, CS (reprint author)
+","Science & Technology - Other Topics
+","Reinforcement Learning Based Data Self-Destruction Scheme for Secured Data Management
+","SYMMETRY-BASEL
+","Multidisciplinary Sciences
+"
+"Probability theory is the most common method to solve the orienteering problems in the state of indeterminacy. However, it will no longer be applicable without available samples. In this paper, we focus on uncertain orienteering problem containing uncertain vector in the objective function. First, we creatively model the uncertain orienteering problem based on uncertainty theory. Second, we establish the minimum-risk model using uncertain measure instead of the expected-value policy. Third, after introducing some assumptions to deal with the uncertain vector in the minimum-risk model, we get an orienteering problem with fractional objective. Since it is more complex than the original orienteering problem, we design an one-dimensional ratio search algorithm. Finally, we perform some numerical tests on the uncertain datasets and analyze the effectiveness of our theoretical results and algorithm.
+","
+","Uncertainty theory; Uncertain orienteering problem; Minimum-risk solution; One-dimensional ratio search algorithm
+","Wang, J (Wang, Jian)[ 1 ] ; Guo, JS (Guo, Jiansheng)[ 1 ] ; Zheng, MF (Zheng, Mingfa)[ 2 ] ; Zheng, MR (Zheng MuRong)[ 1 ] ; Li, ZX (Li, Zhengxin)[ 1 ]
+","Article
+","emse.wj@gmail.com; amisc@163.com; mingfazheng@stu.xjtu.edu.cn; chinauibe@163.com; zhengxinli@nwpu.edu.cn
+","['Funding Agency Grant Number\n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '61502521 \n', '61502523 \n', 'View funding text   \n']","ALGORITHM
+"," JUN 2019
+","SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+"," Zheng, MF (reprint author)
+","Computer Science
+","Research on a novel minimum-risk model for uncertain orienteering problem based on uncertainty theory
+","SOFT COMPUTING
+","Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications
+"
+"The operation problem of a micro-grid (MG) in grid-connected mode is an optimization one in which the main objective of the MG operator (MGO) is to minimize the operation cost with optimal scheduling of resources and optimal trading energy with the main grid. The MGO can use incentive-based demand response programs (DRPs) to pay an incentive to the consumers to change their demands in the peak hours. Moreover, the MGO forecasts the output power of renewable energy resources (RERs) and models their uncertainties in its problem. In this paper, the operation problem of an MGO is modeled as a risk-based two-stage stochastic optimization problem. To model the uncertainties of RERs, two-stage stochastic programming is considered and conditional value at risk (CVaR) index is used to manage the MGO's risk-level. Moreover, the non-linear economic models of incentive-based DRPs are used by the MGO to change the peak load. The numerical studies are done to investigate the effect of incentive-based DRPs on the operation problem of the MGO. Moreover, to show the effect of the risk-averse parameter on MGO decisions, a sensitivity analysis is carried out.
+","
+","demand response programs; micro-grid; renewable energy resources; risk-management; two-stage stochastic programming
+","Sheikhahmadi, P (Sheikhahmadi, Pouria)[ 1 ] ; Mafakheri, R (Mafakheri, Ramyar)[ 2 ] ; Bahramara, S (Bahramara, Salah)[ 2 ] ; Damavandi, MY (Damavandi, Maziar Yazdani)[ 3 ] ; Catalao, JPS (Catalao, Joao P. S.)[ 3,4,5,6 ]
+","Article
+","pouria.sheikhahmadi@yahoo.com; rami.mafakheri@gmail.com; s_bahramara@yahoo.com; maziar.yazdani.d@gmail.com; catalao@ubi.pt
+","['Funding Agency Grant Number\n', 'FEDER funds through COMPETE 2020   \n', 'Portuguese funds through FCT \n', 'SAICT-PAC/0004/2015-POCI-01-0145-FEDER-016434 \n', 'POCI-01-0145-FEDER-006961 \n', 'UID/EEA/50014/2013 \n', 'UID/CEC/50021/2013 \n', 'UID/EMS/00151/2013 \n', '02/SAICT/2017-POCI-01-0145-FEDER-029803 \n', 'EUEuropean Union (EU) \n', '309048 \n', 'View funding text   \n']","HYBRID POWER-SYSTEMS; ENERGY MANAGEMENT; GENERATION; RESOURCES; STRATEGY; DISPATCH; MODELS
+"," MAR 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Bahramara, S (reprint author)
+","Energy & Fuels
+","Risk-Based Two-Stage Stochastic Optimization Problem of Micro-Grid Operation with Renewables and Incentive-Based Demand Response Programs
+","ENERGIES
+","Energy & Fuels
+"
+"In this paper, the risk-sensitive filtering problem with time-varying delay is investigated. The problem is transformed into Krein space as an equivalent optimisation problem. The observations with time-varying delays are restructured as ones with multiple constant delays by defining a binary variable model with respect to the arrival process of observations, containing the same state information as the original. Finally, the reorganised innovation analysis approach in Krein space allows the solution to the proposed risk-sensitive filtering in terms of the solutions to Riccati and matrix difference equations.
+","
+","singular matrix difference equation; reorganised innovation analysis; risk-sensitive filtering; time-varying delay
+","Wang, W (Wang, Wei)[ 1 ] ; Han, CY (Han, Chunyan)[ 2 ] ; Zhao, HG (Zhao, Hongguo)[ 3 ]
+","Article
+","w.wang@sdu.edu.cn
+","['Funding Agency Grant Number\n', 'National Nature Science Foundation of ChinaNational Natural Science Foundation of China \n', '61104050 \n', '61203029 \n', '61273124 \n', 'Natural Science Foundation of Shandong ProvinceNatural Science Foundation of Shandong Province \n', 'ZR2011FQ020 \n', 'Research Fund for the Doctoral Program of Higher Education of ChinaResearch Fund for the Doctoral Program of Higher Education of China (RFDP) Specialized Research Fund for the Doctoral Program of Higher Education (SRFDP) \n', '20120131120058 \n', 'View funding text   \n']","LINEAR-ESTIMATION
+"," APR 4 2015
+","TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+"," Wang, W (reprint author)
+","Automation & Control Systems; Computer Science; Operations Research & Management Science
+","Risk-sensitive filtering for discrete-time systems with time-varying delay
+","INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE
+","Automation & Control Systems; Computer Science, Theory & Methods; Operations Research & Management Science
+"
+"The aim of this paper is to investigate the various effects of climate conditions on outdoor insulators in coastal areas as a result of saline contamination under acidic and normal cold fog, determining significant electrical and physico-chemical changes on the insulator surface and considering the effect of discharge current, electric field distribution and surface roughness. To replicate similar conditions near the shoreline, experimental investigations have been carried out on insulation materials with the combined application of saline contamination and acidic or normal cold fog. The test samples included silicone rubber (SiR), ethylene propylene diene monomer (EPDM) and high-density polyethylene (HDPE), which were used as reference. The materials are of the same composition as those used in real-life outdoor high voltage insulators. All samples were aged separately in an environmental chamber for 150 h for various saline contaminations combined with acidic and normal cold fog, and were generated by means of the adopted experimental setup. This analysis represented conditions similar to those existing near the shoreline exposed to saline and acid spray during winter and early spring. Electric field and discharge current along polymeric samples were examined under acidic and normal cold fog. Fourier transform infrared (FTIR) spectroscopy and scanning electron microscopic (SEM) were used to probe the physico-chemical changes on the samples surface and investigate the hydrophobicity recovery property after aging tests. Finally, a comparative study was carried out on polymeric samples before and after being exposed to the acidic and normal cold fog based on the results obtained from the experiment. Research data may provide references for the better prediction of surface degradation as well as for the better material coating and design of external insulation.
+","
+","risk assessment; insulator failure; saline contamination; environmental stresses; surface degradation; acidic and cold fog; shoreline
+","Hussain, MM (Hussain, Muhammad Majid)[ 1 ] ; Farokhi, S (Farokhi, Shahab)[ 1 ] ; McMeekin, SG (McMeekin, Scott G.)[ 1 ] ; Farzaneh, M (Farzaneh, Masoud)[ 2 ]
+","Article
+","muhammad.hussain@gcu.ac.uk; shahab.farokhi@gcu.ac.uk; scott.mcmeekin@gcu.ac.uk; Masoud_Farzaneh@uqac.ca
+",,"SILICONE-RUBBER COATINGS; INCLINED-PLANE TEST; ELECTRICAL PERFORMANCE; RECOVERY; SURFACE; HYDROPHOBICITY; RESISTANCE; EROSION; CORONA
+"," OCT 2017
+","MDPI AG, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Hussain, MM (reprint author)
+","Energy & Fuels
+","Risk Assessment of Failure of Outdoor High Voltage Polluted Insulators under Combined Stresses Near Shoreline
+","ENERGIES
+","Energy & Fuels
+"
+"This paper examines the relationship between Risk Management Committee (RMC) characteristics and the extent of hedging activities disclosure within the annual reports of the Malaysian listed companies. In particular, relationships are tested on RMC size, independence, RMC meeting, RMC gender diversity and RMC training. Our regression analysis shows that RMC independence significantly and negatively influences the extent of hedging activities information disclosure, while RMC meeting positively influences the disclosure. The implications of these findings are discussed.
+","
+","Financial Instruments; Hedging Activities; Disclosure Index; Risk Management Committee
+","Abdullah, A (Abdullah, Azrul)[ 1,2 ] ; Ismail, KNIK (Ismail, Ku Nor Izah Ku)[ 2 ] ; Isa, NM (Isa, Norshamshina Mat)[ 1 ]
+","Proceedings Paper
+",,,"FINANCIAL INSTRUMENT DISCLOSURE; DETERMINANTS
+"," JUN 2015
+","AMER SCIENTIFIC PUBLISHERS, 26650 THE OLD RD, STE 208, VALENCIA, CA 91381-0751 USA
+"," Abdullah, A (reprint author)
+","Science & Technology - Other Topics
+","Risk Management Committee and Disclosure of Hedging Activities Information Among Malaysian Listed Companies
+","ADVANCED SCIENCE LETTERS
+","Multidisciplinary Sciences
+"
+"The aim of this research lies in the development of a credit-scoring model using logistic regression and multivariate discriminant analysis applied to 1500 individual loans from Moroccan MFIs. This model combines both behavioral and descriptive data related to the borrowers (age, activity, level of education, number of unpaid debts, number of loans, etc.) and others related to the institution (amount of credit, duration of credit, number of concluded loans per portfolio manager etc.). The results showed the importance of having a larger sample, a deep enough history on the behavior of the customer, and also more information about variables related to the client's activity and its performance to better predict the default. (C) 2019 The Authors. Published by Elsevier B.V.
+","
+","Credit scoring; microfinance; Morocco; credit risk; logistic regression; multivariate discriminant analysis; probability of default; behavioral model; descriptive model
+","Bennouna, G (Bennouna, Ghita)[ 1 ] ; Tkiouat, M (Tkiouat, Mohamed)[ 2 ]
+","Proceedings Paper
+","bennouna.ghita@gmail.com
+",,," 2019
+","ELSEVIER SCIENCE BV, SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+"," Tkiouat, M (reprint author)
+","Computer Science
+","Scoring in microfinance: credit risk management tool-Case of Morocco
+","SECOND INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTING IN DATA SCIENCES (ICDS2018)
+","Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+"
+"Business process modelling and security engineering are two important concerns when developing information system. However current practices report that security is addressed at the later development stages (i.e. design and implementation). This raises a question whether the business processes are performed securely. In this paper, we propose a method to introduce security requirements to the business processes through the collaboration between business and security analysts. To support this collaboration we present a set of security risk-oriented patterns. We test our proposal in two industrial business models. The case findings characterise pattern performance when identifying business assets, risks, and countermeasures. (C) 2013 Elsevier B.V. All rights reserved.
+","
+","Security engineering; Business process modelling; Security risk-oriented patterns; Security requirements
+","Ahmed, N (Ahmed, Naved)[ 1 ] ; Matulevicius, R (Matulevicius, Raimundas)[ 1 ]
+","Article
+","naved@ut.ee; rma@ut.ee
+",,"SERVICE ATTACKS; REQUIREMENTS
+"," JUN 2014
+","ELSEVIER, RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+"," Ahmed, N (reprint author)
+","Computer Science
+","Securing business processes using security risk-oriented patterns
+","COMPUTER STANDARDS & INTERFACES
+","Computer Science, Hardware & Architecture; Computer Science, Software Engineering
+"
+"Today, network operators typically reason about network behaviour by observing the effects of a particular configuration in operation. This configuration process typically involves logging configuration changes and rolling back to a previous version when a problem arises. Advanced network operators (more each day) use policy-based routing languages to define the routing configuration and tools based on systematic verification techniques to ensure that operational behaviour is consistent with the intended behaviour. These tools help operators to reason about properties of routing protocols. However, these languages and tools work in low-level, i.e. they focus on properties, parameters, and elements of routing protocols. However, network operators receive high-level policies that must be refined to low level parameters before they can be applied. These high-level policies should consider other properties (e.g. extensibility or reasoning capabilities), parameters (e.g. time period, localization or QoS parameters), and elements (e.g. AAA individuals or resources), when the network configuration is defined. We believe that there is a need of broader approaches in languages and tools for defining routing configurations that are more powerful and integrated to other network elements. This article provides the main ideas behind the specification of routing policies using formal languages which enable the description of semantics. These semantics make easier the policy refinement process and allows describing an automated process for doing conflict detection on these policies.
+","
+","Routing policy; Network management; BGP; Policy languages; Conflict detection; Semantic web
+","Clemente, FJG (Garcia Clemente, Felix J.)[ 2 ] ; Calero, JMA (Alcaraz Calero, Jose M.)[ 1 ] ; Bernabe, JB (Bernal Bernabe, Jorge)[ 1 ] ; Perez, JMM (Marin Perez, Juan Manuel)[ 1 ] ; Perez, GM (Martinez Perez, Gregorio)[ 1 ] ; Skarmeta, AFG (Gomez Skarmeta, Antonio F.)[ 1 ]
+","Article
+","fgarcia@um.es; jmalcaraz@um.es; jorgebernal@um.es; juanmanuel@um.es; gregorio@um.es; skarmeta@um.es
+","['Funding Agency Grant Number\n', 'Spanish MECMinistry of Education and Science, Spain   \n', 'MICINNMinistry of Science and Innovation, Spain (MICINN)   \n', 'European CommissionEuropean Commission Joint Research Centre \n', 'AP2006-4150 \n', 'CSD2006-00046 \n', 'TIN2008-06441-C02-02 \n', 'TIN2009-14475-C04 \n', 'Fundacion SenecaFundacion Seneca \n', '04552/GERM/06 \n', 'View funding text   \n']","COMMON INFORMATION MODEL; ONTOLOGY
+"," JUN 2011
+","SPRINGER, 233 SPRING ST, NEW YORK, NY 10013 USA
+"," Perez, GM (reprint author)
+","Computer Science; Telecommunications
+","Semantic Web-Based Management of Routing Configurations
+","JOURNAL OF NETWORK AND SYSTEMS MANAGEMENT
+","Computer Science, Information Systems; Telecommunications
+"
+"The selective separation of CO2 from gas mixtures representative of flue gas generated in waste incineration systems is studied on two activated carbons obtained from pine sawdust and compared to a commercial activated carbon. Dynamic adsorption experiments were conducted in a fixed-bed adsorption column using a binary mixture (N-2/CO2) with a composition representative of incineration streams at temperatures from 30 to 70 degrees C. The adsorption behavior of humid mixtures (N-2/CO2/H2O) was also evaluated in order to assess the influence of water vapor in CO2 adsorption at different relative humidity in the feed gas: 22% and 60%. Moreover, CO2 adsorption was studied in less favorable conditions, i.e., departing from a bed initially saturated with H2O. In addition, the effect of CO2 on H2O adsorption was examined. Experimental results showed that the CO2 adsorption capacity can be reduced significantly by the adsorption of H2O (up to 60% at high relative humidity conditions). On the other hand, the breakthrough tests over the adsorbent initially saturated with water vapor indicated that H2O is little affected by CO2 adsorption. The experimental results pointed out the biomass based carbons as best candidates for CO2 separation under incineration flue gas conditions.
+","
+","activated carbon; CO2 capture; incineration; breakthrough curve; water vapor
+","Duran, I (Duran, Ines)[ 1 ] ; Rubiera, F (Rubiera, Fernando)[ 1 ] ; Pevida, C (Pevida, Covadonga)[ 1 ]
+","Article
+","i.duran@incar.csic.es; frubiera@incar.csic.es; cpevida@incar.csic.es
+","['Funding Agency Grant Number\n', 'Spanish MINECO \n', 'Retos-Colaboracion RTC-2014-2109-5 \n', 'Gobierno del Principado de Asturias \n', 'PCTI-GRUPIN14-079 \n', 'View funding text   \n']","WATER-VAPOR ADSORPTION; FLUE-GAS; DIOXIDE CAPTURE; N-2 ADSORPTION; SIMULATION
+"," JUN 2017
+","MDPI AG, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Pevida, C (reprint author)
+","Energy & Fuels
+","Separation of CO2 in a Solid Waste Management Incineration Facility Using Activated Carbon Derived from Pine Sawdust
+","ENERGIES
+","Energy & Fuels
+"
+"In this paper, an integrated power system (IPS) based on fuel cell (FC), battery, photovoltaic panels (PV), and two diesel generators is proposed and modeled for an all-electric ship to address a solution for the high pollution resulting from conventional ships. Dual active bridge (DAB) converter and its nonlinear average model which is faster and more suitable for system-level studies has been used as power electronic interface. A decentralized model predictive control (MPC) strategy is also designed to control the modules of the IPS. A hierarchical control method with virtual droop control is proposed to control the power generation of diesel generators and regulate the DC link voltage of the IPS. Moreover, a power management strategy for efficient operation of diesel generators, FC and battery is considered in this study. It is important to note that, the diesel generators considered in this power system make this ship more applicable for longer voyages. The proposed system has been studied in various operational modes considering the battery and load conditions in MATLAB/SIMULINK environment and its validity is shown through the obtained results. Furthermore, the simulation results show good response in a long run which is a sign of its suitability for system-level studies.
+","
+",,"Banaei, MR (Banaei, Mohamad Reza)[ 1 ] ; Alizadeh, R (Alizadeh, Rana)[ 1 ]
+","Article
+","m.banaei@azaruniv.edu; ranaalizadeh@azaruniv.edu
+",,"HIERARCHICAL CONTROL; DC/DC CONVERTER; STORAGE SYSTEM
+"," SUM 2016
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Banaei, MR; Alizadeh, R (reprint author)
+","Engineering; Transportation
+","Simulation-Based Modeling and Power Management of All-Electric Ships Based on Renewable Energy Generation Using Model Predictive Control Strategy
+","IEEE INTELLIGENT TRANSPORTATION SYSTEMS MAGAZINE
+","Engineering, Electrical & Electronic; Transportation Science & Technology
+"
+"In hierarchical SIP networks, paging is performed to reduce location update signaling cost for mobility management. However, the cost efficiency largely depends on each mobile node's session-to-mobility-ratio (SMR), which is defined as a ratio of the session arrival rate to the movement rate. In this paper, we propose the adaptive mobility management scheme that can determine the policy regarding to each mobile node's SMR. Each mobile node determines whether the paging is applied or not after comparing its SMR with the threshold. In other words, the paging is applied to a mobile node when a mobile node's SMR is less than the threshold. Therefore, the proposed scheme provides a way to minimize signaling costs according to each mobile node's SMR. We find out the optimal threshold through performance analysis, and show that the proposed scheme can reduce signaling cost than the existing SIP and paging schemes in hierarchical SIP networks.
+","
+","SIP; SMR; paging; location update; location management
+","Choi, K (Choi, KwangHee)[ 1 ] ; Gil, JM (Gil, Joon-Min)[ 2 ]
+","Article
+","theidea@lguplus.co.kr; jmgil@cu.ac.kr
+","['Funding Agency Grant Number\n', 'Basic Science Research Program through the National Research Foundation of Korea (NRF) - Ministry of Education, Science and Technology \n', '2012R1A1A4A01015777 \n', 'View funding text   \n']",," DEC 2014
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Gil, JM (reprint author)
+","Computer Science
+","SMR-Based Adaptive Mobility Management Scheme in Hierarchical SIP Networks
+","INFORMATION
+","Computer Science, Information Systems
+"
+"In wireless communications, as the spatio-temporal distribution of the traffic is dynamic, the performance degradation of cellular networks becomes inevitable. Especially in catastrophic scenarios or hot-spot areas, terrestrial base stations may be poorly functioning and/or congested; thus, deploying ASCs that were carried by a UAV swarm is reasonable and cost-effective. Moreover, services such as disaster evaluation and live broadcasting require high-definition video streams, which undoubtedly need broad-band wireless transmission. To achieve this goal, the mmWave approach is introduced in the UAV swarm. However, wireless backhaul links, the mobility of UAVs and system coexistence hamper performance. In this article, we propose a novel spectrum management (SM) architecture for UAV-assisted cellular networks. Considering the special feature of mmWave, we also study SM techniques for opportunistic utilization of low-altitude UAV swarm using multi-mode radio access technologies (RATs). Both motivations and challenges of the proposed SM architecture for the UAV swarm are analyzed. To evaluate the performances of the proposed mmWave based wireless backhaul in UAV-assisted cellular networks, different SM schemes have been discussed and verified with numerical results in five typical scenarios.
+","
+",,"Feng, ZY (Feng, Zhiyong)[ 1 ] ; Ji, L (Ji, Lei)[ 2 ] ; Zhang, QX (Zhang, Qixun)[ 3 ] ; Li, W (Li, Wei)[ 4 ]
+","Article
+",,"['Funding Agency Grant Number\n', 'National Natural Science Foundation of ChinaNational Natural Science Foundation of China \n', '61631003 \n', 'National Science Fund for Distinguished Young ScholarsNational Natural Science Foundation of China National Science Fund for Distinguished Young Scholars \n', '61525101 \n', 'View funding text   \n']","MOBILE COMMUNICATIONS; RESOURCE-MANAGEMENT; 5G; ACCESS
+"," JAN 2019
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Feng, ZY (reprint author)
+","Engineering; Telecommunications
+","Spectrum Management for MmWave Enabled UAV Swarm Networks: Challenges and Opportunities
+","IEEE COMMUNICATIONS MAGAZINE
+","Engineering, Electrical & Electronic; Telecommunications
+"
+"The use of different texture-based methods is pervasive in different subfields and tasks of document image analysis (DIA) and particularly in historical DIA (HDIA). Nevertheless, faced with a large diversity of texture-based methods used for HDIA, few questions arise. Which texture methods are firstly well suited for segmenting graphical contents from textual ones, discriminating various text fonts and scales, and separating different types of graphics? Then, which texture-based method represents a constructive compromise between the performance and the computational cost? Thus, in this article a benchmarking of the most classical and widely used texture-based feature sets has been conducted using a classical texture-based pixel-labeling scheme on a large corpus of historical documents to have satisfactory and clear answers to the above questions. We focus on determining the performance of each texture-based feature set according to the document content. The results reported in this study provide firstly a qualitative measure of which texture-based feature sets are the most appropriate and secondly a useful benchmark in terms of performance and computational cost for current and future research efforts in HDIA.
+","
+","Benchmarking; Texture; Pixel-labeling; Historical document image analysis
+","Mehri, M (Mehri, Maroua)[ 1 ] ; Heroux, P (Heroux, Pierre)[ 1 ] ; Gomez-Kramer, P (Gomez-Kramer, Petra)[ 2 ] ; Mullot, R (Mullot, Remy)[ 2 ]
+","Article
+","maroua.mehri@gmail.com; pierre.heroux@univ-rouen.fr; petra.gomez@univ-lr.fr; remy.mullot@univ-lr.fr
+","['Funding Agency Grant Number\n', 'French national research agency (ANR)French National Research Agency (ANR) \n', 'ANR-10-CORD-0020 \n', 'View funding text   \n']","PAGE SEGMENTATION; LAYOUT ANALYSIS; CLASSIFICATION; HANDWRITTEN; RECOGNITION; PERFORMANCE; EXTRACTION; COLOR
+"," MAR 2017
+","SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+"," Mehri, M (reprint author)
+","Computer Science
+","Texture feature benchmarking and evaluation for historical document image analysis
+","INTERNATIONAL JOURNAL ON DOCUMENT ANALYSIS AND RECOGNITION
+","Computer Science, Artificial Intelligence
+"
+"We consider a generic maximum flow interdiction problem that involves a leader and a follower who take actions in sequence. Given an interdiction budget, the leader destroys a subset of arcs to minimize the follower's maximum flows from a source to a sink node. The effect from an interdiction action taken on each arc is random, following a given success rate of decreasing the arc's capacity to zero. The follower can add additional arc capacities for mitigating flow losses, after knowing the leader's interdiction plan but before realizing the uncertainty. We consider risk-neutral and risk-averse behaviors of the two players and investigate five bi-level/tri-level programming models for different risk-preference combinations. The models incorporate the expectation, left-tail, and right-tail Conditional Value-at-Risk (CVaR) as commonly used convex risk measures for evaluating random maximum flows in the leader's and follower's objectives. We reformulate each model as an equivalent mixed-integer linear program and test them on real-world network instances to demonstrate interactions between the leader and the follower under various risk-preference settings. (c) 2017 Elsevier Ltd. All rights reserved.
+","
+","Maximum flow interdiction; Stochastic programming; Conditional value-at-Risk (CVar); Risk-averse optimization; Mixed-integer linear programming
+","Lei, X (Lei, Xiao)[ 1 ] ; Shen, SQ (Shen, Siqian)[ 2 ] ; Song, YJ (Song, Yongjia)[ 3 ]
+","Article
+","sigian@umich.edu
+","['Funding Agency Grant Number\n', 'National Science FoundationNational Science Foundation (NSF) \n', 'CMMI-1433066 \n', 'Army Research Office \n', '12022511 \n', 'View funding text   \n']","NETWORK-INTERDICTION; BILEVEL
+"," FEB 2018
+","PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+"," Shen, SQ (reprint author)
+","Computer Science; Engineering; Operations Research & Management Science
+","Stochastic maximum flow interdiction problems under heterogeneous risk preferences
+","COMPUTERS & OPERATIONS RESEARCH
+","Computer Science, Interdisciplinary Applications; Engineering, Industrial; Operations Research & Management Science
+"
+"The need to consider security from the early stages of the development process of information systems has been argued by academics and industrialists alike, and security risk management has been recognised as one of the most prominent techniques for eliciting security requirements. However, although existing security modelling languages provide some means to model security aspects, they do not contain concrete constructs to address vulnerable system assets, their risks, and risk treatments. Furthermore, security languages do not provide a crosscutting viewpoint relating all three - assets, risks and risk treatments - together. This is problematic since, for a security analyst, it is difficult to detect what the potential security flaws could be, and how they need to be fixed. In this paper, we extend the Secure Tropos language, an agentand goal-oriented security modelling language to support modelling of security risks. Based on previous work, where we had observed some inadequacies of this language to model security risks, this paper suggests improvements of Secure Tropos semantics and syntax. On the syntax level we extend the concrete and abstract syntax of the language, so that it covers the security risk management domain. On the semantic level, we illustrate how language constructs need to be improved to address the three different levels of security risk management. The suggested improvements are illustrated with the aid of a running example, called eSAP, from the healthcare domain.
+","
+","Risk management; information system; security; Secure Tropos; syntax and semantics of modelling language
+","Matulevicius, R (Matulevicius, Raimundas)[ 1 ] ; Mouratidis, H (Mouratidis, Haralambos)[ 2 ] ; Mayer, N (Mayer, Nicolas)[ 3 ] ; Dubois, E (Dubois, Eric)[ 3 ] ; Heymans, P (Heymans, Patrick)[ 4 ]
+","Article
+","rma@ut.ee; haris@uel.ac.uk; nicolas.mayer@tudor.lu; eric.dubois@tudor.lu; phe@info.fundp.ac.be
+",,"INFORMATION-SYSTEMS; REQUIREMENTS; METHODOLOGY
+"," 2012
+","GRAZ UNIV TECHNOLGOY, INST INFORMATION SYSTEMS COMPUTER MEDIA-IICM, INFFELDGASSE 16C, GRAZ, A-8010, AUSTRIA
+"," Matulevicius, R (reprint author)
+","Computer Science
+","Syntactic and Semantic Extensions to Secure Tropos to Support Security Risk Management
+","JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+","Computer Science, Software Engineering; Computer Science, Theory & Methods
+"
+,"
+",,"Michener, WK (Michener, William K.)
+","Article
+","william.michener@gmail.com
+","['Funding Agency Grant Number\n', 'NSFNational Science Foundation (NSF) \n', 'IIA-1301346 \n', 'IIA-1329470 \n', 'ACI-1430508 \n', 'View funding text   \n']",," OCT 2015
+","PUBLIC LIBRARY SCIENCE, 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+"," Michener, WK (reprint author)
+","Biochemistry & Molecular Biology; Mathematical & Computational Biology
+","Ten Simple Rules for Creating a Good Data Management Plan
+","PLOS COMPUTATIONAL BIOLOGY
+","Biochemical Research Methods; Mathematical & Computational Biology
+"
+"The purpose of the paper is to explore the relative biases in the estimation of the Full BEKK model as compared with the Diagonal BEKK model, which is used as a theoretical and empirical benchmark. Chang and McAleer et al., 2017 show that univariate GARCH is not a special case of multivariate GARCH, specifically, the Full BEKK model, and demonstrate that Full BEKK, which, in practice, is estimated almost exclusively, has no underlying stochastic process, regularity conditions, or asymptotic properties. Diagonal BEKK (DBEKK) does not suffer from these limitations, and hence provides a suitable benchmark. We use simulated financial returns series to contrast estimates of the conditional variances and covariances from DBEKK and BEKK. The results of non-parametric tests suggest evidence of considerable bias in the Full BEKK estimates. The results of quantile regression analysis show there is a systematic relationship between the two sets of estimates as we move across the quantiles. Estimates of conditional variances from Full BEKK, relative to those from DBEKK are relatively lower in the left tail and higher in the right tail. The BEKK model is a commonly applied multivariate volatility model frequently used in modelling and forecasting volatilities in financial applications. Our results suggest that it is subject to considerable bias and this should be considered by potential users.
+","
+","DBEKK; BEKK; regularity conditions; asymptotic properties; non-parametric; bias; qantile regression
+","Allen, DE (Allen, David E.)[ 1,2,3 ] ; McAleer, M (McAleer, Michael)[ 4,5,6,7,8,9,10 ]
+","Article
+","profallen2007@gmail.com; michael.mcaleer@gmail.com
+","['Funding Agency Grant Number\n', 'Australian Research Council, Taiwan   \n', 'National Science Council, TaiwanNational Science Council of Taiwan   \n', 'View funding text   \n']","CONDITIONAL HETEROSKEDASTICITY; PRACTICAL OPTIMIZATION; DETAIL HINTS; MODELS; VOLATILITY; MARKETS; DEVIL; ARCH
+"," JUL 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," McAleer, M (reprint author)
+","Energy & Fuels
+","Theoretical and Empirical Differences between Diagonal and Full BEKK for Risk Management
+","ENERGIES
+","Energy & Fuels
+"
+"A large body of evidence supports the cardioprotective effects of the long-chain omega-3 polyunsaturated fatty acids (PUFAs), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA). There is increasing interest in the independent effects of EPA and DHA in the modulation of cardiometabolic risk factors. This systematic review aims to appraise the latest available evidence of the differential effects of EPA and DHA on such risk factors. A systematic literature review was conducted up to May 2017. Randomised controlled trials were included if they met strict eligibility criteria, including EPA or DHA > 2 g/day and purity 90%. Eighteen identified articles were included, corresponding to six unique studies involving 527 participants. Both EPA and DHA lowered triglyceride concentration, with DHA having a greater triglyceride-lowering effect. Whilst total cholesterol levels were largely unchanged by EPA and DHA, DHA increased high-density lipoprotein (HDL) cholesterol concentration, particularly HDL2, and increased low-density lipoprotein (LDL) cholesterol concentration and LDL particle size. Both EPA and DHA inhibited platelet activity, whilst DHA improved vascular function and lowered heart rate and blood pressure to a greater extent than EPA. The effects of EPA and DHA on inflammatory markers and glycaemic control were inconclusive; however both lowered oxidative stress. Thus, EPA and DHA appear to have differential effects on cardiometabolic risk factors, but these need to be confirmed by larger clinical studies.
+","
+","eicosapentaenoic acid; docosahexaenoic acid; omega-3 polyunsaturated fatty acids; cardiometabolic risk factor; systematic review
+","Innes, JK (Innes, Jacqueline K.)[ 1 ] ; Calder, PC (Calder, Philip C.)[ 1,2,3 ]
+","Review
+","innesjackie@gmail.com; pcc@soton.ac.uk
+",,"ALPHA-LINOLENIC ACID; POLYUNSATURATED FATTY-ACIDS; CARDIOVASCULAR-DISEASE RISK; CORONARY-HEART-DISEASE; LDL PARTICLE-SIZE; FISH-OIL; BLOOD-PRESSURE; OMEGA-3 INDEX; DENSITY-LIPOPROTEIN; VASCULAR FUNCTION
+"," FEB 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Calder, PC (reprint author)
+","Biochemistry & Molecular Biology; Chemistry
+","The Differential Effects of Eicosapentaenoic Acid and Docosahexaenoic Acid on Cardiometabolic Risk Factors: A Systematic Review
+","INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+","Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+"
+"Project management maturity (PMM) is gaining interest from different domains of research because it can be used to assess the strengths and weaknesses of ongoing projects within organizations. Thus, this paper aims to present and validate a research model that includes PMM and project success. Partial least squares' structural equation modeling (PLS-SEM) is used to assess the research model. The suggested hypotheses were tested based on a sample of 425 respondents from project-based organizations in Pakistan. The findings of the study indicate that there is a positive relationship between PMM and project success. Moreover, it was inferred from the results that different dimensions of PMM such as knowledge management transfer, process management, and resource project management could directly influence project success. However, it is also determined in this study that the use of software, continuous improvement, and training did not significantly affect the success of projects in Pakistan.
+","
+","Continuous improvement; knowledge management transfer; partial least squares structural equation modeling; process management; project management maturity; project success; resource project management; software; training
+","Irfan, M (Irfan, Muhammad)[ 1 ] ; Hassan, M (Hassan, Mazlan)[ 2 ] ; Hassan, N (Hassan, Nasruddin)[ 3 ]
+","Article
+","nas@ukm.edu.my
+","['Funding Agency Grant Number\n', 'Universiti Putra Malaysia \n', '9001103 \n', 'View funding text   \n']","PROCESS IMPROVEMENT; PROCESS MATURITY; GOVERNANCE; MODELS; VARIABLES; PROGRAM; IMPACT
+"," 2019
+","IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+"," Hassan, N (reprint author)
+","Computer Science; Engineering; Telecommunications
+","The Effect of Project Management Capabilities on Project Success in Pakistan: An Empirical Investigation
+","IEEE ACCESS
+","Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+"
+"Knowledge is becoming a valuable asset for most organizations and the quest to manage this asset is gaining popularity among researchers and management. Organizational management's main objective is to ensure effective and efficient use of its diverse resources such as labor, capital, materials, energy and information in their quest to achieve competitiveness as well as to increase productivity that must be managed. In today's rapid technological change, companies are in constant struggle to maintain competitive advantage through market differentiation by providing superior products and services. The management in organizations is increasing their focus on employees' know-how, past experiences and expertise in their quest to excel in achieving their goal. In short, Knowledge has become an integral asset for most organizational functionalities. Knowledge management promises to create the proper structure and the necessary technological infrastructure in organizations and human driven placement. This research investigates the role of ""tacit"" knowledge sharing on organizational productivity. Accordingly, a framework was developed and hypotheses were drawn and tested where results demonstrated interesting insights into the role of sharing on organizational productivity. The survey, which was conducted at Koosa Bank of Iran, demonstrated that the employees' intension to share and consequently the sharing of tacit knowledge has direct positive impacts on productivity. In addition, our analysis demonstrated that not only productivity would increase as a result of knowledge sharing, but also employees' innovative contributions increased as a result of exposure to others' knowledge, expertise, and experiences. (C) 2018 The Authors. Published by Elsevier B.V.
+","
+","Knowledge Management; Productivity; Knowledge Culture; Tacit and Explicit Knowledge
+","Torabi, F (Torabi, Fatemeh)[ 1 ] ; El-Den, J (El-Den, Jamal)[ 2 ]
+","Proceedings Paper
+","jamal.el-den@cdu.edu.au
+",,"CULTURE; PERFORMANCE; INFORMATION; TECHNOLOGY; INNOVATION
+"," 2017
+","ELSEVIER SCIENCE BV, SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+"," El-Den, J (reprint author)
+","Business & Economics; Communication; Information Science & Library Science
+","The impact of Knowledge Management on Organizational Productivity: A Case Study on Koosar Bank of Iran
+","4TH INFORMATION SYSTEMS INTERNATIONAL CONFERENCE (ISICO 2017)
+","Business; Communication; Information Science & Library Science
+"
+"Background: The Health Informatics Centre at the University of Dundee provides a service to securely host clinical datasets and extract relevant data for anonymized cohorts to researchers to enable them to answer key research questions. As is common in research using routine healthcare data, the service was historically delivered using ad-hoc processes resulting in the slow provision of data whose provenance was often hidden to the researchers using it. This paper describes the development and evaluation of the Research Data Management Platform (RDMP): an open source tool to load, manage, clean, and curate longitudinal healthcare data for research and provide reproducible and updateable datasets for defined cohorts to researchers. Results: Between 2013 and 2017, RDMP tool implementation tripled the productivity of data analysts producing data releases for researchers from 7.1 to 25.3 per month and reduced the error rate from 12.7% to 3.1%. The effort on data management reduced from a mean of 24.6 to 3.0 hours per data release. The waiting time for researchers to receive data after agreeing a specification reduced from approximately 6 months to less than 1 week. The software is scalable and currently manages 163 datasets. A total 1,321 data extracts for research have been produced, with the largest extract linking data from 70 different datasets. Conclusions: The tools and processes that encompass the RDMP not only fulfil the research data management requirements of researchers but also support the seamless collaboration of data cleaning, data transformation, data summarization and data quality assessment activities by different research groups.
+","
+","clinical datasets; translational research; research data management; data catalogue; health informatics; record linkage
+","Nind, T (Nind, Thomas)[ 1 ] ; Galloway, J (Galloway, James)[ 1 ] ; McAllister, G (McAllister, Gordon)[ 1 ] ; Scobbie, D (Scobbie, Donald)[ 2 ] ; Bonney, W (Bonney, Wilfred)[ 1 ] ; Hall, C (Hall, Christopher)[ 1 ] ; Tramma, L (Tramma, Leandro)[ 1 ] ; Reel, P (Reel, Parminder)[ 1 ] ; Groves, M (Groves, Martin)[ 1 ] ; Appleby, P (Appleby, Philip)[ 1 ] ...More
+","Article
+","e.r.jefferson@dundee.ac.uk
+","['Funding Agency Grant Number\n', 'Farr Institute of Health Informatics Research   \n', 'Dundee University Medical School   \n', 'Medical Research Council (MRC)Medical Research Council UK (MRC) \n', 'MR/M501633/1 \n', 'Wellcome Trust through the Scottish Health Informatics Programme (SHIP) \n', 'WT086113 \n', ""European Union's Horizon 2020 research and innovation programme \n"", '633 983 \n', 'View funding text   \n']","INFORMATICS
+"," MAY 22 2018
+","OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+"," Jefferson, E (reprint author)
+","Life Sciences & Biomedicine - Other Topics; Science & Technology - Other Topics
+","The research data management platform (RDMP): A novel, process driven, open-source tool for the management of longitudinal cohorts of clinical data
+","GIGASCIENCE
+","Biology; Multidisciplinary Sciences
+"
+"Cytokine interleukin 33 (IL-33) is constitutively expressed by epithelial barrier cells, and promotes the development of humoral immune responses. Along with other proinflammatory mediators released by the epithelium of airways and lungs, it plays an important role in a number of respiratory pathologies. In particular, IL-33 significantly contributes to pathogenesis of allergy and asthma; genetic variations in the IL33 locus are associated with increased susceptibility to asthma. Large-scale genome-wide association studies have identified minor G allele of the single-nucleotide polymorphism rs928413, located in the IL33 promoter area, as a susceptible variant for early childhood and atopic asthma development. Here, we demonstrate that the rs928413(G) allele creates a binding site for the cAMP response element-binding protein 1 (CREB1) transcription factor. In a pulmonary epithelial cell line, activation of CREB1, presumably via the p38 mitogen-activated protein kinases (MAPK) cascade, activates the IL33 promoter containing the rs928413(G) allele specifically and in a CREB1-dependent manner. This mechanism may explain the negative effect of the rs928413 minor G allele on asthma development.
+","
+","asthma; lung epithelium; inflammation; p38 MAPK pathway
+","Gorbacheva, AM (Gorbacheva, Alisa M.)[ 1,2 ] ; Korneev, KV (Korneev, Kirill V.)[ 1,2 ] ; Kuprash, DV (Kuprash, Dmitry V.)[ 1,2 ] ; Mitkin, NA (Mitkin, Nikita A.)[ 1 ]
+","Article
+","alisamur93@mail.ru; kirkorneev@yandex.ru; kuprash@gmail.com; mitkin.n.a@gmail.com
+","['Funding Agency Grant Number\n', 'Russian Science FoundationRussian Science Foundation (RSF) \n', '14-14-01140 \n', 'Program of fundamental research for state academies \n', '01201363823 \n', 'View funding text   \n']","HOUSE-DUST MITE; TRANSCRIPTION FACTOR FOXF2; REGULATES TNF-ALPHA; TOLL-LIKE RECEPTORS; ALLERGIC-ASTHMA; AIRWAY INFLAMMATION; TYPE-2 IMMUNITY; ANTI-IL-33 ANTIBODY; DENDRITIC CELLS; LYMPHOID-CELLS
+"," OCT 2018
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Mitkin, NA (reprint author)
+","Biochemistry & Molecular Biology; Chemistry
+","The Risk G Allele of the Single-Nucleotide Polymorphism rs928413 Creates a CREB1-Binding Site That Activates IL33 Promoter in Lung Epithelial Cells
+","INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+","Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+"
+"Recent trends toward outsourcing and global sourcing have created longer, more complex and more fragmented supply chains. In this research, we aim to instigate a theoretical development of multi-tier supply chain (MSC) management by adopting an inductive case study research design. Following a multiple case research design, we investigate three-tier supply chains to develop a theory of MSC management. Each of the investigated supply chains consists of a buyer, supplier and supplier's supplier. Based on the case studies, propositions are built concerning how MSCs operate. As an underlying methodology, we first conduct a within-case analysis and then expand that analysis to the cross-case context. The results show the impact that the dynamics of the MSC have on power balance, structure, interdependence and relationship stability inherent in MSCs.
+","
+","multi-tier supply chain management; buyer; supplier relationships; triadic relationships; partnering; supplier management; networks; case studies; qualitative data analysis; inductive research
+","Mena, C (Mena, Carlos)[ 1 ] ; Humphries, A (Humphries, Andrew); Choi, TY (Choi, Thomas Y.)[ 2 ]
+","Article
+",,,"SUSTAINED COMPETITIVE ADVANTAGE; COMPLEX ADAPTIVE SYSTEMS; INDUSTRIAL DYNAMICS; BUILDING THEORIES; NETWORK THEORY; FIRM; TRIADS; PERSPECTIVE; BUSINESS; VIEW
+"," 2013
+","WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+"," Mena, C (reprint author)
+","Business & Economics
+","Toward a Theory of Multi-Tier Supply Chain Management
+","JOURNAL OF SUPPLY CHAIN MANAGEMENT
+","Management
+"
+"Change management or configuration management is becoming necessity for every facet of software system development. Traceability of objects i.e. artifacts or information units becomes core talent for authentic determination of the parametric information over the explicit instance of time. This paper presents the evolving and useful concept of traceability management wrapped in change management paradigm that provides perception for requirement analysis phase. We have analyzed the patient data requirements workflow model with respect to the traceability management process. We have proposed a new approach for better traceability of patient data management model (PDMM) for identification and realization of trace relationships within requirements (IRTRR) in healthcare environment. We have named the model as PDMM-IRTRR framework. The key activities represented in the proposed framework are also highlighted.
+","
+","configuration; traceability; requirements; ICT; software; management; healthcare; information system
+","Burney, SMA (Burney, S. M. Aqil)[ 1 ] ; Saleem, H (Saleem, Hussain)[ 1 ] ; Mahmood, N (Mahmood, Nadeem)[ 1 ] ; Jilani, TA (Jilani, Tahseen A.)[ 1 ]
+","Proceedings Paper
+","burney@uok.edu.pk; hussainsaleem@uok.edu.pk; nmahmood@uok.edu.pk; tahseenjilani@uok.edu.pk
+",,," 2010
+","IEEE, 345 E 47TH ST, NEW YORK, NY 10017 USA
+"," Burney, SMA (reprint author)
+","Computer Science; Engineering
+","Traceability Management Framework for Patient Data in Healthcare Environment
+","ICCSIT 2010 - 3RD IEEE INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE AND INFORMATION TECHNOLOGY, VOL 2
+","Computer Science, Information Systems; Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+"
+"Korean offshore oil and gas (O&G) mega project contractors have recently suffered massive deficits due to the challenges and risks inherent to the offshore engineering, procurement, and construction (EPC) of megaprojects. This has resulted in frequent prolonged projects, schedule delay, and consequently significant cost overruns. Existing literature has identified one of the major causes of project delays to be the lack of adequate tools or techniques to diagnose the appropriateness and sufficiency of the contract deadline proposed by project owners prior to signing the contract in the bid. As such, this paper seeks to propose appropriate or correct project durations using the research methodology of text mining for bid documents. With the emergence of big data' research, text mining has become an acceptable research strategy, having already been utilized in various industries including medicine, legal, and securities. In this study the scope of work (SOW), as a main part of EPC contracts is analyzed using text mining processes in a sequence of pre-processing, structuring, and normalizing. Lessons learned, collected from 13 executed off shore EPC projects, are then used to reinforce the findings from said process. For this study, critical terms (CT), representing the root of past problems, are selected from the reports of lessons learned. The occurrence of the CT in the SOW are then counted and converted to a schedule delay risk index (SDRI) for the sample projects. The measured SDRI of each sample project are then correlated to the project's actual schedule delay via regression analysis. The resultant regression model is entitled the schedule delay estimate model (SDEM) for this paper based on the case studies. Finally, the developed SDEM's accuracy is validated through its use to predict schedule delays on recently executed projects with the findings being compared with actual schedule performance. This study found the relationship between the SDRI, frequency of CTs in the SOW, and delays to be represented by the regression formula. Through assessing its performance with respect to the 13th project, said formula was found to have an accuracy of 81%. As can be seen, this study found that more CTs in the SOW leads to a higher tendency for a schedule delay. Therefore, a higher project SDRI implies that there are more issues on projects which required more time to resolve them. While the low number of projects used to develop the model reduces its generalizability, the text mining research methodology used to quantitatively estimate project schedule delay can be generalized and applied to other industries where contractual documents and information regarding lessons learned are available.
+","
+","offshore oil and gas; EPC Project; text mining; regression analysis; schedule performance; contract analysis; lessons learned
+","Son, BY (Son, Byung-Yun)[ 1,2 ] ; Lee, EB (Lee, Eul-Bum)[ 2,3 ]
+","Article
+","byson@postech.ac.kr; dreblee@postech.ac.kr
+","['Funding Agency Grant Number\n', 'Ministry of Trade Industry and Energy (MOTIE/KEIT) Korea through the Technology Innovation Program \n', '20002806 \n', '10077606 \n', 'View funding text   \n']","COST; MAINTENANCE
+"," MAY 2 2019
+","MDPI, ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+"," Lee, EB (reprint author)
+","Energy & Fuels
+","Using Text Mining to Estimate Schedule Delay Risk of 13 Offshore Oil and Gas EPC Case Studies During the Bidding Process
+","ENERGIES
+","Energy & Fuels
+"
